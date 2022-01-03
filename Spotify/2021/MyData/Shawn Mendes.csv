@@ -1,0 +1,808 @@
+endTime,artistName,trackName,Day,Week,Month,Minutes Played
+2021-01-11 16:20:00,Shawn Mendes,Monster (Shawn Mendes & Justin Bieber),11,2,1,1.41
+2021-01-11 16:38:00,Shawn Mendes,Wonder,11,2,1,0.51
+2021-01-11 16:39:00,Shawn Mendes,Señorita,11,2,1,0.63
+2021-01-11 16:44:00,Shawn Mendes,Treat You Better,11,2,1,3.13
+2021-01-11 16:45:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,2,1,1.13
+2021-01-13 14:26:00,Shawn Mendes,Treat You Better,13,2,1,0.65
+2021-01-13 14:26:00,Shawn Mendes,There's Nothing Holdin' Me Back,13,2,1,2.37
+2021-01-13 14:28:00,Shawn Mendes,Wonder,13,2,1,0.62
+2021-01-13 14:30:00,Shawn Mendes,Monster (Shawn Mendes & Justin Bieber),13,2,1,2.04
+2021-01-13 14:31:00,Shawn Mendes,In My Blood,13,2,1,1.45
+2021-01-13 14:33:00,Shawn Mendes,Nervous,13,2,1,1.73
+2021-01-13 14:34:00,Shawn Mendes,A Little Too Much,13,2,1,1.06
+2021-01-13 14:36:00,Shawn Mendes,Stitches,13,2,1,1.45
+2021-01-13 14:37:00,Shawn Mendes,If I Can't Have You,13,2,1,1.09
+2021-01-13 14:38:00,Shawn Mendes,Where Were You In The Morning?,13,2,1,1.46
+2021-01-13 14:39:00,Shawn Mendes,Mercy,13,2,1,0.81
+2021-01-13 14:41:00,Shawn Mendes,Fallin' All In You,13,2,1,1.92
+2021-01-13 14:43:00,Shawn Mendes,Don't Be A Fool,13,2,1,2.1
+2021-01-13 14:45:00,Shawn Mendes,Perfectly Wrong,13,2,1,1.81
+2021-01-13 14:49:00,Shawn Mendes,Señorita,13,2,1,3.18
+2021-01-13 14:52:00,Shawn Mendes,Treat You Better,13,2,1,2.67
+2021-01-14 15:46:00,Shawn Mendes,Señorita,14,2,1,3.18
+2021-01-15 01:48:00,Shawn Mendes,Señorita,15,2,1,3.18
+2021-01-15 04:49:00,Shawn Mendes,Señorita,15,2,1,3.18
+2021-01-15 14:51:00,Shawn Mendes,Señorita,15,2,1,3.18
+2021-01-15 15:18:00,Shawn Mendes,Señorita,15,2,1,3.18
+2021-01-15 15:42:00,Shawn Mendes,Señorita,15,2,1,3.18
+2021-01-15 15:49:00,Shawn Mendes,There's Nothing Holdin' Me Back,15,2,1,1.87
+2021-01-15 15:50:00,Shawn Mendes,Stitches,15,2,1,1.02
+2021-01-15 16:12:00,Shawn Mendes,Señorita,15,2,1,0.79
+2021-01-16 02:20:00,Shawn Mendes,Señorita,16,2,1,3.31
+2021-01-16 02:50:00,Shawn Mendes,There's Nothing Holdin' Me Back,16,2,1,3.32
+2021-01-16 04:15:00,Shawn Mendes,Señorita,16,2,1,3.18
+2021-01-16 04:18:00,Shawn Mendes,Where Were You In The Morning?,16,2,1,3.0
+2021-01-16 04:22:00,Shawn Mendes,Señorita,16,2,1,3.18
+2021-01-16 05:57:00,Shawn Mendes,Señorita,16,2,1,3.18
+2021-01-16 06:07:00,Shawn Mendes,Treat You Better,16,2,1,3.13
+2021-01-16 13:24:00,Shawn Mendes,Señorita,16,2,1,3.18
+2021-01-16 14:22:00,Shawn Mendes,Mercy,16,2,1,2.16
+2021-01-16 14:26:00,Shawn Mendes,There's Nothing Holdin' Me Back,16,2,1,3.32
+2021-01-16 14:29:00,Shawn Mendes,Señorita,16,2,1,3.18
+2021-01-16 14:57:00,Shawn Mendes,Treat You Better,16,2,1,0.59
+2021-01-17 01:48:00,Shawn Mendes,Treat You Better,17,2,1,2.56
+2021-01-17 13:26:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,2,1,3.32
+2021-01-17 13:37:00,Shawn Mendes,Treat You Better,17,2,1,3.13
+2021-01-17 13:40:00,Shawn Mendes,Señorita,17,2,1,3.18
+2021-01-17 13:46:00,Shawn Mendes,Mercy,17,2,1,2.11
+2021-01-17 13:58:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,2,1,3.32
+2021-01-17 14:06:00,Shawn Mendes,Treat You Better,17,2,1,3.13
+2021-01-17 14:10:00,Shawn Mendes,Mercy,17,2,1,0.54
+2021-01-17 14:32:00,Shawn Mendes,Mercy,17,2,1,2.25
+2021-01-18 04:29:00,Shawn Mendes,Mercy,18,3,1,3.48
+2021-01-18 13:27:00,Shawn Mendes,Señorita,18,3,1,3.18
+2021-01-18 13:30:00,Shawn Mendes,Mercy,18,3,1,3.48
+2021-01-18 13:57:00,Shawn Mendes,There's Nothing Holdin' Me Back,18,3,1,5.77
+2021-01-18 14:08:00,Shawn Mendes,Señorita,18,3,1,3.18
+2021-01-18 14:13:00,Shawn Mendes,Mercy,18,3,1,3.48
+2021-01-19 00:54:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 01:09:00,Shawn Mendes,There's Nothing Holdin' Me Back,19,3,1,3.32
+2021-01-19 04:23:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 04:42:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 06:33:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 07:06:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 07:32:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 07:50:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 10:50:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 11:10:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 11:20:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-19 14:53:00,Shawn Mendes,Señorita,19,3,1,3.18
+2021-01-20 00:44:00,Shawn Mendes,Señorita,20,3,1,3.18
+2021-01-20 01:04:00,Shawn Mendes,Señorita,20,3,1,0.86
+2021-01-20 09:33:00,Shawn Mendes,Señorita,20,3,1,3.18
+2021-01-20 09:49:00,Shawn Mendes,There's Nothing Holdin' Me Back,20,3,1,3.32
+2021-01-20 11:03:00,Shawn Mendes,Señorita,20,3,1,3.18
+2021-01-20 11:29:00,Shawn Mendes,Señorita,20,3,1,3.18
+2021-01-20 14:07:00,Shawn Mendes,Señorita,20,3,1,3.18
+2021-01-20 14:22:00,Shawn Mendes,Señorita,20,3,1,3.18
+2021-01-20 14:44:00,Shawn Mendes,Señorita,20,3,1,2.74
+2021-01-21 04:26:00,Shawn Mendes,Señorita,21,3,1,3.18
+2021-01-21 06:21:00,Shawn Mendes,Señorita,21,3,1,3.18
+2021-01-21 08:17:00,Shawn Mendes,Señorita,21,3,1,1.02
+2021-01-21 08:27:00,Shawn Mendes,Señorita,21,3,1,2.16
+2021-01-21 10:13:00,Shawn Mendes,Señorita,21,3,1,3.18
+2021-01-21 11:27:00,Shawn Mendes,Señorita,21,3,1,3.18
+2021-01-21 15:14:00,Shawn Mendes,Señorita,21,3,1,3.18
+2021-01-21 16:02:00,Shawn Mendes,Señorita,21,3,1,3.18
+2021-01-22 04:14:00,Shawn Mendes,Señorita,22,3,1,3.18
+2021-01-22 07:04:00,Shawn Mendes,Señorita,22,3,1,1.01
+2021-01-22 07:33:00,Shawn Mendes,Señorita,22,3,1,3.18
+2021-01-22 08:31:00,Shawn Mendes,Señorita,22,3,1,3.18
+2021-01-22 10:36:00,Shawn Mendes,Señorita,22,3,1,3.18
+2021-01-22 11:30:00,Shawn Mendes,Señorita,22,3,1,3.18
+2021-01-23 01:15:00,Shawn Mendes,Señorita,23,3,1,3.18
+2021-01-23 04:50:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 05:13:00,Shawn Mendes,Perfectly Wrong,23,3,1,0.94
+2021-01-23 05:35:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 05:38:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 05:46:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,3,1,3.32
+2021-01-23 06:23:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 06:27:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 07:14:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 07:17:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 07:29:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,3,1,3.32
+2021-01-23 08:16:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 08:20:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 08:21:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,3,1,1.74
+2021-01-23 08:29:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 08:36:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 08:52:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 08:59:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 09:20:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,5.71
+2021-01-23 09:27:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 09:46:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 09:53:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 10:09:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 10:22:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 10:41:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 10:59:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,5.75
+2021-01-23 11:36:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 11:53:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 12:16:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 13:42:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 13:59:00,Shawn Mendes,Mercy,23,3,1,3.48
+2021-01-23 14:06:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-23 14:16:00,Shawn Mendes,Where Were You In The Morning?,23,3,1,3.34
+2021-01-24 02:43:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 02:52:00,Shawn Mendes,Mercy,24,3,1,3.48
+2021-01-24 03:17:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 03:27:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 03:37:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 03:40:00,Shawn Mendes,Mercy,24,3,1,3.48
+2021-01-24 04:30:00,Shawn Mendes,Mercy,24,3,1,3.48
+2021-01-24 04:33:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 05:02:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 05:41:00,Shawn Mendes,Mercy,24,3,1,3.48
+2021-01-24 05:44:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 07:09:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 12:42:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 12:48:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 13:18:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 13:58:00,Shawn Mendes,Where Were You In The Morning?,24,3,1,3.34
+2021-01-24 14:28:00,Shawn Mendes,Mercy,24,3,1,3.48
+2021-01-25 01:35:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 01:41:00,Shawn Mendes,Mercy,25,4,1,3.48
+2021-01-25 01:54:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 02:14:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,4,1,3.32
+2021-01-25 02:57:00,Shawn Mendes,Mercy,25,4,1,1.11
+2021-01-25 03:31:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 03:41:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 03:59:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 04:33:00,Shawn Mendes,Mercy,25,4,1,3.48
+2021-01-25 04:54:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 05:04:00,Shawn Mendes,Mercy,25,4,1,3.48
+2021-01-25 05:10:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 05:44:00,Shawn Mendes,Mercy,25,4,1,0.63
+2021-01-25 06:29:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 06:55:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 07:02:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-25 09:25:00,Shawn Mendes,Mercy,25,4,1,1.21
+2021-01-25 10:55:00,Shawn Mendes,Where Were You In The Morning?,25,4,1,3.34
+2021-01-26 02:15:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,3.34
+2021-01-26 02:28:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,3.34
+2021-01-26 02:48:00,Shawn Mendes,Mercy,26,4,1,2.24
+2021-01-26 02:59:00,Shawn Mendes,Mercy,26,4,1,1.25
+2021-01-26 05:12:00,Shawn Mendes,Señorita,26,4,1,3.18
+2021-01-26 06:07:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,3.34
+2021-01-26 09:41:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,3.34
+2021-01-26 12:16:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,3.34
+2021-01-26 13:27:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,2.82
+2021-01-26 14:27:00,Shawn Mendes,Where Were You In The Morning?,26,4,1,0.53
+2021-01-27 00:56:00,Shawn Mendes,Where Were You In The Morning?,27,4,1,3.34
+2021-01-27 01:11:00,Shawn Mendes,Mercy,27,4,1,3.48
+2021-01-27 01:32:00,Shawn Mendes,Mercy,27,4,1,3.48
+2021-01-27 01:41:00,Shawn Mendes,There's Nothing Holdin' Me Back,27,4,1,3.32
+2021-01-27 01:52:00,Shawn Mendes,Where Were You In The Morning?,27,4,1,3.34
+2021-01-27 11:56:00,Shawn Mendes,Where Were You In The Morning?,27,4,1,3.34
+2021-01-27 12:37:00,Shawn Mendes,Where Were You In The Morning?,27,4,1,3.34
+2021-01-28 00:33:00,Shawn Mendes,Where Were You In The Morning?,28,4,1,3.34
+2021-01-28 03:48:00,Shawn Mendes,Where Were You In The Morning?,28,4,1,3.34
+2021-01-28 04:34:00,Shawn Mendes,Where Were You In The Morning?,28,4,1,3.34
+2021-01-28 06:57:00,Shawn Mendes,Where Were You In The Morning?,28,4,1,3.34
+2021-01-29 12:00:00,Shawn Mendes,Mercy,29,4,1,3.48
+2021-01-29 23:13:00,Shawn Mendes,Señorita,29,4,1,3.18
+2021-01-30 00:17:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.3
+2021-01-30 00:21:00,Shawn Mendes,Mercy,30,4,1,3.48
+2021-01-30 00:48:00,Shawn Mendes,Mercy,30,4,1,3.48
+2021-01-30 02:21:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,4,1,3.32
+2021-01-30 02:24:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.34
+2021-01-30 03:02:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.34
+2021-01-30 03:29:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.34
+2021-01-30 04:09:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.34
+2021-01-30 04:37:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.34
+2021-01-30 05:01:00,Shawn Mendes,Mercy,30,4,1,3.48
+2021-01-30 05:04:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,4,1,3.32
+2021-01-30 05:19:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,3.34
+2021-01-30 12:08:00,Shawn Mendes,Where Were You In The Morning?,30,4,1,2.29
+2021-02-01 11:55:00,Shawn Mendes,Señorita,1,5,2,3.18
+2021-02-01 12:36:00,Shawn Mendes,Where Were You In The Morning?,1,5,2,3.34
+2021-02-01 12:52:00,Shawn Mendes,Mercy,1,5,2,3.48
+2021-02-01 14:25:00,Shawn Mendes,Where Were You In The Morning?,1,5,2,3.34
+2021-02-02 01:29:00,Shawn Mendes,Señorita,2,5,2,3.18
+2021-02-02 02:03:00,Shawn Mendes,Where Were You In The Morning?,2,5,2,3.34
+2021-02-02 09:52:00,Shawn Mendes,Where Were You In The Morning?,2,5,2,3.34
+2021-02-02 11:24:00,Shawn Mendes,Where Were You In The Morning?,2,5,2,3.34
+2021-02-02 11:41:00,Shawn Mendes,Where Were You In The Morning?,2,5,2,3.34
+2021-02-03 08:30:00,Shawn Mendes,Señorita,3,5,2,3.18
+2021-02-03 08:51:00,Shawn Mendes,Señorita,3,5,2,3.18
+2021-02-03 09:03:00,Shawn Mendes,Mercy,3,5,2,3.48
+2021-02-03 11:39:00,Shawn Mendes,Señorita,3,5,2,3.18
+2021-02-03 12:13:00,Shawn Mendes,Mercy,3,5,2,1.13
+2021-02-03 12:31:00,Shawn Mendes,Mercy,3,5,2,2.35
+2021-02-04 05:36:00,Shawn Mendes,Señorita,4,5,2,3.18
+2021-02-04 05:40:00,Shawn Mendes,Mercy,4,5,2,3.48
+2021-02-04 08:21:00,Shawn Mendes,Where Were You In The Morning?,4,5,2,3.34
+2021-02-04 08:32:00,Shawn Mendes,Señorita,4,5,2,3.18
+2021-02-04 14:28:00,Shawn Mendes,Mercy,4,5,2,2.66
+2021-02-04 14:49:00,Shawn Mendes,Mercy,4,5,2,0.82
+2021-02-05 02:46:00,Shawn Mendes,Where Were You In The Morning?,5,5,2,3.34
+2021-02-05 06:41:00,Shawn Mendes,Where Were You In The Morning?,5,5,2,3.34
+2021-02-05 07:19:00,Shawn Mendes,Señorita,5,5,2,3.18
+2021-02-05 08:07:00,Shawn Mendes,Where Were You In The Morning?,5,5,2,3.34
+2021-02-05 10:09:00,Shawn Mendes,Where Were You In The Morning?,5,5,2,3.34
+2021-02-05 13:44:00,Shawn Mendes,Where Were You In The Morning?,5,5,2,4.85
+2021-02-06 00:39:00,Shawn Mendes,Where Were You In The Morning?,6,5,2,3.34
+2021-02-06 03:45:00,Shawn Mendes,Where Were You In The Morning?,6,5,2,3.34
+2021-02-06 04:29:00,Shawn Mendes,Where Were You In The Morning?,6,5,2,3.34
+2021-02-06 07:12:00,Shawn Mendes,Señorita,6,5,2,3.18
+2021-02-06 07:56:00,Shawn Mendes,Where Were You In The Morning?,6,5,2,3.34
+2021-02-06 08:08:00,Shawn Mendes,Mercy,6,5,2,3.48
+2021-02-07 03:29:00,Shawn Mendes,Where Were You In The Morning?,7,5,2,3.34
+2021-02-07 04:18:00,Shawn Mendes,Where Were You In The Morning?,7,5,2,3.34
+2021-02-07 05:13:00,Shawn Mendes,Where Were You In The Morning?,7,5,2,3.34
+2021-02-07 06:11:00,Shawn Mendes,Mercy,7,5,2,3.48
+2021-02-07 09:15:00,Shawn Mendes,Where Were You In The Morning?,7,5,2,3.34
+2021-02-07 09:46:00,Shawn Mendes,Mercy,7,5,2,3.48
+2021-02-07 10:20:00,Shawn Mendes,Where Were You In The Morning?,7,5,2,3.34
+2021-02-07 10:51:00,Shawn Mendes,Mercy,7,5,2,3.48
+2021-02-07 13:25:00,Shawn Mendes,Mercy,7,5,2,3.48
+2021-02-07 13:35:00,Shawn Mendes,Where Were You In The Morning?,7,5,2,3.34
+2021-02-08 04:21:00,Shawn Mendes,Where Were You In The Morning?,8,6,2,3.34
+2021-02-08 10:30:00,Shawn Mendes,Mercy,8,6,2,3.48
+2021-02-08 10:40:00,Shawn Mendes,Where Were You In The Morning?,8,6,2,3.34
+2021-02-08 12:29:00,Shawn Mendes,Where Were You In The Morning?,8,6,2,3.34
+2021-02-08 14:48:00,Shawn Mendes,Where Were You In The Morning?,8,6,2,3.26
+2021-02-09 04:21:00,Shawn Mendes,Where Were You In The Morning?,9,6,2,3.34
+2021-02-09 05:31:00,Shawn Mendes,Where Were You In The Morning?,9,6,2,3.34
+2021-02-09 06:36:00,Shawn Mendes,Where Were You In The Morning?,9,6,2,3.34
+2021-02-09 07:12:00,Shawn Mendes,Mercy,9,6,2,1.81
+2021-02-09 15:00:00,Shawn Mendes,Where Were You In The Morning?,9,6,2,0.65
+2021-02-09 15:29:00,Shawn Mendes,Where Were You In The Morning?,9,6,2,2.63
+2021-02-10 04:25:00,Shawn Mendes,Where Were You In The Morning?,10,6,2,3.34
+2021-02-10 13:35:00,Shawn Mendes,Where Were You In The Morning?,10,6,2,0.99
+2021-02-10 16:32:00,Shawn Mendes,Where Were You In The Morning?,10,6,2,2.31
+2021-02-11 01:42:00,Shawn Mendes,Señorita,11,6,2,3.18
+2021-02-11 13:36:00,Shawn Mendes,Señorita,11,6,2,3.18
+2021-02-12 11:08:00,Shawn Mendes,Mercy,12,6,2,3.48
+2021-02-12 14:27:00,Shawn Mendes,Where Were You In The Morning?,12,6,2,3.34
+2021-02-13 00:51:00,Shawn Mendes,Mercy,13,6,2,3.48
+2021-02-13 06:32:00,Shawn Mendes,Where Were You In The Morning?,13,6,2,3.34
+2021-02-13 23:51:00,Shawn Mendes,Where Were You In The Morning?,13,6,2,3.34
+2021-02-14 01:07:00,Shawn Mendes,Where Were You In The Morning?,14,6,2,3.34
+2021-02-14 01:39:00,Shawn Mendes,Where Were You In The Morning?,14,6,2,3.34
+2021-02-14 09:18:00,Shawn Mendes,Where Were You In The Morning?,14,6,2,3.34
+2021-02-14 09:53:00,Shawn Mendes,Where Were You In The Morning?,14,6,2,1.49
+2021-02-14 11:38:00,Shawn Mendes,Where Were You In The Morning?,14,6,2,3.34
+2021-02-15 00:23:00,Shawn Mendes,Where Were You In The Morning?,15,7,2,3.34
+2021-02-15 01:25:00,Shawn Mendes,Mercy,15,7,2,3.48
+2021-02-15 02:06:00,Shawn Mendes,Where Were You In The Morning?,15,7,2,3.34
+2021-02-15 02:40:00,Shawn Mendes,Mercy,15,7,2,3.48
+2021-02-15 04:22:00,Shawn Mendes,Where Were You In The Morning?,15,7,2,3.34
+2021-02-15 05:02:00,Shawn Mendes,Mercy,15,7,2,3.48
+2021-02-15 07:41:00,Shawn Mendes,Where Were You In The Morning?,15,7,2,3.34
+2021-02-15 13:02:00,Shawn Mendes,Mercy,15,7,2,3.48
+2021-02-15 14:11:00,Shawn Mendes,Where Were You In The Morning?,15,7,2,3.34
+2021-02-15 14:51:00,Shawn Mendes,Mercy,15,7,2,2.71
+2021-02-16 11:12:00,Shawn Mendes,Where Were You In The Morning?,16,7,2,3.34
+2021-02-16 13:48:00,Shawn Mendes,There's Nothing Holdin' Me Back,16,7,2,0.89
+2021-02-16 15:30:00,Shawn Mendes,There's Nothing Holdin' Me Back,16,7,2,5.41
+2021-02-16 15:37:00,Shawn Mendes,Mercy,16,7,2,3.48
+2021-02-16 15:44:00,Shawn Mendes,Señorita,16,7,2,3.18
+2021-02-16 15:51:00,Shawn Mendes,Where Were You In The Morning?,16,7,2,3.34
+2021-02-17 00:38:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,7,2,3.32
+2021-02-17 00:45:00,Shawn Mendes,Mercy,17,7,2,3.48
+2021-02-17 00:48:00,Shawn Mendes,Señorita,17,7,2,3.18
+2021-02-17 00:56:00,Shawn Mendes,Where Were You In The Morning?,17,7,2,3.34
+2021-02-17 03:42:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,7,2,3.32
+2021-02-17 03:57:00,Shawn Mendes,Señorita,17,7,2,2.64
+2021-02-17 08:10:00,Shawn Mendes,Señorita,17,7,2,0.55
+2021-02-17 09:22:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,7,2,3.32
+2021-02-17 09:26:00,Shawn Mendes,Mercy,17,7,2,3.48
+2021-02-17 09:33:00,Shawn Mendes,Señorita,17,7,2,3.18
+2021-02-17 11:44:00,Shawn Mendes,Where Were You In The Morning?,17,7,2,1.94
+2021-02-17 12:44:00,Shawn Mendes,Mercy,17,7,2,3.48
+2021-02-17 13:09:00,Shawn Mendes,Señorita,17,7,2,3.18
+2021-02-17 15:07:00,Shawn Mendes,Señorita,17,7,2,3.18
+2021-02-18 10:43:00,Shawn Mendes,Where Were You In The Morning?,18,7,2,3.34
+2021-02-18 11:04:00,Shawn Mendes,Mercy,18,7,2,3.48
+2021-02-18 11:39:00,Shawn Mendes,Señorita,18,7,2,5.61
+2021-02-18 14:50:00,Shawn Mendes,Where Were You In The Morning?,18,7,2,3.34
+2021-02-18 15:06:00,Shawn Mendes,Mercy,18,7,2,3.48
+2021-02-19 08:30:00,Shawn Mendes,Señorita,19,7,2,3.18
+2021-02-19 08:45:00,Shawn Mendes,Mercy,19,7,2,3.48
+2021-02-19 08:48:00,Shawn Mendes,Where Were You In The Morning?,19,7,2,3.34
+2021-02-19 12:04:00,Shawn Mendes,There's Nothing Holdin' Me Back,19,7,2,3.32
+2021-02-19 12:38:00,Shawn Mendes,Mercy,19,7,2,3.48
+2021-02-19 12:41:00,Shawn Mendes,Señorita,19,7,2,3.18
+2021-02-19 12:47:00,Shawn Mendes,Where Were You In The Morning?,19,7,2,3.34
+2021-02-19 12:51:00,Shawn Mendes,There's Nothing Holdin' Me Back,19,7,2,3.32
+2021-02-19 14:04:00,Shawn Mendes,Señorita,19,7,2,3.18
+2021-02-19 14:25:00,Shawn Mendes,Where Were You In The Morning?,19,7,2,1.05
+2021-02-19 14:35:00,Shawn Mendes,Mercy,19,7,2,0.98
+2021-02-19 14:42:00,Shawn Mendes,Where Were You In The Morning?,19,7,2,3.34
+2021-02-20 07:53:00,Shawn Mendes,There's Nothing Holdin' Me Back,20,7,2,3.32
+2021-02-20 08:47:00,Shawn Mendes,Mercy,20,7,2,3.48
+2021-02-20 09:13:00,Shawn Mendes,There's Nothing Holdin' Me Back,20,7,2,3.32
+2021-02-20 09:52:00,Shawn Mendes,Where Were You In The Morning?,20,7,2,3.34
+2021-02-20 09:55:00,Shawn Mendes,Señorita,20,7,2,3.18
+2021-02-20 10:48:00,Shawn Mendes,Where Were You In The Morning?,20,7,2,3.34
+2021-02-20 11:02:00,Shawn Mendes,Mercy,20,7,2,3.48
+2021-02-20 12:14:00,Shawn Mendes,Señorita,20,7,2,3.18
+2021-02-20 12:29:00,Shawn Mendes,Where Were You In The Morning?,20,7,2,3.34
+2021-02-20 15:20:00,Shawn Mendes,Where Were You In The Morning?,20,7,2,3.34
+2021-02-20 15:33:00,Shawn Mendes,There's Nothing Holdin' Me Back,20,7,2,3.32
+2021-02-20 16:21:00,Shawn Mendes,Mercy,20,7,2,1.34
+2021-02-20 16:24:00,Shawn Mendes,Señorita,20,7,2,3.18
+2021-02-21 02:30:00,Shawn Mendes,Mercy,21,7,2,3.48
+2021-02-21 03:01:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,7,2,3.32
+2021-02-21 03:07:00,Shawn Mendes,Where Were You In The Morning?,21,7,2,2.25
+2021-02-21 03:08:00,Shawn Mendes,Where Were You In The Morning?,21,7,2,1.07
+2021-02-21 03:53:00,Shawn Mendes,Señorita,21,7,2,3.18
+2021-02-21 04:39:00,Shawn Mendes,Señorita,21,7,2,3.18
+2021-02-21 07:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,7,2,2.53
+2021-02-21 09:19:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,7,2,3.39
+2021-02-21 10:01:00,Shawn Mendes,Señorita,21,7,2,3.18
+2021-02-21 12:11:00,Shawn Mendes,Señorita,21,7,2,3.18
+2021-02-21 13:15:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,7,2,3.32
+2021-02-22 14:07:00,Shawn Mendes,Mercy,22,8,2,0.58
+2021-02-22 14:13:00,Shawn Mendes,Where Were You In The Morning?,22,8,2,0.76
+2021-02-22 14:39:00,Shawn Mendes,Where Were You In The Morning?,22,8,2,3.34
+2021-02-23 02:30:00,Shawn Mendes,Mercy,23,8,2,3.48
+2021-02-23 02:34:00,Shawn Mendes,Where Were You In The Morning?,23,8,2,3.27
+2021-02-23 06:07:00,Shawn Mendes,Where Were You In The Morning?,23,8,2,3.34
+2021-02-23 06:21:00,Shawn Mendes,Mercy,23,8,2,3.48
+2021-02-23 07:27:00,Shawn Mendes,Señorita,23,8,2,3.18
+2021-02-23 07:48:00,Shawn Mendes,Where Were You In The Morning?,23,8,2,3.34
+2021-02-23 07:52:00,Shawn Mendes,Mercy,23,8,2,3.48
+2021-02-23 07:55:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,8,2,3.32
+2021-02-23 11:36:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,8,2,3.32
+2021-02-23 11:50:00,Shawn Mendes,Where Were You In The Morning?,23,8,2,1.09
+2021-02-23 11:52:00,Shawn Mendes,Where Were You In The Morning?,23,8,2,2.25
+2021-02-23 11:55:00,Shawn Mendes,Señorita,23,8,2,3.18
+2021-02-23 12:04:00,Shawn Mendes,Mercy,23,8,2,1.13
+2021-02-23 12:07:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,8,2,3.32
+2021-02-23 12:17:00,Shawn Mendes,Where Were You In The Morning?,23,8,2,3.34
+2021-02-23 12:21:00,Shawn Mendes,Señorita,23,8,2,3.18
+2021-02-23 12:40:00,Shawn Mendes,Fallin' All In You,23,8,2,3.34
+2021-02-23 12:47:00,Shawn Mendes,Señorita,23,8,2,3.18
+2021-02-24 03:42:00,Shawn Mendes,Señorita,24,8,2,3.18
+2021-02-24 05:51:00,Shawn Mendes,There's Nothing Holdin' Me Back,24,8,2,3.32
+2021-02-24 06:06:00,Shawn Mendes,Where Were You In The Morning?,24,8,2,3.34
+2021-02-24 06:58:00,Shawn Mendes,Señorita,24,8,2,3.18
+2021-02-24 11:12:00,Shawn Mendes,If I Can't Have You,24,8,2,1.88
+2021-02-24 11:14:00,Shawn Mendes,Treat You Better,24,8,2,1.72
+2021-02-24 11:16:00,Shawn Mendes,Wonder,24,8,2,1.77
+2021-02-24 11:18:00,Shawn Mendes,24 Hours,24,8,2,1.49
+2021-02-24 11:21:00,Shawn Mendes,Teach Me How To Love,24,8,2,2.7
+2021-02-24 11:22:00,Shawn Mendes,Dream,24,8,2,0.53
+2021-02-24 11:23:00,Shawn Mendes,Always Been You,24,8,2,0.54
+2021-02-24 11:24:00,Shawn Mendes,Look Up At The Stars,24,8,2,0.55
+2021-02-24 11:25:00,Shawn Mendes,Can’t Imagine,24,8,2,0.87
+2021-02-24 11:27:00,Shawn Mendes,Can’t Take My Eyes Off You - BBC Live Version,24,8,2,1.78
+2021-02-24 13:31:00,Shawn Mendes,Where Were You In The Morning?,24,8,2,1.73
+2021-02-24 14:00:00,Shawn Mendes,There's Nothing Holdin' Me Back,24,8,2,0.67
+2021-02-24 15:02:00,Shawn Mendes,Señorita,24,8,2,3.18
+2021-02-24 15:08:00,Shawn Mendes,Mercy,24,8,2,2.22
+2021-02-24 15:23:00,Shawn Mendes,There's Nothing Holdin' Me Back,24,8,2,3.32
+2021-02-24 15:32:00,Shawn Mendes,Where Were You In The Morning?,24,8,2,1.1
+2021-02-25 02:33:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,8,2,3.32
+2021-02-25 02:42:00,Shawn Mendes,Where Were You In The Morning?,25,8,2,3.34
+2021-02-25 03:33:00,Shawn Mendes,Where Were You In The Morning?,25,8,2,3.34
+2021-02-25 03:47:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,8,2,3.32
+2021-02-25 06:27:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,8,2,3.32
+2021-02-25 06:43:00,Shawn Mendes,Señorita,25,8,2,3.18
+2021-02-25 07:21:00,Shawn Mendes,Where Were You In The Morning?,25,8,2,3.34
+2021-02-25 09:51:00,Shawn Mendes,Señorita,25,8,2,3.18
+2021-02-25 09:55:00,Shawn Mendes,Mercy,25,8,2,3.48
+2021-02-25 10:02:00,Shawn Mendes,Where Were You In The Morning?,25,8,2,3.34
+2021-02-25 10:22:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,8,2,3.32
+2021-02-25 13:26:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,8,2,2.87
+2021-02-26 03:50:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,8,2,3.32
+2021-02-26 03:56:00,Shawn Mendes,Where Were You In The Morning?,26,8,2,3.34
+2021-02-26 05:17:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,8,2,0.58
+2021-02-26 07:17:00,Shawn Mendes,Mercy,26,8,2,2.34
+2021-02-26 07:38:00,Shawn Mendes,Where Were You In The Morning?,26,8,2,3.14
+2021-02-26 11:10:00,Shawn Mendes,Señorita,26,8,2,3.18
+2021-02-26 11:30:00,Shawn Mendes,Where Were You In The Morning?,26,8,2,3.34
+2021-02-26 12:55:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,8,2,3.32
+2021-02-27 02:05:00,Shawn Mendes,There's Nothing Holdin' Me Back,27,8,2,3.32
+2021-02-27 02:27:00,Shawn Mendes,Where Were You In The Morning?,27,8,2,3.34
+2021-02-27 07:19:00,Shawn Mendes,Señorita,27,8,2,3.18
+2021-02-27 08:33:00,Shawn Mendes,Where Were You In The Morning?,27,8,2,3.34
+2021-02-27 10:46:00,Shawn Mendes,Wonder,27,8,2,1.8
+2021-02-28 07:05:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,8,2,3.32
+2021-02-28 13:47:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,8,2,3.32
+2021-02-28 14:14:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,8,2,3.32
+2021-03-01 02:11:00,Shawn Mendes,Where Were You In The Morning?,1,9,3,3.34
+2021-03-01 02:40:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,9,3,3.32
+2021-03-01 03:26:00,Shawn Mendes,Señorita,1,9,3,2.9
+2021-03-01 03:29:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,9,3,3.32
+2021-03-02 02:20:00,Shawn Mendes,There's Nothing Holdin' Me Back,2,9,3,3.32
+2021-03-02 07:20:00,Shawn Mendes,Where Were You In The Morning?,2,9,3,3.34
+2021-03-03 13:02:00,Shawn Mendes,Señorita,3,9,3,3.18
+2021-03-03 14:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,3,9,3,3.32
+2021-03-04 01:28:00,Shawn Mendes,Where Were You In The Morning?,4,9,3,3.34
+2021-03-04 02:53:00,Shawn Mendes,Where Were You In The Morning?,4,9,3,3.34
+2021-03-04 03:49:00,Shawn Mendes,Mercy,4,9,3,2.2
+2021-03-04 09:58:00,Shawn Mendes,Where Were You In The Morning?,4,9,3,3.34
+2021-03-05 02:28:00,Shawn Mendes,There's Nothing Holdin' Me Back,5,9,3,3.32
+2021-03-05 06:42:00,Shawn Mendes,Señorita,5,9,3,3.18
+2021-03-06 03:46:00,Shawn Mendes,Where Were You In The Morning?,6,9,3,3.34
+2021-03-06 06:45:00,Shawn Mendes,Señorita,6,9,3,3.18
+2021-03-06 13:58:00,Shawn Mendes,There's Nothing Holdin' Me Back,6,9,3,3.32
+2021-03-07 09:12:00,Shawn Mendes,There's Nothing Holdin' Me Back,7,9,3,3.32
+2021-03-07 09:34:00,Shawn Mendes,Mercy,7,9,3,3.48
+2021-03-07 14:55:00,Shawn Mendes,There's Nothing Holdin' Me Back,7,9,3,1.48
+2021-03-07 14:56:00,Shawn Mendes,Bad Reputation,7,9,3,0.52
+2021-03-07 15:23:00,Shawn Mendes,Don't Be A Fool,7,9,3,1.26
+2021-03-07 15:52:00,Shawn Mendes,There's Nothing Holdin' Me Back,7,9,3,3.32
+2021-03-07 15:55:00,Shawn Mendes,Treat You Better,7,9,3,3.13
+2021-03-07 16:12:00,Shawn Mendes,Mercy - Acoustic,7,9,3,1.64
+2021-03-08 01:31:00,Shawn Mendes,There's Nothing Holdin' Me Back,8,10,3,3.32
+2021-03-08 01:39:00,Shawn Mendes,Mercy,8,10,3,3.48
+2021-03-08 01:59:00,Shawn Mendes,Where Were You In The Morning?,8,10,3,3.34
+2021-03-08 02:29:00,Shawn Mendes,Señorita,8,10,3,3.18
+2021-03-08 15:05:00,Shawn Mendes,Mercy,8,10,3,3.48
+2021-03-08 15:10:00,Shawn Mendes,There's Nothing Holdin' Me Back,8,10,3,3.32
+2021-03-09 01:42:00,Shawn Mendes,Where Were You In The Morning?,9,10,3,1.09
+2021-03-09 01:45:00,Shawn Mendes,Where Were You In The Morning?,9,10,3,2.42
+2021-03-09 07:34:00,Shawn Mendes,Señorita,9,10,3,3.18
+2021-03-09 14:24:00,Shawn Mendes,There's Nothing Holdin' Me Back,9,10,3,3.32
+2021-03-10 01:16:00,Shawn Mendes,Señorita,10,10,3,3.18
+2021-03-10 01:57:00,Shawn Mendes,Mercy,10,10,3,3.48
+2021-03-10 07:21:00,Shawn Mendes,There's Nothing Holdin' Me Back,10,10,3,3.32
+2021-03-11 06:40:00,Shawn Mendes,Where Were You In The Morning?,11,10,3,3.34
+2021-03-11 11:09:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,10,3,3.32
+2021-03-11 15:50:00,Shawn Mendes,Señorita,11,10,3,3.18
+2021-03-11 16:07:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,10,3,3.32
+2021-03-12 02:48:00,Shawn Mendes,Señorita,12,10,3,3.18
+2021-03-12 02:52:00,Shawn Mendes,There's Nothing Holdin' Me Back,12,10,3,3.32
+2021-03-12 03:23:00,Shawn Mendes,There's Nothing Holdin' Me Back,12,10,3,3.32
+2021-03-12 04:43:00,Shawn Mendes,Señorita,12,10,3,3.18
+2021-03-13 02:24:00,Shawn Mendes,Mercy,13,10,3,2.43
+2021-03-13 02:35:00,Shawn Mendes,Señorita,13,10,3,3.18
+2021-03-13 14:30:00,Shawn Mendes,Señorita,13,10,3,2.94
+2021-03-13 14:48:00,Shawn Mendes,Mercy,13,10,3,3.48
+2021-03-14 02:14:00,Shawn Mendes,Señorita,14,10,3,3.18
+2021-03-14 13:11:00,Shawn Mendes,Monster (Shawn Mendes & Justin Bieber),14,10,3,0.79
+2021-03-15 04:54:00,Shawn Mendes,Señorita,15,11,3,3.18
+2021-03-16 02:31:00,Shawn Mendes,Señorita,16,11,3,3.18
+2021-03-18 03:51:00,Shawn Mendes,Señorita,18,11,3,3.18
+2021-03-20 03:42:00,Shawn Mendes,Where Were You In The Morning?,20,11,3,3.34
+2021-03-21 03:52:00,Shawn Mendes,Mercy,21,11,3,3.48
+2021-03-21 04:00:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,11,3,3.32
+2021-03-21 14:44:00,Shawn Mendes,Where Were You In The Morning?,21,11,3,3.34
+2021-03-21 14:55:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,11,3,3.32
+2021-03-22 02:41:00,Shawn Mendes,There's Nothing Holdin' Me Back,22,12,3,3.32
+2021-03-22 03:32:00,Shawn Mendes,Señorita,22,12,3,3.18
+2021-03-22 13:11:00,Shawn Mendes,Where Were You In The Morning?,22,12,3,3.34
+2021-03-22 13:18:00,Shawn Mendes,There's Nothing Holdin' Me Back,22,12,3,3.32
+2021-03-23 04:09:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,12,3,3.32
+2021-03-23 23:16:00,Shawn Mendes,Where Were You In The Morning?,23,12,3,3.34
+2021-03-24 00:11:00,Shawn Mendes,Señorita,24,12,3,3.18
+2021-03-24 04:18:00,Shawn Mendes,Señorita,24,12,3,3.18
+2021-03-24 05:28:00,Shawn Mendes,There's Nothing Holdin' Me Back,24,12,3,3.32
+2021-03-24 05:39:00,Shawn Mendes,Where Were You In The Morning?,24,12,3,3.34
+2021-03-25 01:36:00,Shawn Mendes,Señorita,25,12,3,3.18
+2021-03-25 02:10:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,12,3,3.32
+2021-03-25 02:17:00,Shawn Mendes,Mercy,25,12,3,3.48
+2021-03-25 03:24:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,12,3,3.32
+2021-03-25 08:59:00,Shawn Mendes,Where Were You In The Morning?,25,12,3,3.34
+2021-03-25 13:51:00,Shawn Mendes,Mercy,25,12,3,1.18
+2021-03-26 01:04:00,Shawn Mendes,Señorita,26,12,3,3.18
+2021-03-26 06:40:00,Shawn Mendes,Where Were You In The Morning?,26,12,3,3.34
+2021-03-26 12:43:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,12,3,3.32
+2021-03-27 00:50:00,Shawn Mendes,Where Were You In The Morning?,27,12,3,3.34
+2021-03-27 03:21:00,Shawn Mendes,Señorita,27,12,3,1.26
+2021-03-27 08:54:00,Shawn Mendes,There's Nothing Holdin' Me Back,27,12,3,3.32
+2021-03-27 08:57:00,Shawn Mendes,Mercy,27,12,3,3.48
+2021-03-29 12:45:00,Shawn Mendes,There's Nothing Holdin' Me Back,29,13,3,3.32
+2021-03-30 01:23:00,Shawn Mendes,Señorita,30,13,3,3.18
+2021-03-30 12:06:00,Shawn Mendes,Señorita,30,13,3,3.18
+2021-03-31 01:25:00,Shawn Mendes,There's Nothing Holdin' Me Back,31,13,3,3.32
+2021-03-31 02:31:00,Shawn Mendes,There's Nothing Holdin' Me Back,31,13,3,3.32
+2021-03-31 02:35:00,Shawn Mendes,Where Were You In The Morning?,31,13,3,3.34
+2021-03-31 12:51:00,Shawn Mendes,There's Nothing Holdin' Me Back,31,13,3,3.32
+2021-03-31 13:22:00,Shawn Mendes,Señorita,31,13,3,3.18
+2021-03-31 13:33:00,Shawn Mendes,Where Were You In The Morning?,31,13,3,3.34
+2021-04-01 00:36:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,13,4,3.32
+2021-04-01 02:12:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,13,4,3.32
+2021-04-01 02:36:00,Shawn Mendes,Señorita,1,13,4,3.18
+2021-04-01 02:47:00,Shawn Mendes,Where Were You In The Morning?,1,13,4,3.34
+2021-04-01 13:17:00,Shawn Mendes,Señorita,1,13,4,3.18
+2021-04-01 13:51:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,13,4,3.32
+2021-04-02 01:02:00,Shawn Mendes,Where Were You In The Morning?,2,13,4,1.01
+2021-04-02 02:05:00,Shawn Mendes,Where Were You In The Morning?,2,13,4,3.34
+2021-04-02 02:24:00,Shawn Mendes,Señorita,2,13,4,3.18
+2021-04-02 02:52:00,Shawn Mendes,There's Nothing Holdin' Me Back,2,13,4,3.32
+2021-04-02 06:39:00,Shawn Mendes,Señorita,2,13,4,3.18
+2021-04-02 07:07:00,Shawn Mendes,Where Were You In The Morning?,2,13,4,3.34
+2021-04-02 13:35:00,Shawn Mendes,Where Were You In The Morning?,2,13,4,3.34
+2021-04-02 13:41:00,Shawn Mendes,Señorita,2,13,4,3.18
+2021-04-03 02:15:00,Shawn Mendes,There's Nothing Holdin' Me Back,3,13,4,3.32
+2021-04-03 11:37:00,Shawn Mendes,Señorita,3,13,4,3.18
+2021-04-03 11:57:00,Shawn Mendes,Where Were You In The Morning?,3,13,4,2.26
+2021-04-03 12:03:00,Shawn Mendes,Where Were You In The Morning?,3,13,4,1.08
+2021-04-03 12:52:00,Shawn Mendes,There's Nothing Holdin' Me Back,3,13,4,3.32
+2021-04-04 00:21:00,Shawn Mendes,There's Nothing Holdin' Me Back,4,13,4,3.32
+2021-04-04 12:42:00,Shawn Mendes,Señorita,4,13,4,3.18
+2021-04-04 12:48:00,Shawn Mendes,There's Nothing Holdin' Me Back,4,13,4,3.32
+2021-04-04 13:31:00,Shawn Mendes,There's Nothing Holdin' Me Back,4,13,4,3.32
+2021-04-05 01:36:00,Shawn Mendes,Señorita,5,14,4,3.14
+2021-04-05 02:34:00,Shawn Mendes,Where Were You In The Morning?,5,14,4,3.34
+2021-04-05 12:32:00,Shawn Mendes,Señorita,5,14,4,3.18
+2021-04-05 13:12:00,Shawn Mendes,Where Were You In The Morning?,5,14,4,3.34
+2021-04-05 13:31:00,Shawn Mendes,There's Nothing Holdin' Me Back,5,14,4,3.32
+2021-04-06 01:45:00,Shawn Mendes,Where Were You In The Morning?,6,14,4,3.34
+2021-04-06 01:57:00,Shawn Mendes,There's Nothing Holdin' Me Back,6,14,4,3.32
+2021-04-06 14:00:00,Shawn Mendes,Señorita,6,14,4,3.18
+2021-04-07 04:55:00,Shawn Mendes,There's Nothing Holdin' Me Back,7,14,4,3.32
+2021-04-07 05:20:00,Shawn Mendes,Señorita,7,14,4,3.18
+2021-04-07 06:45:00,Shawn Mendes,Señorita,7,14,4,3.18
+2021-04-07 07:05:00,Shawn Mendes,Where Were You In The Morning?,7,14,4,3.34
+2021-04-07 13:34:00,Shawn Mendes,There's Nothing Holdin' Me Back,7,14,4,3.32
+2021-04-13 01:08:00,Shawn Mendes,Where Were You In The Morning?,13,15,4,3.16
+2021-04-13 01:41:00,Shawn Mendes,Señorita,13,15,4,3.18
+2021-04-13 02:01:00,Shawn Mendes,There's Nothing Holdin' Me Back,13,15,4,3.32
+2021-04-14 01:04:00,Shawn Mendes,Where Were You In The Morning?,14,15,4,3.34
+2021-04-14 01:55:00,Shawn Mendes,Señorita,14,15,4,3.18
+2021-04-14 09:54:00,Shawn Mendes,Señorita,14,15,4,3.15
+2021-04-14 13:31:00,Shawn Mendes,There's Nothing Holdin' Me Back,14,15,4,3.32
+2021-04-15 04:21:00,Shawn Mendes,Señorita,15,15,4,3.18
+2021-04-15 05:26:00,Shawn Mendes,There's Nothing Holdin' Me Back,15,15,4,3.32
+2021-04-16 00:22:00,Shawn Mendes,Señorita,16,15,4,3.18
+2021-04-16 00:43:00,Shawn Mendes,Señorita,16,15,4,3.18
+2021-04-16 01:02:00,Shawn Mendes,There's Nothing Holdin' Me Back,16,15,4,3.32
+2021-04-16 02:09:00,Shawn Mendes,Where Were You In The Morning?,16,15,4,3.34
+2021-04-17 01:28:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,15,4,3.32
+2021-04-18 01:49:00,Shawn Mendes,Señorita,18,15,4,3.18
+2021-04-18 04:07:00,Shawn Mendes,Señorita,18,15,4,3.18
+2021-04-18 04:10:00,Shawn Mendes,There's Nothing Holdin' Me Back,18,15,4,3.32
+2021-04-18 04:22:00,Shawn Mendes,Where Were You In The Morning?,18,15,4,3.34
+2021-04-19 00:14:00,Shawn Mendes,Where Were You In The Morning?,19,16,4,3.34
+2021-04-19 06:07:00,Shawn Mendes,Where Were You In The Morning?,19,16,4,3.34
+2021-04-19 06:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,19,16,4,3.32
+2021-04-20 00:13:00,Shawn Mendes,Señorita,20,16,4,3.18
+2021-04-20 13:25:00,Shawn Mendes,Señorita,20,16,4,2.21
+2021-04-20 14:24:00,Shawn Mendes,Where Were You In The Morning?,20,16,4,3.34
+2021-04-21 00:40:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,16,4,3.32
+2021-04-21 00:51:00,Shawn Mendes,Where Were You In The Morning?,21,16,4,3.34
+2021-04-21 05:40:00,Shawn Mendes,Señorita,21,16,4,3.18
+2021-04-21 05:43:00,Shawn Mendes,Where Were You In The Morning?,21,16,4,3.34
+2021-04-21 06:01:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,16,4,3.32
+2021-04-22 01:16:00,Shawn Mendes,Señorita,22,16,4,3.18
+2021-04-22 05:40:00,Shawn Mendes,Where Were You In The Morning?,22,16,4,3.34
+2021-04-22 13:15:00,Shawn Mendes,Where Were You In The Morning?,22,16,4,3.34
+2021-04-22 13:23:00,Shawn Mendes,Señorita,22,16,4,3.18
+2021-04-22 13:49:00,Shawn Mendes,There's Nothing Holdin' Me Back,22,16,4,3.32
+2021-04-23 00:03:00,Shawn Mendes,Señorita,23,16,4,3.18
+2021-04-24 12:22:00,Shawn Mendes,Where Were You In The Morning?,24,16,4,3.34
+2021-04-24 12:50:00,Shawn Mendes,Señorita,24,16,4,3.18
+2021-04-25 06:17:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,16,4,3.32
+2021-04-26 07:20:00,Shawn Mendes,Señorita,26,17,4,3.18
+2021-04-27 00:14:00,Shawn Mendes,There's Nothing Holdin' Me Back,27,17,4,3.32
+2021-04-28 01:10:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,17,4,0.53
+2021-04-30 00:18:00,Shawn Mendes,Señorita,30,17,4,3.18
+2021-04-30 00:21:00,Shawn Mendes,Where Were You In The Morning?,30,17,4,3.34
+2021-05-01 03:15:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,17,5,2.42
+2021-05-03 00:27:00,Shawn Mendes,Señorita,3,18,5,3.18
+2021-05-04 00:12:00,Shawn Mendes,Where Were You In The Morning?,4,18,5,3.34
+2021-05-05 00:56:00,Shawn Mendes,Señorita,5,18,5,3.18
+2021-05-05 01:29:00,Shawn Mendes,Where Were You In The Morning?,5,18,5,3.34
+2021-05-06 00:32:00,Shawn Mendes,There's Nothing Holdin' Me Back,6,18,5,3.32
+2021-05-08 00:14:00,Shawn Mendes,Señorita,8,18,5,3.18
+2021-05-08 00:59:00,Shawn Mendes,Señorita,8,18,5,3.18
+2021-05-09 01:12:00,Shawn Mendes,Señorita,9,18,5,0.73
+2021-05-10 01:02:00,Shawn Mendes,Where Were You In The Morning?,10,19,5,3.34
+2021-05-11 00:13:00,Shawn Mendes,Where Were You In The Morning?,11,19,5,3.34
+2021-05-11 00:36:00,Shawn Mendes,Señorita,11,19,5,3.18
+2021-05-11 01:06:00,Shawn Mendes,Mercy,11,19,5,3.48
+2021-05-11 01:33:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,19,5,3.32
+2021-05-11 06:05:00,Shawn Mendes,Where Were You In The Morning?,11,19,5,2.82
+2021-05-12 01:04:00,Shawn Mendes,Señorita,12,19,5,3.18
+2021-05-12 01:11:00,Shawn Mendes,There's Nothing Holdin' Me Back,12,19,5,3.32
+2021-05-12 02:38:00,Shawn Mendes,Where Were You In The Morning?,12,19,5,3.34
+2021-05-13 01:02:00,Shawn Mendes,There's Nothing Holdin' Me Back,13,19,5,3.1
+2021-05-13 01:35:00,Shawn Mendes,Where Were You In The Morning?,13,19,5,3.34
+2021-05-13 02:24:00,Shawn Mendes,Señorita,13,19,5,3.18
+2021-05-18 01:42:00,Shawn Mendes,Señorita,18,20,5,3.18
+2021-05-22 01:48:00,Shawn Mendes,Where Were You In The Morning?,22,20,5,3.34
+2021-05-23 00:28:00,Shawn Mendes,Señorita,23,20,5,3.18
+2021-05-23 15:20:00,Shawn Mendes,Where Were You In The Morning?,23,20,5,3.34
+2021-05-28 00:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,21,5,3.32
+2021-05-28 01:31:00,Shawn Mendes,Where Were You In The Morning?,28,21,5,2.16
+2021-06-01 01:13:00,Shawn Mendes,Señorita,1,22,6,2.96
+2021-06-01 02:35:00,Shawn Mendes,Señorita,1,22,6,3.18
+2021-06-02 00:32:00,Shawn Mendes,Mercy,2,22,6,3.48
+2021-06-06 00:47:00,Shawn Mendes,There's Nothing Holdin' Me Back,6,22,6,3.32
+2021-06-06 00:55:00,Shawn Mendes,Señorita,6,22,6,3.18
+2021-06-07 01:16:00,Shawn Mendes,Mercy,7,23,6,1.33
+2021-06-10 00:24:00,Shawn Mendes,Señorita,10,23,6,3.18
+2021-06-10 03:11:00,Shawn Mendes,Señorita,10,23,6,1.63
+2021-06-12 01:28:00,Shawn Mendes,Señorita,12,23,6,3.18
+2021-06-15 01:17:00,Shawn Mendes,Señorita,15,24,6,3.18
+2021-06-15 01:25:00,Shawn Mendes,Where Were You In The Morning?,15,24,6,3.34
+2021-06-16 14:03:00,Shawn Mendes,Señorita,16,24,6,3.18
+2021-06-21 04:30:00,Shawn Mendes,Señorita,21,25,6,3.11
+2021-06-21 12:37:00,Shawn Mendes,Where Were You In The Morning?,21,25,6,0.96
+2021-06-22 01:42:00,Shawn Mendes,Señorita,22,25,6,3.18
+2021-06-22 02:42:00,Shawn Mendes,Mercy,22,25,6,3.48
+2021-06-22 02:49:00,Shawn Mendes,Where Were You In The Morning?,22,25,6,3.34
+2021-06-22 03:39:00,Shawn Mendes,There's Nothing Holdin' Me Back,22,25,6,3.32
+2021-06-25 12:34:00,Shawn Mendes,Señorita,25,25,6,2.29
+2021-06-26 02:07:00,Shawn Mendes,Señorita,26,25,6,0.91
+2021-06-26 02:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,25,6,3.32
+2021-06-27 01:28:00,Shawn Mendes,Where Were You In The Morning?,27,25,6,3.34
+2021-06-27 10:48:00,Shawn Mendes,Mercy,27,25,6,3.48
+2021-06-28 12:14:00,Shawn Mendes,Mercy,28,26,6,3.48
+2021-06-28 12:17:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,26,6,3.32
+2021-06-28 14:22:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,26,6,3.32
+2021-06-29 02:11:00,Shawn Mendes,There's Nothing Holdin' Me Back,29,26,6,3.32
+2021-06-30 03:25:00,Shawn Mendes,Señorita,30,26,6,3.18
+2021-06-30 03:59:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,26,6,2.86
+2021-06-30 14:54:00,Shawn Mendes,Señorita,30,26,6,3.18
+2021-06-30 16:06:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,26,6,3.32
+2021-07-01 04:30:00,Shawn Mendes,Where Were You In The Morning?,1,26,7,3.0
+2021-07-04 01:27:00,Shawn Mendes,Mercy,4,26,7,3.48
+2021-07-04 06:25:00,Shawn Mendes,Where Were You In The Morning?,4,26,7,3.34
+2021-07-04 07:15:00,Shawn Mendes,Señorita,4,26,7,3.18
+2021-07-04 15:48:00,Shawn Mendes,Señorita,4,26,7,3.18
+2021-07-06 02:07:00,Shawn Mendes,Mercy,6,27,7,3.48
+2021-07-06 13:17:00,Shawn Mendes,Where Were You In The Morning?,6,27,7,3.34
+2021-07-09 07:09:00,Shawn Mendes,Señorita,9,27,7,3.18
+2021-07-09 07:10:00,Shawn Mendes,Fallin' All In You,9,27,7,0.61
+2021-07-09 07:13:00,Shawn Mendes,Treat You Better,9,27,7,3.13
+2021-07-09 07:17:00,Shawn Mendes,Mercy,9,27,7,3.48
+2021-07-09 07:20:00,Shawn Mendes,There's Nothing Holdin' Me Back,9,27,7,3.32
+2021-07-09 07:24:00,Shawn Mendes,Where Were You In The Morning?,9,27,7,3.34
+2021-07-09 14:47:00,Shawn Mendes,Señorita,9,27,7,3.18
+2021-07-14 14:50:00,Shawn Mendes,Where Were You In The Morning?,14,28,7,3.34
+2021-07-17 10:11:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,28,7,2.1
+2021-07-17 11:31:00,Shawn Mendes,Señorita,17,28,7,3.18
+2021-07-17 12:01:00,Shawn Mendes,Mercy,17,28,7,3.48
+2021-07-17 12:35:00,Shawn Mendes,Where Were You In The Morning?,17,28,7,3.34
+2021-07-21 09:41:00,Shawn Mendes,Mercy,21,29,7,3.48
+2021-07-21 09:55:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,29,7,3.32
+2021-07-21 12:06:00,Shawn Mendes,There's Nothing Holdin' Me Back,21,29,7,3.32
+2021-07-22 03:29:00,Shawn Mendes,Señorita,22,29,7,3.18
+2021-07-27 12:18:00,Shawn Mendes,There's Nothing Holdin' Me Back,27,30,7,3.32
+2021-07-28 02:53:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,30,7,3.32
+2021-07-29 03:32:00,Shawn Mendes,Mercy,29,30,7,1.83
+2021-07-30 00:16:00,Shawn Mendes,Señorita,30,30,7,3.18
+2021-07-30 00:50:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,30,7,3.32
+2021-08-01 00:13:00,Shawn Mendes,Mercy,1,30,8,1.18
+2021-08-01 00:57:00,Shawn Mendes,There's Nothing Holdin' Me Back,1,30,8,0.86
+2021-08-03 23:40:00,Shawn Mendes,Mercy,3,31,8,3.48
+2021-08-04 00:21:00,Shawn Mendes,Señorita,4,31,8,3.18
+2021-08-04 00:41:00,Shawn Mendes,There's Nothing Holdin' Me Back,4,31,8,3.32
+2021-08-07 17:32:00,Shawn Mendes,There's Nothing Holdin' Me Back,7,31,8,3.32
+2021-08-07 18:12:00,Shawn Mendes,Señorita,7,31,8,3.18
+2021-08-08 13:34:00,Shawn Mendes,Where Were You In The Morning?,8,31,8,3.34
+2021-08-09 01:07:00,Shawn Mendes,Where Were You In The Morning?,9,32,8,3.34
+2021-08-10 09:34:00,Shawn Mendes,Señorita,10,32,8,3.18
+2021-08-10 13:59:00,Shawn Mendes,Mercy,10,32,8,0.73
+2021-08-10 14:45:00,Shawn Mendes,Where Were You In The Morning?,10,32,8,3.34
+2021-08-10 15:16:00,Shawn Mendes,There's Nothing Holdin' Me Back,10,32,8,3.32
+2021-08-11 01:07:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,32,8,3.32
+2021-08-11 04:53:00,Shawn Mendes,Señorita,11,32,8,3.18
+2021-08-11 05:06:00,Shawn Mendes,Where Were You In The Morning?,11,32,8,3.34
+2021-08-14 02:40:00,Shawn Mendes,Where Were You In The Morning?,14,32,8,0.77
+2021-08-14 13:21:00,Shawn Mendes,Mercy,14,32,8,0.65
+2021-08-15 11:40:00,Shawn Mendes,There's Nothing Holdin' Me Back,15,32,8,3.32
+2021-08-16 01:14:00,Shawn Mendes,There's Nothing Holdin' Me Back,16,33,8,0.84
+2021-08-17 11:45:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,33,8,3.32
+2021-08-19 00:47:00,Shawn Mendes,Where Were You In The Morning?,19,33,8,3.34
+2021-08-19 12:01:00,Shawn Mendes,There's Nothing Holdin' Me Back,19,33,8,2.59
+2021-08-22 01:08:00,Shawn Mendes,Señorita,22,33,8,3.18
+2021-08-24 11:42:00,Shawn Mendes,There's Nothing Holdin' Me Back,24,34,8,3.32
+2021-08-25 11:46:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,34,8,3.32
+2021-08-26 00:44:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,34,8,3.32
+2021-08-28 01:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,34,8,2.26
+2021-08-28 09:41:00,Shawn Mendes,Señorita,28,34,8,3.18
+2021-08-31 01:37:00,Shawn Mendes,Where Were You In The Morning?,31,35,8,3.34
+2021-08-31 01:59:00,Shawn Mendes,Señorita,31,35,8,2.3
+2021-08-31 14:07:00,Shawn Mendes,There's Nothing Holdin' Me Back,31,35,8,3.32
+2021-08-31 15:30:00,Shawn Mendes,Señorita,31,35,8,3.18
+2021-09-01 13:37:00,Shawn Mendes,Señorita,1,35,9,3.18
+2021-09-04 06:17:00,Shawn Mendes,Señorita,4,35,9,3.18
+2021-09-04 14:50:00,Shawn Mendes,Señorita,4,35,9,3.18
+2021-09-05 04:20:00,Shawn Mendes,Señorita,5,35,9,2.69
+2021-09-11 11:27:00,Shawn Mendes,Where Were You In The Morning?,11,36,9,3.34
+2021-09-14 10:58:00,Shawn Mendes,Fallin' All In You,14,37,9,3.93
+2021-09-14 11:01:00,Shawn Mendes,Señorita,14,37,9,3.18
+2021-09-17 14:48:00,Shawn Mendes,Señorita,17,37,9,3.18
+2021-09-18 12:55:00,Shawn Mendes,Mercy,18,37,9,3.48
+2021-09-20 03:24:00,Shawn Mendes,Señorita,20,38,9,3.18
+2021-09-20 14:35:00,Shawn Mendes,Señorita,20,38,9,3.18
+2021-09-20 15:57:00,Shawn Mendes,Where Were You In The Morning?,20,38,9,2.06
+2021-09-23 13:48:00,Shawn Mendes,There's Nothing Holdin' Me Back,23,38,9,3.32
+2021-09-24 02:34:00,Shawn Mendes,Where Were You In The Morning?,24,38,9,0.62
+2021-09-24 06:19:00,Shawn Mendes,Where Were You In The Morning?,24,38,9,2.74
+2021-09-24 13:43:00,Shawn Mendes,Mercy,24,38,9,3.48
+2021-09-24 13:55:00,Shawn Mendes,Where Were You In The Morning?,24,38,9,3.34
+2021-09-25 03:36:00,Shawn Mendes,Mercy,25,38,9,3.48
+2021-09-25 07:25:00,Shawn Mendes,Señorita,25,38,9,3.18
+2021-09-25 08:16:00,Shawn Mendes,Señorita,25,38,9,3.18
+2021-09-25 12:11:00,Shawn Mendes,Señorita,25,38,9,3.18
+2021-09-26 02:52:00,Shawn Mendes,Mercy,26,38,9,1.58
+2021-09-27 06:19:00,Shawn Mendes,Señorita,27,39,9,3.18
+2021-09-29 14:14:00,Shawn Mendes,Señorita,29,39,9,3.18
+2021-09-30 14:03:00,Shawn Mendes,Señorita,30,39,9,3.18
+2021-10-01 13:58:00,Shawn Mendes,Señorita,1,39,10,3.18
+2021-10-02 12:18:00,Shawn Mendes,Señorita,2,39,10,3.18
+2021-10-07 14:06:00,Shawn Mendes,Where Were You In The Morning?,7,40,10,3.34
+2021-10-08 11:53:00,Shawn Mendes,Señorita,8,40,10,3.18
+2021-10-09 08:42:00,Shawn Mendes,Señorita,9,40,10,3.18
+2021-10-09 14:44:00,Shawn Mendes,Señorita,9,40,10,3.18
+2021-10-10 13:23:00,Shawn Mendes,Señorita,10,40,10,3.18
+2021-10-11 12:17:00,Shawn Mendes,Señorita,11,41,10,3.18
+2021-10-13 12:12:00,Shawn Mendes,Señorita,13,41,10,3.18
+2021-10-14 04:57:00,Shawn Mendes,Señorita,14,41,10,3.18
+2021-10-17 02:48:00,Shawn Mendes,Señorita,17,41,10,3.18
+2021-10-17 03:56:00,Shawn Mendes,Mercy,17,41,10,3.48
+2021-10-17 04:06:00,Shawn Mendes,Where Were You In The Morning?,17,41,10,3.34
+2021-10-17 04:30:00,Shawn Mendes,There's Nothing Holdin' Me Back,17,41,10,3.32
+2021-10-17 06:07:00,Shawn Mendes,Señorita,17,41,10,3.18
+2021-10-17 06:45:00,Shawn Mendes,Señorita,17,41,10,3.18
+2021-10-17 12:25:00,Shawn Mendes,Señorita,17,41,10,3.18
+2021-10-18 06:08:00,Shawn Mendes,Señorita,18,42,10,3.18
+2021-10-18 07:23:00,Shawn Mendes,Señorita,18,42,10,3.18
+2021-10-19 12:14:00,Shawn Mendes,Mercy,19,42,10,3.48
+2021-10-19 23:37:00,Shawn Mendes,Mercy,19,42,10,3.48
+2021-10-19 23:44:00,Shawn Mendes,Señorita,19,42,10,3.18
+2021-10-24 02:46:00,Shawn Mendes,Señorita,24,42,10,3.18
+2021-10-24 13:07:00,Shawn Mendes,Where Were You In The Morning?,24,42,10,3.34
+2021-10-24 13:15:00,Shawn Mendes,Señorita,24,42,10,3.05
+2021-10-25 11:11:00,Shawn Mendes,Señorita,25,43,10,3.02
+2021-10-25 12:23:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,43,10,3.32
+2021-10-25 12:29:00,Shawn Mendes,Mercy,25,43,10,3.48
+2021-10-25 13:31:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,43,10,3.32
+2021-10-25 14:50:00,Shawn Mendes,Señorita,25,43,10,3.18
+2021-10-26 01:41:00,Shawn Mendes,Señorita,26,43,10,3.18
+2021-10-26 08:31:00,Shawn Mendes,Where Were You In The Morning?,26,43,10,3.34
+2021-10-27 06:17:00,Shawn Mendes,Señorita,27,43,10,3.18
+2021-10-28 01:53:00,Shawn Mendes,Where Were You In The Morning?,28,43,10,3.34
+2021-10-28 16:05:00,Shawn Mendes,Where Were You In The Morning?,28,43,10,3.34
+2021-10-29 01:49:00,Shawn Mendes,Mercy,29,43,10,3.48
+2021-10-29 12:37:00,Shawn Mendes,Señorita,29,43,10,3.18
+2021-10-30 06:32:00,Shawn Mendes,Señorita,30,43,10,3.18
+2021-10-31 06:56:00,Shawn Mendes,Señorita,31,43,10,3.18
+2021-11-02 02:04:00,Shawn Mendes,Señorita,2,44,11,3.18
+2021-11-03 01:53:00,Shawn Mendes,There's Nothing Holdin' Me Back,3,44,11,2.85
+2021-11-03 02:14:00,Shawn Mendes,Señorita,3,44,11,3.06
+2021-11-04 13:29:00,Shawn Mendes,Where Were You In The Morning?,4,44,11,3.34
+2021-11-05 03:03:00,Shawn Mendes,Señorita,5,44,11,3.18
+2021-11-06 04:45:00,Shawn Mendes,Señorita,6,44,11,3.18
+2021-11-06 05:23:00,Shawn Mendes,Señorita,6,44,11,0.61
+2021-11-07 11:39:00,Shawn Mendes,Mercy,7,44,11,3.48
+2021-11-07 14:57:00,Shawn Mendes,Señorita,7,44,11,3.18
+2021-11-09 13:57:00,Shawn Mendes,Señorita,9,45,11,3.18
+2021-11-10 07:03:00,Shawn Mendes,Señorita,10,45,11,2.16
+2021-11-14 07:21:00,Shawn Mendes,Señorita,14,45,11,3.18
+2021-11-19 10:45:00,Shawn Mendes,Señorita,19,46,11,3.18
+2021-11-22 13:01:00,Shawn Mendes,Señorita,22,47,11,3.05
+2021-11-22 15:19:00,Shawn Mendes,Señorita,22,47,11,3.18
+2021-11-23 08:44:00,Shawn Mendes,Señorita,23,47,11,3.18
+2021-11-24 02:43:00,Shawn Mendes,Señorita,24,47,11,3.18
+2021-11-24 15:05:00,Shawn Mendes,Señorita,24,47,11,3.18
+2021-11-28 05:18:00,Shawn Mendes,Señorita,28,47,11,3.18
+2021-11-28 05:51:00,Shawn Mendes,Señorita,28,47,11,3.18
+2021-11-28 06:26:00,Shawn Mendes,Señorita,28,47,11,3.18
+2021-11-29 05:54:00,Shawn Mendes,Señorita,29,48,11,3.18
+2021-11-29 14:47:00,Shawn Mendes,Señorita,29,48,11,3.18
+2021-11-30 06:34:00,Shawn Mendes,Señorita,30,48,11,3.18
+2021-11-30 13:13:00,Shawn Mendes,Señorita,30,48,11,3.18
+2021-12-03 06:57:00,Shawn Mendes,Señorita,3,48,12,3.18
+2021-12-03 12:23:00,Shawn Mendes,Señorita,3,48,12,3.18
+2021-12-03 12:34:00,Shawn Mendes,Where Were You In The Morning?,3,48,12,3.34
+2021-12-04 12:35:00,Shawn Mendes,Señorita,4,48,12,3.18
+2021-12-04 13:41:00,Shawn Mendes,Señorita,4,48,12,3.18
+2021-12-04 14:42:00,Shawn Mendes,Señorita,4,48,12,3.18
+2021-12-04 14:57:00,Shawn Mendes,Where Were You In The Morning?,4,48,12,3.34
+2021-12-04 16:12:00,Shawn Mendes,There's Nothing Holdin' Me Back,4,48,12,3.32
+2021-12-08 12:09:00,Shawn Mendes,Mercy,8,49,12,3.48
+2021-12-10 11:18:00,Shawn Mendes,Señorita,10,49,12,3.18
+2021-12-10 11:49:00,Shawn Mendes,Señorita,10,49,12,3.18
+2021-12-11 00:35:00,Shawn Mendes,Where Were You In The Morning?,11,49,12,3.34
+2021-12-11 00:50:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,49,12,3.32
+2021-12-11 04:16:00,Shawn Mendes,There's Nothing Holdin' Me Back,11,49,12,3.32
+2021-12-11 05:19:00,Shawn Mendes,Mercy,11,49,12,3.48
+2021-12-15 03:27:00,Shawn Mendes,Mercy,15,50,12,3.48
+2021-12-15 05:50:00,Shawn Mendes,Where Were You In The Morning?,15,50,12,3.34
+2021-12-15 13:41:00,Shawn Mendes,Señorita,15,50,12,3.18
+2021-12-15 14:28:00,Shawn Mendes,Señorita,15,50,12,3.18
+2021-12-25 04:18:00,Shawn Mendes,Where Were You In The Morning?,25,51,12,3.34
+2021-12-25 14:23:00,Shawn Mendes,There's Nothing Holdin' Me Back,25,51,12,3.32
+2021-12-27 14:39:00,Shawn Mendes,Where Were You In The Morning?,27,52,12,3.34
+2021-12-27 14:51:00,Shawn Mendes,There's Nothing Holdin' Me Back,27,52,12,3.32

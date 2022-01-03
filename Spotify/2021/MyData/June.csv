@@ -1,0 +1,812 @@
+endTime,artistName,trackName,Day,Week,Month,Minutes Played
+2021-06-01 00:33:00,Taylor Swift,Lover,1,22,6,3.69
+2021-06-01 00:37:00,Taylor Swift,Blank Space,1,22,6,3.86
+2021-06-01 00:41:00,Taylor Swift,Delicate,1,22,6,3.87
+2021-06-01 00:45:00,Céline Dion,Where Does My Heart Beat Now,1,22,6,4.55
+2021-06-01 00:48:00,Lea Salonga,A Whole New World,1,22,6,2.68
+2021-06-01 00:56:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,1,22,6,3.38
+2021-06-01 01:13:00,Shawn Mendes,Señorita,1,22,6,2.96
+2021-06-01 02:35:00,Shawn Mendes,Señorita,1,22,6,3.18
+2021-06-01 02:38:00,Maren Morris,The Bones,1,22,6,3.29
+2021-06-01 02:45:00,Taylor Swift,willow,1,22,6,6.62
+2021-06-01 03:23:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",1,22,6,4.15
+2021-06-01 03:27:00,Taylor Swift,Delicate,1,22,6,3.87
+2021-06-01 03:45:00,Taylor Swift,champagne problems,1,22,6,3.09
+2021-06-01 07:19:00,Taylor Swift,Lover,1,22,6,3.69
+2021-06-01 07:40:00,Justin Bieber,Anyone,1,22,6,3.01
+2021-06-01 09:14:00,Céline Dion,The Power of Love,1,22,6,5.71
+2021-06-01 09:18:00,Maren Morris,The Bones - with Hozier,1,22,6,3.29
+2021-06-01 09:29:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",1,22,6,1.53
+2021-06-02 00:29:00,Ed Sheeran,Afterglow,2,22,6,0.81
+2021-06-02 00:32:00,Shawn Mendes,Mercy,2,22,6,3.48
+2021-06-02 00:36:00,Céline Dion,I'm Alive,2,22,6,3.5
+2021-06-02 00:46:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,2,22,6,3.17
+2021-06-02 00:50:00,Taylor Swift,champagne problems,2,22,6,4.07
+2021-06-02 01:01:00,Céline Dion,The Power of Love,2,22,6,5.71
+2021-06-02 01:05:00,Céline Dion,Right In Front of You,2,22,6,4.23
+2021-06-02 01:22:00,Taylor Swift,Our Song,2,22,6,1.93
+2021-06-02 14:33:00,Taylor Swift,Delicate,2,22,6,3.87
+2021-06-02 15:05:00,Taylor Swift,invisible string,2,22,6,4.21
+2021-06-02 15:13:00,Taylor Swift,Untouchable (Taylor’s Version),2,22,6,5.2
+2021-06-02 15:17:00,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),2,22,6,3.22
+2021-06-02 15:21:00,Taylor Swift,cardigan,2,22,6,3.99
+2021-06-02 15:51:00,Taylor Swift,willow,2,22,6,2.19
+2021-06-03 00:23:00,Taylor Swift,Enchanted,3,22,6,1.27
+2021-06-03 00:26:00,Selena Gomez,Wolves,3,22,6,3.3
+2021-06-03 00:29:00,Anne-Marie,2002,3,22,6,3.12
+2021-06-03 00:33:00,Selena Gomez,Back To You,3,22,6,3.5
+2021-06-03 00:36:00,Pink Sweat$,At My Worst,3,22,6,2.84
+2021-06-03 00:46:00,Taylor Swift,Delicate,3,22,6,3.45
+2021-06-03 00:57:00,James Arthur,Rewrite The Stars (with James Arthur & Anne-Marie),3,22,6,3.64
+2021-06-03 00:59:00,Harry Styles,Sweet Creature,3,22,6,0.88
+2021-06-03 01:04:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",3,22,6,4.67
+2021-06-03 01:20:00,Taylor Swift,Enchanted,3,22,6,0.65
+2021-06-03 02:15:00,Taylor Swift,All Too Well,3,22,6,5.49
+2021-06-03 02:23:00,Taylor Swift,All Too Well,3,22,6,5.49
+2021-06-03 15:14:00,Taylor Swift,Lover,3,22,6,3.69
+2021-06-03 15:21:00,Taylor Swift,evermore (feat. Bon Iver),3,22,6,5.07
+2021-06-03 15:37:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),3,22,6,1.68
+2021-06-04 00:16:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),4,22,6,3.68
+2021-06-04 00:19:00,Taylor Swift,willow,4,22,6,3.58
+2021-06-04 00:23:00,Taylor Swift,Fearless (Taylor’s Version),4,22,6,4.03
+2021-06-04 00:33:00,Taylor Swift,champagne problems,4,22,6,4.07
+2021-06-04 00:44:00,Taylor Swift,the 1,4,22,6,3.5
+2021-06-04 00:47:00,Taylor Swift,this is me trying,4,22,6,3.25
+2021-06-04 00:52:00,Taylor Swift,exile (feat. Bon Iver),4,22,6,4.76
+2021-06-04 00:55:00,Taylor Swift,Our Song,4,22,6,3.35
+2021-06-04 01:09:00,Taylor Swift,cardigan,4,22,6,3.99
+2021-06-04 01:13:00,Taylor Swift,mad woman,4,22,6,3.95
+2021-06-04 01:17:00,Taylor Swift,Style,4,22,6,3.85
+2021-06-04 01:21:00,Taylor Swift,tolerate it,4,22,6,4.09
+2021-06-04 01:25:00,Taylor Swift,Love Story (Taylor’s Version),4,22,6,3.93
+2021-06-04 01:31:00,Taylor Swift,Enchanted,4,22,6,5.87
+2021-06-04 07:14:00,Taylor Swift,Delicate,4,22,6,3.87
+2021-06-04 07:39:00,Taylor Swift,betty,4,22,6,1.41
+2021-06-04 14:07:00,Taylor Swift,betty,4,22,6,4.98
+2021-06-04 14:12:00,Taylor Swift,Untouchable (Taylor’s Version),4,22,6,5.2
+2021-06-04 14:18:00,Taylor Swift,All Too Well,4,22,6,5.49
+2021-06-04 14:32:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),4,22,6,1.86
+2021-06-04 14:50:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),4,22,6,1.82
+2021-06-04 15:16:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),4,22,6,1.83
+2021-06-05 00:01:00,Taylor Swift,Jump Then Fall (Taylor’s Version),5,22,6,3.96
+2021-06-05 00:05:00,Taylor Swift,willow,5,22,6,3.58
+2021-06-05 00:09:00,Taylor Swift,You Belong With Me (Taylor’s Version),5,22,6,3.85
+2021-06-05 00:13:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),5,22,6,4.07
+2021-06-05 00:16:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),5,22,6,3.16
+2021-06-05 00:27:00,Taylor Swift,Hey Stephen (Taylor’s Version),5,22,6,4.24
+2021-06-05 00:31:00,Taylor Swift,White Horse (Taylor’s Version),5,22,6,3.91
+2021-06-05 00:36:00,Taylor Swift,Untouchable (Taylor’s Version),5,22,6,5.2
+2021-06-05 00:37:00,Taylor Swift,Forever & Always (Piano Version) (Taylor’s Version),5,22,6,0.71
+2021-06-05 00:41:00,Taylor Swift,Forever & Always (Taylor’s Version),5,22,6,3.76
+2021-06-05 00:45:00,Taylor Swift,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),5,22,6,4.63
+2021-06-05 00:57:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),5,22,6,1.69
+2021-06-05 01:53:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),5,22,6,2.0
+2021-06-05 01:57:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),5,22,6,4.07
+2021-06-05 02:30:00,Taylor Swift,All Too Well,5,22,6,0.77
+2021-06-05 08:17:00,Taylor Swift,All Too Well,5,22,6,5.49
+2021-06-05 08:21:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),5,22,6,4.07
+2021-06-05 15:16:00,Taylor Swift,All Too Well,5,22,6,5.49
+2021-06-05 15:21:00,Taylor Swift,august,5,22,6,4.37
+2021-06-05 15:25:00,Taylor Swift,Love Story (Taylor’s Version),5,22,6,3.88
+2021-06-05 15:25:00,Taylor Swift,champagne problems,5,22,6,0.78
+2021-06-06 00:10:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),6,22,6,3.68
+2021-06-06 00:16:00,Taylor Swift,Enchanted,6,22,6,5.87
+2021-06-06 00:27:00,Céline Dion,Let's Talk About Love,6,22,6,5.21
+2021-06-06 00:37:00,Céline Dion,I'm Alive,6,22,6,3.5
+2021-06-06 00:40:00,Harry Styles,Watermelon Sugar,6,22,6,2.9
+2021-06-06 00:43:00,Taylor Swift,Style,6,22,6,3.85
+2021-06-06 00:47:00,Shawn Mendes,There's Nothing Holdin' Me Back,6,22,6,3.32
+2021-06-06 00:49:00,Susan Egan,I Won't Say (I'm In Love),6,22,6,2.34
+2021-06-06 00:52:00,Lea Salonga,A Whole New World,6,22,6,2.68
+2021-06-06 00:55:00,Shawn Mendes,Señorita,6,22,6,3.18
+2021-06-06 00:58:00,Alan Walker,Fake A Smile,6,22,6,2.8
+2021-06-06 01:02:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",6,22,6,3.74
+2021-06-06 01:22:00,Alan Walker,Darkside,6,22,6,1.44
+2021-06-06 07:45:00,Dua Lipa,CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score),6,22,6,2.14
+2021-06-06 07:47:00,Dua Lipa,We're Good,6,22,6,1.71
+2021-06-06 08:43:00,Taylor Swift,willow,6,22,6,3.58
+2021-06-06 08:49:00,Taylor Swift,All Too Well,6,22,6,5.49
+2021-06-06 08:50:00,Taylor Swift,Our Song,6,22,6,0.72
+2021-06-06 09:33:00,Taylor Swift,exile (feat. Bon Iver),6,22,6,2.63
+2021-06-06 11:09:00,Billie Eilish,Lost Cause,6,22,6,2.06
+2021-06-06 11:15:00,Ed Sheeran,Autumn Leaves - Deluxe Edition,6,22,6,3.11
+2021-06-06 11:19:00,Ed Sheeran,Tenerife Sea,6,22,6,4.02
+2021-06-06 11:46:00,Ed Sheeran,Shape of You,6,22,6,3.9
+2021-06-06 11:50:00,Ed Sheeran,Afterglow,6,22,6,3.09
+2021-06-06 11:54:00,Ed Sheeran,Lego House,6,22,6,3.08
+2021-06-06 12:09:00,Ed Sheeran,Thinking out Loud,6,22,6,2.15
+2021-06-06 15:02:00,Ed Sheeran,Perfect,6,22,6,2.22
+2021-06-07 00:27:00,Alan Walker,Darkside,7,23,6,3.53
+2021-06-07 00:31:00,Céline Dion,Where Does My Heart Beat Now,7,23,6,4.55
+2021-06-07 00:36:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",7,23,6,4.56
+2021-06-07 00:54:00,Céline Dion,Let's Talk About Love,7,23,6,5.21
+2021-06-07 00:59:00,Ed Sheeran,Shape of You,7,23,6,3.9
+2021-06-07 01:04:00,Taylor Swift,exile (feat. Bon Iver),7,23,6,4.76
+2021-06-07 01:16:00,Shawn Mendes,Mercy,7,23,6,1.33
+2021-06-07 06:56:00,Taylor Swift,All Too Well,7,23,6,5.49
+2021-06-07 07:10:00,Taylor Swift,betty,7,23,6,4.05
+2021-06-07 14:45:00,Taylor Swift,Untouchable (Taylor’s Version),7,23,6,5.2
+2021-06-07 14:56:00,Taylor Swift,All Too Well,7,23,6,11.03
+2021-06-07 14:59:00,Taylor Swift,Red,7,23,6,3.31
+2021-06-07 15:03:00,Taylor Swift,willow,7,23,6,3.58
+2021-06-07 15:09:00,Taylor Swift,Enchanted,7,23,6,5.87
+2021-06-07 15:14:00,Taylor Swift,All Too Well,7,23,6,5.49
+2021-06-07 15:20:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),7,23,6,3.68
+2021-06-07 15:44:00,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),7,23,6,2.98
+2021-06-08 00:14:00,Taylor Swift,champagne problems,8,23,6,4.07
+2021-06-08 00:17:00,Céline Dion,I'm Alive,8,23,6,3.5
+2021-06-08 00:20:00,Tape Machines,Lost You,8,23,6,3.03
+2021-06-08 00:32:00,Céline Dion,Right In Front of You,8,23,6,4.23
+2021-06-08 00:43:00,Taylor Swift,Delicate,8,23,6,3.87
+2021-06-08 00:48:00,Taylor Swift,exile (feat. Bon Iver),8,23,6,4.76
+2021-06-08 00:51:00,Dua Lipa,Don't Start Now,8,23,6,3.05
+2021-06-08 01:07:00,Céline Dion,The Power of Love,8,23,6,4.22
+2021-06-08 05:28:00,Taylor Swift,All Too Well,8,23,6,5.49
+2021-06-08 05:46:00,Taylor Swift,betty,8,23,6,4.87
+2021-06-08 07:09:00,Taylor Swift,Delicate,8,23,6,3.87
+2021-06-08 07:14:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),8,23,6,4.07
+2021-06-08 07:26:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),8,23,6,1.17
+2021-06-08 13:56:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),8,23,6,4.07
+2021-06-08 14:02:00,Taylor Swift,Hey Stephen (Taylor’s Version),8,23,6,4.24
+2021-06-08 14:06:00,Taylor Swift,Love Story (Taylor’s Version),8,23,6,3.93
+2021-06-08 14:12:00,Taylor Swift,You Belong With Me (Taylor’s Version),8,23,6,3.85
+2021-06-08 14:21:00,Taylor Swift,Untouchable (Taylor’s Version),8,23,6,5.2
+2021-06-09 00:34:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),9,23,6,3.36
+2021-06-09 00:36:00,Taylor Swift,I Almost Do,9,23,6,2.24
+2021-06-09 00:41:00,Taylor Swift,Breathe (feat. Colbie Caillat) (Taylor’s Version),9,23,6,4.39
+2021-06-09 00:53:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),9,23,6,3.16
+2021-06-09 00:57:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),9,23,6,3.68
+2021-06-09 01:05:00,Taylor Swift,Jump Then Fall (Taylor’s Version),9,23,6,3.96
+2021-06-09 01:10:00,Taylor Swift,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),9,23,6,4.63
+2021-06-09 01:14:00,Taylor Swift,Forever & Always (Taylor’s Version),9,23,6,3.76
+2021-06-09 01:18:00,Taylor Swift,White Horse (Taylor’s Version),9,23,6,3.91
+2021-06-09 01:30:00,Taylor Swift,Fearless (Taylor’s Version),9,23,6,2.63
+2021-06-09 02:23:00,Harry Styles,Watermelon Sugar,9,23,6,2.9
+2021-06-09 02:26:00,Alan Walker,Fake A Smile,9,23,6,2.8
+2021-06-09 02:38:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),9,23,6,0.86
+2021-06-09 05:52:00,Taylor Swift,exile (feat. Bon Iver),9,23,6,4.76
+2021-06-09 05:58:00,Taylor Swift,evermore (feat. Bon Iver),9,23,6,5.07
+2021-06-09 07:40:00,Taylor Swift,All Too Well,9,23,6,5.49
+2021-06-09 07:47:00,Taylor Swift,betty,9,23,6,4.91
+2021-06-09 08:06:00,Taylor Swift,Delicate,9,23,6,3.81
+2021-06-09 09:32:00,Taylor Swift,Delicate,9,23,6,3.87
+2021-06-09 09:44:00,Taylor Swift,willow,9,23,6,2.71
+2021-06-09 14:54:00,Taylor Swift,Delicate,9,23,6,3.87
+2021-06-09 15:15:00,Taylor Swift,Lover,9,23,6,1.17
+2021-06-10 00:10:00,Taylor Swift,evermore (feat. Bon Iver),10,23,6,5.07
+2021-06-10 00:14:00,Taylor Swift,exile (feat. Bon Iver),10,23,6,4.76
+2021-06-10 00:24:00,Shawn Mendes,Señorita,10,23,6,3.18
+2021-06-10 00:27:00,Lea Salonga,A Whole New World,10,23,6,2.68
+2021-06-10 00:37:00,Maren Morris,The Bones,10,23,6,3.29
+2021-06-10 00:41:00,Ed Sheeran,Shape of You,10,23,6,3.9
+2021-06-10 00:45:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",10,23,6,4.56
+2021-06-10 00:49:00,Taylor Swift,willow,10,23,6,3.58
+2021-06-10 00:52:00,Céline Dion,I'm Alive,10,23,6,3.5
+2021-06-10 00:56:00,Dua Lipa,Levitating,10,23,6,3.4
+2021-06-10 01:00:00,Taylor Swift,Style,10,23,6,3.85
+2021-06-10 02:30:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",10,23,6,4.67
+2021-06-10 03:11:00,Shawn Mendes,Señorita,10,23,6,1.63
+2021-06-11 00:34:00,Taylor Swift,hoax,11,23,6,3.67
+2021-06-11 00:40:00,Taylor Swift,my tears ricochet,11,23,6,4.26
+2021-06-11 00:43:00,Taylor Swift,this is me trying,11,23,6,3.25
+2021-06-11 00:53:00,Taylor Swift,exile (feat. Bon Iver),11,23,6,4.76
+2021-06-11 01:05:00,Taylor Swift,mad woman,11,23,6,1.06
+2021-06-11 05:29:00,Taylor Swift,hoax,11,23,6,3.67
+2021-06-11 06:14:00,Taylor Swift,exile (feat. Bon Iver),11,23,6,3.72
+2021-06-11 08:17:00,Taylor Swift,august,11,23,6,4.37
+2021-06-11 09:17:00,Taylor Swift,betty,11,23,6,2.65
+2021-06-11 13:32:00,Taylor Swift,betty,11,23,6,2.28
+2021-06-11 13:35:00,Taylor Swift,hoax,11,23,6,3.67
+2021-06-11 13:39:00,Taylor Swift,my tears ricochet,11,23,6,4.26
+2021-06-11 13:43:00,Taylor Swift,this is me trying,11,23,6,3.25
+2021-06-11 14:06:00,Taylor Swift,exile (feat. Bon Iver),11,23,6,2.16
+2021-06-11 14:19:00,Alan Walker,Sweet Dreams,11,23,6,1.5
+2021-06-12 00:40:00,Lata Mangeshkar,Bahon Mein Chale Aao,12,23,6,4.03
+2021-06-12 00:44:00,Lata Mangeshkar,Lag Ja Gale Se Phir,12,23,6,4.29
+2021-06-12 00:46:00,Lata Mangeshkar,Loote Koi Man Ka Nagar,12,23,6,1.55
+2021-06-12 00:56:00,Laxmikant–Pyarelal,"Man Kyoon Behka Re Behka Aadhi Raat Ko (From ""Utsav"")",12,23,6,2.99
+2021-06-12 00:59:00,Taylor Swift,I Think He Knows,12,23,6,2.89
+2021-06-12 01:10:00,Taylor Swift,Lover,12,23,6,3.69
+2021-06-12 01:14:00,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),12,23,6,3.22
+2021-06-12 01:17:00,Taylor Swift,Lover,12,23,6,3.69
+2021-06-12 01:20:00,Taylor Swift,I Think He Knows,12,23,6,2.89
+2021-06-12 01:21:00,Taylor Swift,Cruel Summer,12,23,6,1.28
+2021-06-12 01:25:00,Céline Dion,I'm Alive,12,23,6,3.5
+2021-06-12 01:28:00,Shawn Mendes,Señorita,12,23,6,3.18
+2021-06-12 01:32:00,Taylor Swift,Red,12,23,6,3.72
+2021-06-12 01:35:00,Miranda Lambert,Bluebird,12,23,6,3.5
+2021-06-12 01:39:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",12,23,6,3.74
+2021-06-12 02:02:00,Susan Egan,I Won't Say (I'm In Love),12,23,6,2.04
+2021-06-12 10:27:00,Taylor Swift,hoax,12,23,6,3.67
+2021-06-12 10:40:00,Taylor Swift,august,12,23,6,1.79
+2021-06-12 12:06:00,Taylor Swift,Delicate,12,23,6,3.87
+2021-06-12 12:35:00,Taylor Swift,willow,12,23,6,2.27
+2021-06-13 00:27:00,Taylor Swift,willow,13,23,6,1.31
+2021-06-13 00:32:00,Taylor Swift,All Too Well,13,23,6,5.49
+2021-06-13 00:36:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),13,23,6,3.68
+2021-06-13 00:40:00,Taylor Swift,You Belong With Me (Taylor’s Version),13,23,6,3.85
+2021-06-13 00:50:00,Taylor Swift,tolerate it,13,23,6,4.09
+2021-06-13 01:02:00,Taylor Swift,Untouchable (Taylor’s Version),13,23,6,5.2
+2021-06-13 01:06:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),13,23,6,3.16
+2021-06-13 01:09:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),13,23,6,3.68
+2021-06-13 01:12:00,Alan Walker,Fake A Smile,13,23,6,2.8
+2021-06-13 01:18:00,Taylor Swift,Enchanted,13,23,6,5.87
+2021-06-13 01:22:00,Taylor Swift,Red,13,23,6,3.72
+2021-06-13 01:25:00,Ed Sheeran,Afterglow,13,23,6,3.09
+2021-06-13 01:45:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",13,23,6,4.42
+2021-06-13 02:44:00,Taylor Swift,Enchanted,13,23,6,0.82
+2021-06-13 02:44:00,Harry Styles,Watermelon Sugar,13,23,6,2.9
+2021-06-13 02:50:00,Taylor Swift,All Too Well,13,23,6,5.49
+2021-06-13 02:54:00,Taylor Swift,hoax,13,23,6,3.67
+2021-06-13 03:06:00,Taylor Swift,august,13,23,6,2.84
+2021-06-13 04:36:00,Taylor Swift,hoax,13,23,6,3.67
+2021-06-13 05:00:00,Taylor Swift,betty,13,23,6,2.12
+2021-06-13 06:46:00,Céline Dion,All By Myself,13,23,6,1.1
+2021-06-13 06:50:00,Céline Dion,Immortality (feat. Bee Gees),13,23,6,4.18
+2021-06-13 06:54:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",13,23,6,4.08
+2021-06-13 07:26:00,Céline Dion,How Does A Moment Last Forever,13,23,6,1.33
+2021-06-14 00:23:00,Céline Dion,How Does A Moment Last Forever,14,24,6,3.68
+2021-06-14 00:27:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",14,24,6,4.08
+2021-06-14 00:32:00,Céline Dion,Let's Talk About Love,14,24,6,5.21
+2021-06-14 00:42:00,Céline Dion,Right In Front of You,14,24,6,4.23
+2021-06-14 00:51:00,Céline Dion,I'm Alive,14,24,6,3.5
+2021-06-14 00:56:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",14,24,6,4.67
+2021-06-14 01:08:00,Taylor Swift,willow,14,24,6,2.03
+2021-06-14 07:04:00,Taylor Swift,White Horse (Taylor’s Version),14,24,6,3.91
+2021-06-14 07:08:00,Taylor Swift,Hey Stephen (Taylor’s Version),14,24,6,4.24
+2021-06-14 07:13:00,Taylor Swift,Jump Then Fall (Taylor’s Version),14,24,6,3.96
+2021-06-14 08:11:00,Taylor Swift,Forever & Always (Taylor’s Version),14,24,6,1.43
+2021-06-14 08:14:00,Taylor Swift,White Horse (Taylor’s Version),14,24,6,2.81
+2021-06-14 08:20:00,Taylor Swift,evermore (feat. Bon Iver),14,24,6,5.07
+2021-06-14 08:39:00,Taylor Swift,tolerate it,14,24,6,4.24
+2021-06-14 13:02:00,Maren Morris,The Bones,14,24,6,0.78
+2021-06-15 00:37:00,Taylor Swift,All Too Well,15,24,6,5.49
+2021-06-15 00:41:00,Taylor Swift,cardigan,15,24,6,3.99
+2021-06-15 00:53:00,Taylor Swift,champagne problems,15,24,6,4.07
+2021-06-15 01:02:00,Maren Morris,The Bones - with Hozier,15,24,6,3.29
+2021-06-15 01:05:00,Lea Salonga,A Whole New World,15,24,6,2.68
+2021-06-15 01:08:00,Harry Styles,Watermelon Sugar,15,24,6,2.9
+2021-06-15 01:11:00,Alan Walker,Fake A Smile,15,24,6,2.8
+2021-06-15 01:14:00,Céline Dion,I'm Alive,15,24,6,3.5
+2021-06-15 01:17:00,Shawn Mendes,Señorita,15,24,6,3.18
+2021-06-15 01:21:00,Ed Sheeran,Shape of You,15,24,6,3.9
+2021-06-15 01:22:00,Taylor Swift,Our Song,15,24,6,0.58
+2021-06-15 01:25:00,Shawn Mendes,Where Were You In The Morning?,15,24,6,3.34
+2021-06-15 01:40:00,Taylor Swift,evermore (feat. Bon Iver),15,24,6,4.39
+2021-06-15 03:09:00,Taylor Swift,All Too Well,15,24,6,5.49
+2021-06-15 03:13:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),15,24,6,4.07
+2021-06-15 03:39:00,Taylor Swift,hoax,15,24,6,2.4
+2021-06-15 13:47:00,Taylor Swift,betty,15,24,6,4.91
+2021-06-15 13:51:00,Taylor Swift,mad woman,15,24,6,3.95
+2021-06-15 13:54:00,Alan Walker,Darkside,15,24,6,3.53
+2021-06-15 14:01:00,Taylor Swift,Enchanted,15,24,6,5.87
+2021-06-16 00:31:00,Taylor Swift,hoax,16,24,6,3.67
+2021-06-16 00:35:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),16,24,6,4.07
+2021-06-16 00:40:00,Taylor Swift,Untouchable (Taylor’s Version),16,24,6,5.2
+2021-06-16 00:52:00,Taylor Swift,exile (feat. Bon Iver),16,24,6,4.76
+2021-06-16 01:03:00,Taylor Swift,willow,16,24,6,3.58
+2021-06-16 01:07:00,Taylor Swift,august,16,24,6,4.37
+2021-06-16 01:20:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),16,24,6,1.07
+2021-06-16 02:56:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),16,24,6,4.07
+2021-06-16 03:08:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),16,24,6,1.15
+2021-06-16 07:57:00,Maren Morris,The Bones,16,24,6,3.29
+2021-06-16 08:01:00,Ed Sheeran,Shape of You,16,24,6,3.9
+2021-06-16 08:04:00,Taylor Swift,Red,16,24,6,3.72
+2021-06-16 08:27:00,Taylor Swift,Delicate,16,24,6,3.24
+2021-06-16 14:00:00,Taylor Swift,Delicate,16,24,6,3.87
+2021-06-16 14:03:00,Shawn Mendes,Señorita,16,24,6,3.18
+2021-06-16 14:07:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),16,24,6,3.68
+2021-06-16 14:10:00,Taylor Swift,this is me trying,16,24,6,3.25
+2021-06-16 14:14:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),16,24,6,3.68
+2021-06-16 14:17:00,Harry Styles,Watermelon Sugar,16,24,6,2.9
+2021-06-16 14:20:00,Alan Walker,Fake A Smile,16,24,6,2.8
+2021-06-16 14:39:00,Maren Morris,The Bones - with Hozier,16,24,6,3.29
+2021-06-16 14:43:00,Taylor Swift,You Belong With Me (Taylor’s Version),16,24,6,3.85
+2021-06-16 14:56:00,Taylor Swift,champagne problems,16,24,6,2.6
+2021-06-17 00:07:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",17,24,6,4.08
+2021-06-17 00:11:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",17,24,6,4.56
+2021-06-17 00:16:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",17,24,6,4.67
+2021-06-17 00:25:00,Céline Dion,How Does A Moment Last Forever,17,24,6,3.63
+2021-06-17 00:36:00,Céline Dion,Where Does My Heart Beat Now,17,24,6,4.55
+2021-06-17 00:56:00,Céline Dion,I Surrender,17,24,6,1.31
+2021-06-17 09:27:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",17,24,6,4.08
+2021-06-17 09:32:00,Céline Dion,How Does A Moment Last Forever,17,24,6,3.63
+2021-06-17 09:36:00,Céline Dion,Immortality (feat. Bee Gees),17,24,6,4.18
+2021-06-17 09:42:00,Céline Dion,Let's Talk About Love,17,24,6,5.21
+2021-06-17 09:46:00,Céline Dion,Right In Front of You,17,24,6,4.23
+2021-06-17 09:49:00,Céline Dion,I'm Alive,17,24,6,3.5
+2021-06-17 09:54:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",17,24,6,4.67
+2021-06-17 09:59:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",17,24,6,4.56
+2021-06-17 10:17:00,Céline Dion,I Surrender,17,24,6,1.4
+2021-06-17 11:02:00,Taylor Swift,willow - 90's trend remix,17,24,6,3.35
+2021-06-17 11:05:00,Taylor Swift,hoax,17,24,6,3.67
+2021-06-17 11:19:00,Taylor Swift,my tears ricochet,17,24,6,2.76
+2021-06-17 12:12:00,Maren Morris,The Bones - with Hozier,17,24,6,3.29
+2021-06-17 12:17:00,Taylor Swift,august,17,24,6,4.37
+2021-06-17 12:20:00,Dua Lipa,Levitating,17,24,6,3.4
+2021-06-17 12:48:00,Dua Lipa,Don't Start Now,17,24,6,0.65
+2021-06-18 00:09:00,Taylor Swift,hoax,18,24,6,3.67
+2021-06-18 00:13:00,Taylor Swift,Tim McGraw,18,24,6,3.87
+2021-06-18 00:17:00,Taylor Swift,Red,18,24,6,3.72
+2021-06-18 00:31:00,Taylor Swift,Style,18,24,6,3.85
+2021-06-18 00:41:00,Taylor Swift,invisible string,18,24,6,4.21
+2021-06-18 00:45:00,Taylor Swift,Lover,18,24,6,3.69
+2021-06-18 00:49:00,Taylor Swift,willow,18,24,6,3.58
+2021-06-18 00:53:00,Taylor Swift,Blank Space,18,24,6,3.86
+2021-06-18 00:57:00,Taylor Swift,cardigan,18,24,6,3.99
+2021-06-18 01:00:00,Taylor Swift,the 1,18,24,6,3.5
+2021-06-18 01:04:00,Taylor Swift,this is me trying,18,24,6,3.25
+2021-06-18 01:08:00,Taylor Swift,champagne problems,18,24,6,4.07
+2021-06-18 01:12:00,Taylor Swift,tolerate it,18,24,6,4.09
+2021-06-18 01:16:00,Taylor Swift,august,18,24,6,4.37
+2021-06-18 01:26:00,Taylor Swift,All Too Well,18,24,6,5.49
+2021-06-18 01:32:00,Taylor Swift,Enchanted,18,24,6,5.87
+2021-06-18 01:36:00,Taylor Swift,Mean,18,24,6,3.96
+2021-06-18 01:40:00,Taylor Swift,Fearless (Taylor’s Version),18,24,6,4.03
+2021-06-18 01:43:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,18,24,6,3.38
+2021-06-18 01:48:00,Taylor Swift,betty,18,24,6,4.91
+2021-06-18 01:53:00,Taylor Swift,Untouchable (Taylor’s Version),18,24,6,5.2
+2021-06-18 02:11:00,Taylor Swift,mad woman,18,24,6,1.39
+2021-06-18 02:34:00,Taylor Swift,mad woman,18,24,6,3.95
+2021-06-18 02:37:00,Taylor Swift,Delicate,18,24,6,3.87
+2021-06-18 02:41:00,Taylor Swift,Delicate,18,24,6,3.87
+2021-06-18 04:30:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),18,24,6,3.37
+2021-06-18 04:35:00,Taylor Swift,evermore (feat. Bon Iver),18,24,6,5.07
+2021-06-18 04:39:00,Taylor Swift,Love Story (Taylor’s Version),18,24,6,3.93
+2021-06-18 04:43:00,Taylor Swift,You Belong With Me (Taylor’s Version),18,24,6,3.85
+2021-06-18 04:47:00,Taylor Swift,exile (feat. Bon Iver),18,24,6,4.76
+2021-06-18 04:51:00,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),18,24,6,3.22
+2021-06-18 04:54:00,Taylor Swift,hoax,18,24,6,3.67
+2021-06-18 04:58:00,Taylor Swift,Tim McGraw,18,24,6,3.87
+2021-06-18 05:02:00,Taylor Swift,Red,18,24,6,3.72
+2021-06-18 05:03:00,Taylor Swift,Style,18,24,6,1.57
+2021-06-18 05:07:00,Taylor Swift,Lover,18,24,6,3.69
+2021-06-18 05:11:00,Taylor Swift,willow,18,24,6,3.58
+2021-06-18 05:15:00,Taylor Swift,cardigan,18,24,6,3.99
+2021-06-18 05:34:00,Taylor Swift,the 1,18,24,6,1.46
+2021-06-18 06:48:00,Taylor Swift,the 1,18,24,6,2.05
+2021-06-18 06:51:00,Taylor Swift,this is me trying,18,24,6,3.25
+2021-06-18 06:55:00,Taylor Swift,champagne problems,18,24,6,4.07
+2021-06-18 07:00:00,Taylor Swift,tolerate it,18,24,6,4.09
+2021-06-18 07:04:00,Taylor Swift,august,18,24,6,4.37
+2021-06-18 07:10:00,Taylor Swift,All Too Well,18,24,6,5.49
+2021-06-18 07:16:00,Taylor Swift,Enchanted,18,24,6,5.87
+2021-06-18 07:21:00,Taylor Swift,Untouchable (Taylor’s Version),18,24,6,5.2
+2021-06-18 07:25:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),18,24,6,3.68
+2021-06-18 07:30:00,Taylor Swift,All Too Well,18,24,6,5.49
+2021-06-18 07:34:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),18,24,6,4.07
+2021-06-18 07:37:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),18,24,6,3.16
+2021-06-18 07:39:00,Taylor Swift,Mean,18,24,6,1.7
+2021-06-18 07:54:00,Taylor Swift,Fearless (Taylor’s Version),18,24,6,2.29
+2021-06-18 10:28:00,Taylor Swift,All Too Well,18,24,6,4.57
+2021-06-18 11:16:00,Camila Cabello,Shameless,18,24,6,0.61
+2021-06-18 11:17:00,Camila Cabello,Havana (feat. Young Thug),18,24,6,1.39
+2021-06-19 00:36:00,Taylor Swift,All Too Well,19,24,6,5.49
+2021-06-19 00:41:00,Taylor Swift,exile (feat. Bon Iver),19,24,6,4.76
+2021-06-19 00:50:00,Taylor Swift,willow,19,24,6,3.58
+2021-06-19 01:04:00,Taylor Swift,august,19,24,6,4.37
+2021-06-19 01:08:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),19,24,6,3.68
+2021-06-19 01:13:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",19,24,6,4.67
+2021-06-19 01:27:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),19,24,6,2.72
+2021-06-19 02:14:00,Taylor Swift,All Too Well,19,24,6,4.84
+2021-06-19 08:32:00,Taylor Swift,All Too Well,19,24,6,3.42
+2021-06-19 11:53:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),19,24,6,3.63
+2021-06-19 13:49:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),19,24,6,4.07
+2021-06-19 13:57:00,Taylor Swift,Enchanted,19,24,6,5.87
+2021-06-19 14:03:00,Taylor Swift,You Belong With Me (Taylor’s Version),19,24,6,3.85
+2021-06-19 14:43:00,Taylor Swift,champagne problems,19,24,6,1.37
+2021-06-20 00:43:00,Taylor Swift,champagne problems,20,24,6,2.71
+2021-06-20 01:02:00,Taylor Swift,tolerate it,20,24,6,2.16
+2021-06-20 01:14:00,Taylor Swift,tolerate it,20,24,6,1.93
+2021-06-20 01:18:00,Taylor Swift,Delicate,20,24,6,3.87
+2021-06-20 01:21:00,Taylor Swift,this is me trying,20,24,6,3.25
+2021-06-20 01:31:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),20,24,6,3.68
+2021-06-20 01:46:00,Taylor Swift,cardigan,20,24,6,2.94
+2021-06-20 05:31:00,Taylor Swift,Love Story (Taylor’s Version),20,24,6,3.93
+2021-06-20 05:56:00,Taylor Swift,invisible string,20,24,6,1.75
+2021-06-21 01:05:00,Taylor Swift,evermore (feat. Bon Iver),21,25,6,5.07
+2021-06-21 01:09:00,Taylor Swift,the 1,21,25,6,3.5
+2021-06-21 01:14:00,Taylor Swift,All Too Well,21,25,6,5.49
+2021-06-21 01:24:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,21,25,6,3.38
+2021-06-21 01:37:00,Taylor Swift,willow,21,25,6,3.58
+2021-06-21 01:43:00,Taylor Swift,mad woman,21,25,6,3.95
+2021-06-21 01:47:00,Taylor Swift,Red,21,25,6,3.72
+2021-06-21 02:05:00,Taylor Swift,Blank Space,21,25,6,3.85
+2021-06-21 03:24:00,Ed Sheeran,Afterglow,21,25,6,3.09
+2021-06-21 03:30:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",21,25,6,4.67
+2021-06-21 04:30:00,Shawn Mendes,Señorita,21,25,6,3.11
+2021-06-21 05:15:00,Taylor Swift,willow,21,25,6,1.81
+2021-06-21 06:31:00,Taylor Swift,willow,21,25,6,3.64
+2021-06-21 06:47:00,Taylor Swift,evermore (feat. Bon Iver),21,25,6,1.4
+2021-06-21 07:14:00,Taylor Swift,evermore (feat. Bon Iver),21,25,6,3.68
+2021-06-21 07:19:00,Céline Dion,I Surrender,21,25,6,4.8
+2021-06-21 09:32:00,Céline Dion,The Power of Love,21,25,6,5.05
+2021-06-21 10:22:00,Ed Sheeran,Perfect,21,25,6,4.39
+2021-06-21 10:24:00,Lea Salonga,A Whole New World,21,25,6,2.68
+2021-06-21 12:21:00,Alan Walker,Faded,21,25,6,3.39
+2021-06-21 12:37:00,Shawn Mendes,Where Were You In The Morning?,21,25,6,0.96
+2021-06-21 15:07:00,Taylor Swift,happiness,21,25,6,1.54
+2021-06-21 15:37:00,Taylor Swift,All Too Well,21,25,6,5.49
+2021-06-21 15:41:00,Taylor Swift,the 1,21,25,6,3.5
+2021-06-21 15:53:00,Taylor Swift,Untouchable (Taylor’s Version),21,25,6,5.2
+2021-06-21 16:06:00,Taylor Swift,Enchanted,21,25,6,1.86
+2021-06-21 16:23:00,Taylor Swift,Enchanted,21,25,6,4.02
+2021-06-21 16:28:00,Taylor Swift,betty,21,25,6,4.91
+2021-06-21 16:43:00,Taylor Swift,tolerate it,21,25,6,4.0
+2021-06-21 22:41:00,Taylor Swift,You Belong With Me (Taylor’s Version),21,25,6,3.85
+2021-06-21 22:45:00,Taylor Swift,august,21,25,6,4.37
+2021-06-21 22:49:00,Taylor Swift,Blank Space,21,25,6,3.86
+2021-06-21 23:15:00,Taylor Swift,Lover,21,25,6,2.77
+2021-06-21 23:19:00,Taylor Swift,Lover,21,25,6,0.95
+2021-06-22 00:30:00,Taylor Swift,the 1,22,25,6,3.08
+2021-06-22 00:33:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),22,25,6,3.68
+2021-06-22 00:43:00,Taylor Swift,Style,22,25,6,3.85
+2021-06-22 00:48:00,Taylor Swift,champagne problems,22,25,6,4.07
+2021-06-22 01:29:00,Taylor Swift,Enchanted,22,25,6,5.87
+2021-06-22 01:32:00,Ed Sheeran,Afterglow,22,25,6,3.09
+2021-06-22 01:39:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",22,25,6,4.67
+2021-06-22 01:42:00,Shawn Mendes,Señorita,22,25,6,3.18
+2021-06-22 01:47:00,Taylor Swift,Red,22,25,6,3.72
+2021-06-22 01:51:00,Taylor Swift,exile (feat. Bon Iver),22,25,6,4.76
+2021-06-22 01:55:00,Taylor Swift,willow,22,25,6,3.58
+2021-06-22 02:00:00,Taylor Swift,evermore (feat. Bon Iver),22,25,6,5.07
+2021-06-22 02:05:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",22,25,6,4.56
+2021-06-22 02:09:00,Céline Dion,I Surrender,22,25,6,4.8
+2021-06-22 02:15:00,Céline Dion,The Power of Love,22,25,6,5.71
+2021-06-22 02:21:00,Céline Dion,It's All Coming Back to Me Now,22,25,6,6.33
+2021-06-22 02:27:00,Céline Dion,Where Does My Heart Beat Now,22,25,6,4.55
+2021-06-22 02:31:00,Ed Sheeran,Shape of You,22,25,6,3.9
+2021-06-22 02:33:00,Ed Sheeran,Perfect,22,25,6,2.09
+2021-06-22 02:36:00,Lea Salonga,A Whole New World,22,25,6,2.68
+2021-06-22 02:39:00,Susan Egan,I Won't Say (I'm In Love),22,25,6,2.34
+2021-06-22 02:42:00,Shawn Mendes,Mercy,22,25,6,3.48
+2021-06-22 02:46:00,Alan Walker,Faded,22,25,6,3.54
+2021-06-22 02:49:00,Shawn Mendes,Where Were You In The Morning?,22,25,6,3.34
+2021-06-22 02:53:00,Ed Sheeran,Tenerife Sea,22,25,6,4.02
+2021-06-22 02:58:00,Céline Dion,Let's Talk About Love,22,25,6,5.21
+2021-06-22 03:10:00,Céline Dion,I'm Alive,22,25,6,0.56
+2021-06-22 03:35:00,Céline Dion,I'm Alive,22,25,6,2.95
+2021-06-22 03:39:00,Shawn Mendes,There's Nothing Holdin' Me Back,22,25,6,3.32
+2021-06-22 03:42:00,Justin Bieber,Anyone,22,25,6,3.18
+2021-06-22 03:45:00,Taylor Swift,Our Song,22,25,6,3.35
+2021-06-22 03:49:00,Taylor Swift,Style,22,25,6,3.85
+2021-06-22 03:53:00,Taylor Swift,Lover,22,25,6,3.69
+2021-06-22 03:56:00,Maren Morris,The Bones,22,25,6,3.29
+2021-06-22 04:00:00,Taylor Swift,Delicate,22,25,6,3.87
+2021-06-22 04:04:00,Alan Walker,Darkside,22,25,6,3.53
+2021-06-22 04:07:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",22,25,6,3.74
+2021-06-22 04:11:00,Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",22,25,6,3.73
+2021-06-22 04:15:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",22,25,6,4.15
+2021-06-22 04:19:00,Taylor Swift,champagne problems,22,25,6,4.07
+2021-06-22 04:24:00,Céline Dion,Right In Front of You,22,25,6,4.23
+2021-06-22 04:27:00,Miranda Lambert,Settling Down,22,25,6,3.29
+2021-06-22 04:31:00,Maren Morris,The Bones - with Hozier,22,25,6,3.29
+2021-06-22 04:35:00,Taylor Swift,august,22,25,6,4.37
+2021-06-22 04:38:00,Dua Lipa,Levitating,22,25,6,3.4
+2021-06-22 04:39:00,Tape Machines,Lost You,22,25,6,0.8
+2021-06-22 04:42:00,Harry Styles,Watermelon Sugar,22,25,6,2.9
+2021-06-22 04:46:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),22,25,6,3.68
+2021-06-22 04:49:00,Alan Walker,Fake A Smile,22,25,6,2.8
+2021-06-22 04:54:00,Taylor Swift,All Too Well,22,25,6,5.49
+2021-06-22 04:59:00,Taylor Swift,Untouchable (Taylor’s Version),22,25,6,5.2
+2021-06-22 05:03:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),22,25,6,3.16
+2021-06-22 05:06:00,Céline Dion,How Does A Moment Last Forever,22,25,6,3.63
+2021-06-22 05:12:00,Taylor Swift,All Too Well,22,25,6,5.49
+2021-06-22 05:32:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),22,25,6,3.68
+2021-06-22 05:36:00,Taylor Swift,hoax,22,25,6,3.67
+2021-06-22 05:40:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),22,25,6,4.07
+2021-06-22 05:45:00,Céline Dion,Falling Into You,22,25,6,4.3
+2021-06-22 06:29:00,Céline Dion,Let's Talk About Love,22,25,6,5.02
+2021-06-22 06:34:00,Céline Dion,Immortality (feat. Bee Gees),22,25,6,4.16
+2021-06-22 06:39:00,Céline Dion,Right In Front of You,22,25,6,4.23
+2021-06-22 06:43:00,Céline Dion,How Does A Moment Last Forever,22,25,6,3.63
+2021-06-22 07:07:00,Céline Dion,All By Myself,22,25,6,2.54
+2021-06-23 01:03:00,Taylor Swift,hoax,23,25,6,3.67
+2021-06-23 01:07:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),23,25,6,4.07
+2021-06-23 01:12:00,Taylor Swift,All Too Well,23,25,6,5.49
+2021-06-23 01:18:00,Taylor Swift,Untouchable (Taylor’s Version),23,25,6,5.2
+2021-06-23 01:22:00,Taylor Swift,Fearless (Taylor’s Version),23,25,6,4.03
+2021-06-23 01:25:00,Taylor Swift,mad woman,23,25,6,3.95
+2021-06-23 01:30:00,Taylor Swift,Lover,23,25,6,3.69
+2021-06-23 01:34:00,Taylor Swift,Delicate,23,25,6,3.87
+2021-06-23 01:38:00,Taylor Swift,Style,23,25,6,3.85
+2021-06-23 01:41:00,Taylor Swift,Red,23,25,6,3.72
+2021-06-23 01:43:00,Taylor Swift,Blank Space,23,25,6,1.44
+2021-06-23 01:47:00,Camila Cabello,Shameless,23,25,6,3.66
+2021-06-23 01:49:00,Camila Cabello,Living Proof,23,25,6,2.24
+2021-06-23 10:26:00,Taylor Swift,Enchanted,23,25,6,5.34
+2021-06-23 10:30:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),23,25,6,4.07
+2021-06-23 10:34:00,Taylor Swift,Fearless (Taylor’s Version),23,25,6,4.03
+2021-06-23 10:38:00,Taylor Swift,Red,23,25,6,3.72
+2021-06-23 10:44:00,Taylor Swift,Enchanted,23,25,6,5.87
+2021-06-23 10:48:00,Taylor Swift,champagne problems,23,25,6,4.07
+2021-06-23 10:52:00,Taylor Swift,mad woman,23,25,6,3.95
+2021-06-23 10:55:00,Taylor Swift,Our Song,23,25,6,3.35
+2021-06-23 11:00:00,Taylor Swift,Untouchable (Taylor’s Version),23,25,6,4.8
+2021-06-23 13:22:00,Taylor Swift,Untouchable (Taylor’s Version),23,25,6,5.28
+2021-06-23 13:37:00,Taylor Swift,All Too Well,23,25,6,5.01
+2021-06-23 23:40:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",23,25,6,4.67
+2021-06-23 23:45:00,Céline Dion,Where Does My Heart Beat Now,23,25,6,4.55
+2021-06-23 23:54:00,Céline Dion,I Surrender,23,25,6,4.8
+2021-06-23 23:59:00,Céline Dion,Falling Into You,23,25,6,4.3
+2021-06-24 00:04:00,Céline Dion,All By Myself,24,25,6,5.21
+2021-06-24 00:12:00,Céline Dion,It's All Coming Back to Me Now,24,25,6,7.61
+2021-06-24 00:23:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",24,25,6,1.78
+2021-06-24 00:36:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",24,25,6,2.31
+2021-06-24 00:40:00,Céline Dion,Immortality (feat. Bee Gees),24,25,6,4.18
+2021-06-24 00:43:00,Céline Dion,How Does A Moment Last Forever,24,25,6,3.63
+2021-06-24 00:48:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",24,25,6,4.56
+2021-06-24 00:54:00,Céline Dion,The Power of Love,24,25,6,5.71
+2021-06-24 00:57:00,Céline Dion,I'm Alive,24,25,6,3.5
+2021-06-24 01:01:00,Céline Dion,Right In Front of You,24,25,6,4.23
+2021-06-24 13:34:00,Taylor Swift,willow,24,25,6,3.58
+2021-06-24 13:39:00,Taylor Swift,betty,24,25,6,4.91
+2021-06-24 13:42:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),24,25,6,3.34
+2021-06-24 16:04:00,Taylor Swift,august,24,25,6,4.37
+2021-06-24 16:09:00,Taylor Swift,Enchanted,24,25,6,4.13
+2021-06-24 16:22:00,Taylor Swift,Enchanted,24,25,6,1.74
+2021-06-24 16:23:00,Taylor Swift,Our Song,24,25,6,0.76
+2021-06-24 16:24:00,Taylor Swift,illicit affairs,24,25,6,1.04
+2021-06-24 16:25:00,Taylor Swift,epiphany,24,25,6,1.55
+2021-06-24 16:28:00,Taylor Swift,mirrorball,24,25,6,2.32
+2021-06-24 16:29:00,Taylor Swift,Delicate,24,25,6,0.67
+2021-06-24 23:46:00,Céline Dion,Let's Talk About Love,24,25,6,4.85
+2021-06-24 23:51:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",24,25,6,4.67
+2021-06-24 23:55:00,Céline Dion,Where Does My Heart Beat Now,24,25,6,4.55
+2021-06-25 00:00:00,Céline Dion,I Surrender,25,25,6,4.8
+2021-06-25 00:04:00,Céline Dion,Falling Into You,25,25,6,4.3
+2021-06-25 00:10:00,Céline Dion,All By Myself,25,25,6,5.21
+2021-06-25 00:17:00,Céline Dion,It's All Coming Back to Me Now,25,25,6,7.61
+2021-06-25 00:21:00,Peabo Bryson,"Beauty and the Beast - From ""Beauty and the Beast"" / Duet",25,25,6,4.08
+2021-06-25 00:36:00,Céline Dion,Immortality (feat. Bee Gees),25,25,6,3.82
+2021-06-25 00:39:00,Alan Walker,Faded,25,25,6,3.54
+2021-06-25 00:44:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",25,25,6,4.67
+2021-06-25 00:46:00,Lea Salonga,A Whole New World,25,25,6,2.68
+2021-06-25 02:20:00,Taylor Swift,exile (feat. Bon Iver),25,25,6,4.76
+2021-06-25 02:23:00,Justin Bieber,Anyone,25,25,6,3.18
+2021-06-25 02:26:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),25,25,6,3.68
+2021-06-25 02:32:00,Taylor Swift,All Too Well,25,25,6,5.49
+2021-06-25 02:35:00,Miranda Lambert,Bluebird,25,25,6,3.5
+2021-06-25 03:20:00,Céline Dion,The Power of Love,25,25,6,3.59
+2021-06-25 08:53:00,Ed Sheeran,Bad Habits,25,25,6,3.85
+2021-06-25 08:56:00,Ed Sheeran,Bad Habits,25,25,6,3.85
+2021-06-25 09:00:00,Ed Sheeran,Bad Habits,25,25,6,3.11
+2021-06-25 09:00:00,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),25,25,6,0.74
+2021-06-25 11:59:00,Maren Morris,The Bones,25,25,6,3.29
+2021-06-25 12:03:00,Alan Walker,Darkside,25,25,6,3.53
+2021-06-25 12:07:00,Ed Sheeran,Tenerife Sea,25,25,6,4.02
+2021-06-25 12:09:00,Susan Egan,I Won't Say (I'm In Love),25,25,6,2.34
+2021-06-25 12:13:00,Taylor Swift,willow,25,25,6,3.58
+2021-06-25 12:17:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",25,25,6,4.15
+2021-06-25 12:21:00,Taylor Swift,Delicate,25,25,6,3.87
+2021-06-25 12:34:00,Shawn Mendes,Señorita,25,25,6,2.29
+2021-06-26 02:07:00,Shawn Mendes,Señorita,26,25,6,0.91
+2021-06-26 02:12:00,Taylor Swift,august,26,25,6,4.37
+2021-06-26 02:24:00,Taylor Swift,Untouchable (Taylor’s Version),26,25,6,5.2
+2021-06-26 02:28:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",26,25,6,3.74
+2021-06-26 02:33:00,Céline Dion,Let's Talk About Love,26,25,6,5.21
+2021-06-26 02:37:00,Shawn Mendes,There's Nothing Holdin' Me Back,26,25,6,3.32
+2021-06-26 02:41:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",26,25,6,4.56
+2021-06-26 03:20:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,26,25,6,2.96
+2021-06-26 15:57:00,Ed Sheeran,Bad Habits,26,25,6,3.85
+2021-06-26 16:01:00,Ed Sheeran,Bad Habits,26,25,6,3.85
+2021-06-26 16:05:00,Ed Sheeran,Bad Habits,26,25,6,3.85
+2021-06-26 16:08:00,Ed Sheeran,Bad Habits,26,25,6,3.85
+2021-06-26 16:13:00,Ed Sheeran,Bad Habits,26,25,6,3.85
+2021-06-26 16:15:00,Ed Sheeran,Bad Habits,26,25,6,2.02
+2021-06-27 01:05:00,Miranda Lambert,Bluebird,27,25,6,0.53
+2021-06-27 01:09:00,Ed Sheeran,Bad Habits,27,25,6,3.85
+2021-06-27 01:14:00,Céline Dion,The Power of Love,27,25,6,5.71
+2021-06-27 01:18:00,Taylor Swift,Tim McGraw,27,25,6,3.87
+2021-06-27 01:21:00,Tape Machines,Lost You,27,25,6,3.03
+2021-06-27 01:25:00,Céline Dion,I'm Alive,27,25,6,3.5
+2021-06-27 01:28:00,Shawn Mendes,Where Were You In The Morning?,27,25,6,3.34
+2021-06-27 01:29:00,Taylor Swift,Our Song,27,25,6,0.59
+2021-06-27 01:33:00,Taylor Swift,champagne problems,27,25,6,4.07
+2021-06-27 01:36:00,Dua Lipa,Don't Start Now,27,25,6,3.05
+2021-06-27 01:44:00,Taylor Swift,Enchanted,27,25,6,5.87
+2021-06-27 01:47:00,Harry Styles,Watermelon Sugar,27,25,6,2.9
+2021-06-27 01:50:00,Taylor Swift,Blank Space,27,25,6,3.86
+2021-06-27 01:55:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",27,25,6,4.15
+2021-06-27 01:58:00,Taylor Swift,Lover,27,25,6,3.69
+2021-06-27 02:01:00,Taylor Swift,Style,27,25,6,2.99
+2021-06-27 02:29:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),27,25,6,3.68
+2021-06-27 02:34:00,Taylor Swift,All Too Well,27,25,6,5.49
+2021-06-27 10:31:00,Taylor Swift,exile (feat. Bon Iver),27,25,6,4.76
+2021-06-27 10:37:00,Taylor Swift,Enchanted,27,25,6,5.87
+2021-06-27 10:41:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",27,25,6,4.15
+2021-06-27 10:44:00,Céline Dion,I'm Alive,27,25,6,3.5
+2021-06-27 10:48:00,Shawn Mendes,Mercy,27,25,6,3.48
+2021-06-27 10:52:00,Ed Sheeran,Perfect,27,25,6,4.39
+2021-06-27 10:58:00,Taylor Swift,Untouchable (Taylor’s Version),27,25,6,5.2
+2021-06-27 11:01:00,Ed Sheeran,Bad Habits,27,25,6,3.85
+2021-06-27 11:05:00,Justin Bieber,Anyone,27,25,6,3.18
+2021-06-27 11:08:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,27,25,6,3.38
+2021-06-27 11:12:00,Céline Dion,How Does A Moment Last Forever,27,25,6,3.63
+2021-06-27 11:14:00,Taylor Swift,Style,27,25,6,0.84
+2021-06-27 11:18:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),27,25,6,3.68
+2021-06-27 11:24:00,Céline Dion,Let's Talk About Love,27,25,6,5.21
+2021-06-27 12:14:00,Taylor Swift,Our Song,27,25,6,3.3
+2021-06-27 14:47:00,Ed Sheeran,Bad Habits,27,25,6,3.85
+2021-06-27 14:51:00,Ed Sheeran,Bad Habits,27,25,6,3.85
+2021-06-27 14:55:00,Ed Sheeran,Bad Habits,27,25,6,3.85
+2021-06-28 01:43:00,Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",28,26,6,3.73
+2021-06-28 01:49:00,Taylor Swift,All Too Well,28,26,6,5.49
+2021-06-28 01:51:00,Lea Salonga,A Whole New World,28,26,6,2.68
+2021-06-28 01:55:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),28,26,6,3.68
+2021-06-28 01:58:00,Justin Bieber,Anyone,28,26,6,3.18
+2021-06-28 02:02:00,Alan Walker,Faded,28,26,6,3.54
+2021-06-28 02:06:00,Ed Sheeran,Perfect,28,26,6,4.39
+2021-06-28 02:10:00,Maren Morris,The Bones - with Hozier,28,26,6,3.29
+2021-06-28 02:13:00,Ed Sheeran,Afterglow,28,26,6,3.09
+2021-06-28 02:16:00,Harry Styles,Watermelon Sugar,28,26,6,2.9
+2021-06-28 02:17:00,Taylor Swift,Blank Space,28,26,6,1.01
+2021-06-28 02:20:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),28,26,6,3.16
+2021-06-28 03:31:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",28,26,6,3.32
+2021-06-28 05:16:00,Taylor Swift,All Too Well,28,26,6,5.49
+2021-06-28 05:20:00,Ed Sheeran,Bad Habits,28,26,6,3.85
+2021-06-28 05:25:00,Taylor Swift,Untouchable (Taylor’s Version),28,26,6,5.2
+2021-06-28 05:27:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),28,26,6,1.94
+2021-06-28 09:37:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",28,26,6,4.15
+2021-06-28 09:41:00,Taylor Swift,champagne problems,28,26,6,4.07
+2021-06-28 09:45:00,Céline Dion,Right In Front of You,28,26,6,4.23
+2021-06-28 09:48:00,Miranda Lambert,Settling Down,28,26,6,3.29
+2021-06-28 09:51:00,Susan Egan,I Won't Say (I'm In Love),28,26,6,2.34
+2021-06-28 09:53:00,Lea Salonga,A Whole New World,28,26,6,2.68
+2021-06-28 09:57:00,Maren Morris,The Bones,28,26,6,3.29
+2021-06-28 10:03:00,Taylor Swift,Enchanted,28,26,6,5.87
+2021-06-28 10:04:00,Taylor Swift,Blank Space,28,26,6,1.0
+2021-06-28 10:23:00,Alan Walker,Fake A Smile,28,26,6,1.73
+2021-06-28 10:49:00,Alan Walker,Fake A Smile,28,26,6,1.08
+2021-06-28 10:53:00,Céline Dion,Where Does My Heart Beat Now,28,26,6,4.55
+2021-06-28 10:57:00,Alan Walker,Darkside,28,26,6,3.53
+2021-06-28 11:03:00,Ed Sheeran,Perfect,28,26,6,4.39
+2021-06-28 11:07:00,Taylor Swift,Red,28,26,6,3.72
+2021-06-28 11:10:00,Dua Lipa,Levitating,28,26,6,3.4
+2021-06-28 11:14:00,Céline Dion,Right In Front of You,28,26,6,4.23
+2021-06-28 11:20:00,Taylor Swift,All Too Well,28,26,6,5.49
+2021-06-28 11:24:00,Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",28,26,6,3.73
+2021-06-28 11:27:00,Céline Dion,I'm Alive,28,26,6,3.5
+2021-06-28 11:30:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),28,26,6,3.16
+2021-06-28 11:35:00,Taylor Swift,evermore (feat. Bon Iver),28,26,6,5.07
+2021-06-28 11:40:00,Taylor Swift,august,28,26,6,4.37
+2021-06-28 11:45:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",28,26,6,4.56
+2021-06-28 11:47:00,Taylor Swift,Style,28,26,6,1.91
+2021-06-28 11:52:00,Céline Dion,Let's Talk About Love,28,26,6,5.21
+2021-06-28 11:55:00,Ed Sheeran,Afterglow,28,26,6,3.09
+2021-06-28 11:59:00,Céline Dion,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",28,26,6,4.15
+2021-06-28 12:03:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",28,26,6,3.74
+2021-06-28 12:07:00,Ed Sheeran,Shape of You,28,26,6,3.9
+2021-06-28 12:10:00,Maren Morris,The Bones - with Hozier,28,26,6,3.29
+2021-06-28 12:14:00,Shawn Mendes,Mercy,28,26,6,3.48
+2021-06-28 12:17:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,26,6,3.32
+2021-06-28 12:25:00,Céline Dion,How Does A Moment Last Forever,28,26,6,3.63
+2021-06-28 12:32:00,Céline Dion,It's All Coming Back to Me Now,28,26,6,7.61
+2021-06-28 12:41:00,Tape Machines,Lost You,28,26,6,3.03
+2021-06-28 12:45:00,Taylor Swift,champagne problems,28,26,6,4.07
+2021-06-28 12:50:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",28,26,6,4.67
+2021-06-28 12:53:00,Dua Lipa,Don't Start Now,28,26,6,3.05
+2021-06-28 12:57:00,Ed Sheeran,Tenerife Sea,28,26,6,4.02
+2021-06-28 13:10:00,Taylor Swift,exile (feat. Bon Iver),28,26,6,0.54
+2021-06-28 14:15:00,Ed Sheeran,Bad Habits,28,26,6,3.85
+2021-06-28 14:19:00,Taylor Swift,Red,28,26,6,3.72
+2021-06-28 14:22:00,Shawn Mendes,There's Nothing Holdin' Me Back,28,26,6,3.32
+2021-06-28 14:27:00,Taylor Swift,champagne problems,28,26,6,4.07
+2021-06-28 14:30:00,Ed Sheeran,Shape of You,28,26,6,3.9
+2021-06-28 14:44:00,Alan Walker,Darkside,28,26,6,1.38
+2021-06-28 15:14:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),28,26,6,3.16
+2021-06-28 15:17:00,Céline Dion,How Does A Moment Last Forever,28,26,6,3.63
+2021-06-28 15:23:00,Taylor Swift,Enchanted,28,26,6,5.87
+2021-06-28 16:19:00,Ed Sheeran,Afterglow,28,26,6,0.51
+2021-06-29 02:05:00,Harry Styles,Watermelon Sugar,29,26,6,2.9
+2021-06-29 02:08:00,Maren Morris,The Bones - with Hozier,29,26,6,3.29
+2021-06-29 02:11:00,Shawn Mendes,There's Nothing Holdin' Me Back,29,26,6,3.32
+2021-06-29 02:15:00,Dua Lipa,Levitating,29,26,6,3.4
+2021-06-29 02:19:00,Céline Dion,Right In Front of You,29,26,6,4.23
+2021-06-29 02:22:00,Lea Salonga,A Whole New World,29,26,6,2.68
+2021-06-29 02:23:00,Taylor Swift,willow,29,26,6,1.14
+2021-06-29 02:25:00,Taylor Swift,willow,29,26,6,2.43
+2021-06-29 02:31:00,Céline Dion,Let's Talk About Love,29,26,6,5.21
+2021-06-29 02:35:00,Taylor Swift,august,29,26,6,4.37
+2021-06-29 02:39:00,Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",29,26,6,3.73
+2021-06-29 02:42:00,Alan Walker,Darkside,29,26,6,3.53
+2021-06-29 02:45:00,Dua Lipa,Don't Start Now,29,26,6,3.05
+2021-06-29 02:50:00,Taylor Swift,evermore (feat. Bon Iver),29,26,6,5.07
+2021-06-29 02:54:00,Ed Sheeran,Shape of You,29,26,6,3.9
+2021-06-29 02:55:00,Taylor Swift,Our Song,29,26,6,1.13
+2021-06-29 02:59:00,Taylor Swift,Lover,29,26,6,3.69
+2021-06-29 03:03:00,Taylor Swift,cardigan,29,26,6,3.99
+2021-06-29 03:07:00,Taylor Swift,hoax,29,26,6,3.67
+2021-06-29 03:12:00,Taylor Swift,Enchanted,29,26,6,5.87
+2021-06-29 03:17:00,Taylor Swift,invisible string,29,26,6,4.21
+2021-06-29 03:21:00,Taylor Swift,Fearless (Taylor’s Version),29,26,6,4.03
+2021-06-29 03:25:00,Taylor Swift,Delicate,29,26,6,3.87
+2021-06-29 03:45:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),29,26,6,7.82
+2021-06-29 03:48:00,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),29,26,6,3.22
+2021-06-29 05:32:00,Taylor Swift,Love Story (Taylor’s Version),29,26,6,3.93
+2021-06-29 05:36:00,Taylor Swift,tolerate it,29,26,6,4.09
+2021-06-29 05:42:00,Taylor Swift,Enchanted,29,26,6,5.87
+2021-06-29 06:01:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),29,26,6,4.07
+2021-06-29 06:06:00,Taylor Swift,betty,29,26,6,4.91
+2021-06-29 06:11:00,Taylor Swift,evermore (feat. Bon Iver),29,26,6,5.07
+2021-06-29 06:15:00,Taylor Swift,Tim McGraw,29,26,6,3.87
+2021-06-29 06:19:00,Taylor Swift,Fearless (Taylor’s Version),29,26,6,4.03
+2021-06-29 06:23:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),29,26,6,3.68
+2021-06-29 07:41:00,Taylor Swift,exile (feat. Bon Iver),29,26,6,1.41
+2021-06-29 08:03:00,Taylor Swift,All Too Well,29,26,6,5.49
+2021-06-29 08:07:00,Taylor Swift,hoax,29,26,6,3.67
+2021-06-29 08:11:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),29,26,6,4.07
+2021-06-29 08:14:00,Taylor Swift,Red,29,26,6,3.72
+2021-06-29 08:18:00,Taylor Swift,willow,29,26,6,3.58
+2021-06-29 08:36:00,Taylor Swift,Enchanted,29,26,6,2.8
+2021-06-29 11:50:00,Taylor Swift,august,29,26,6,4.37
+2021-06-29 11:54:00,Taylor Swift,Delicate,29,26,6,3.87
+2021-06-29 11:59:00,Taylor Swift,mad woman,29,26,6,3.95
+2021-06-29 12:03:00,Taylor Swift,Fearless (Taylor’s Version),29,26,6,4.03
+2021-06-29 12:07:00,Taylor Swift,champagne problems,29,26,6,4.07
+2021-06-29 15:56:00,Taylor Swift,All Too Well,29,26,6,5.49
+2021-06-29 16:00:00,Taylor Swift,hoax,29,26,6,3.67
+2021-06-29 16:24:00,Taylor Swift,We Were Happy (Taylor’s Version) (From The Vault),29,26,6,3.67
+2021-06-30 02:59:00,Céline Dion,Right In Front of You,30,26,6,4.23
+2021-06-30 03:02:00,Taylor Swift,Our Song,30,26,6,3.35
+2021-06-30 03:06:00,Ed Sheeran,Shape of You,30,26,6,3.9
+2021-06-30 03:10:00,Alan Walker,Darkside,30,26,6,3.53
+2021-06-30 03:13:00,Taylor Swift,willow,30,26,6,3.58
+2021-06-30 03:16:00,Harry Styles,Watermelon Sugar,30,26,6,2.9
+2021-06-30 03:19:00,Taylor Swift,august,30,26,6,2.94
+2021-06-30 03:21:00,Taylor Swift,august,30,26,6,1.4
+2021-06-30 03:25:00,Shawn Mendes,Señorita,30,26,6,3.18
+2021-06-30 03:28:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),30,26,6,3.16
+2021-06-30 03:31:00,Miranda Lambert,Settling Down,30,26,6,3.29
+2021-06-30 03:32:00,Ed Sheeran,Shape of You,30,26,6,0.95
+2021-06-30 03:35:00,Maren Morris,The Bones,30,26,6,3.29
+2021-06-30 03:39:00,Maren Morris,The Bones - with Hozier,30,26,6,3.29
+2021-06-30 03:43:00,Taylor Swift,cardigan,30,26,6,3.99
+2021-06-30 03:47:00,Céline Dion,I Surrender,30,26,6,4.8
+2021-06-30 03:53:00,Céline Dion,The Power of Love,30,26,6,5.71
+2021-06-30 03:56:00,Taylor Swift,Our Song,30,26,6,3.35
+2021-06-30 03:59:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,26,6,2.86
+2021-06-30 05:35:00,Taylor Swift,All Too Well,30,26,6,5.49
+2021-06-30 05:38:00,Taylor Swift,hoax,30,26,6,3.67
+2021-06-30 05:50:00,Taylor Swift,Untouchable (Taylor’s Version),30,26,6,1.86
+2021-06-30 06:01:00,Taylor Swift,Untouchable (Taylor’s Version),30,26,6,3.35
+2021-06-30 06:06:00,Taylor Swift,exile (feat. Bon Iver),30,26,6,4.76
+2021-06-30 06:10:00,Taylor Swift,willow,30,26,6,3.58
+2021-06-30 06:35:00,Taylor Swift,august,30,26,6,1.14
+2021-06-30 07:54:00,Taylor Swift,august,30,26,6,3.22
+2021-06-30 07:58:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),30,26,6,3.68
+2021-06-30 08:03:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",30,26,6,4.67
+2021-06-30 08:06:00,Taylor Swift,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),30,26,6,3.68
+2021-06-30 08:20:00,Taylor Swift,Delicate,30,26,6,3.02
+2021-06-30 10:07:00,Taylor Swift,Delicate,30,26,6,0.86
+2021-06-30 10:13:00,Taylor Swift,evermore (feat. Bon Iver),30,26,6,5.07
+2021-06-30 10:18:00,Taylor Swift,betty,30,26,6,4.91
+2021-06-30 10:24:00,Taylor Swift,Enchanted,30,26,6,5.87
+2021-06-30 14:34:00,Alan Walker,Faded,30,26,6,3.54
+2021-06-30 14:38:00,Ed Sheeran,Bad Habits,30,26,6,3.85
+2021-06-30 14:41:00,Alan Walker,Fake A Smile,30,26,6,2.8
+2021-06-30 14:47:00,Taylor Swift,Tim McGraw,30,26,6,3.28
+2021-06-30 14:51:00,Justin Bieber,Anyone,30,26,6,3.18
+2021-06-30 14:54:00,Shawn Mendes,Señorita,30,26,6,3.18
+2021-06-30 14:57:00,Maren Morris,The Bones,30,26,6,3.29
+2021-06-30 15:01:00,Taylor Swift,Red,30,26,6,3.72
+2021-06-30 15:04:00,Maren Morris,The Bones - with Hozier,30,26,6,3.29
+2021-06-30 15:08:00,Miranda Lambert,Bluebird,30,26,6,3.5
+2021-06-30 15:14:00,Taylor Swift,Enchanted,30,26,6,5.87
+2021-06-30 15:18:00,Céline Dion,I Surrender,30,26,6,4.8
+2021-06-30 15:24:00,Céline Dion,The Power of Love,30,26,6,5.71
+2021-06-30 15:28:00,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",30,26,6,3.74
+2021-06-30 15:31:00,Alan Walker,Fake A Smile,30,26,6,2.8
+2021-06-30 15:35:00,Ed Sheeran,Tenerife Sea,30,26,6,4.02
+2021-06-30 15:39:00,Ed Sheeran,Bad Habits,30,26,6,3.85
+2021-06-30 15:43:00,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",30,26,6,4.56
+2021-06-30 15:47:00,Taylor Swift,Teardrops On My Guitar - Radio Single Remix,30,26,6,3.38
+2021-06-30 15:49:00,Lea Salonga,A Whole New World,30,26,6,2.68
+2021-06-30 15:53:00,Taylor Swift,Delicate,30,26,6,3.87
+2021-06-30 16:01:00,Céline Dion,It's All Coming Back to Me Now,30,26,6,7.61
+2021-06-30 16:03:00,Susan Egan,I Won't Say (I'm In Love),30,26,6,2.34
+2021-06-30 16:06:00,Shawn Mendes,There's Nothing Holdin' Me Back,30,26,6,3.32
+2021-06-30 16:10:00,Alan Walker,Darkside,30,26,6,3.53
+2021-06-30 16:14:00,Taylor Swift,Style,30,26,6,3.85
+2021-06-30 16:17:00,Taylor Swift,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),30,26,6,3.16
+2021-06-30 16:43:00,Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",30,26,6,0.59

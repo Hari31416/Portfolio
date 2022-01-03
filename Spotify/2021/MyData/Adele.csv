@@ -1,0 +1,554 @@
+endTime,artistName,trackName,Day,Week,Month,Minutes Played
+2021-01-21 16:15:00,Adele,Someone Like You,21,3,1,1.96
+2021-01-24 16:56:00,Adele,Someone Like You,24,3,1,1.92
+2021-02-08 13:55:00,Adele,Someone Like You,8,6,2,0.89
+2021-02-23 14:24:00,Adele,Daydreamer,23,8,2,0.59
+2021-02-23 14:25:00,Adele,Rolling in the Deep,23,8,2,0.56
+2021-02-23 14:26:00,Adele,Skyfall,23,8,2,0.93
+2021-03-15 15:06:00,Adele,Hello,15,11,3,1.03
+2021-05-01 09:52:00,Adele,Hello,1,17,5,0.9
+2021-09-06 12:26:00,Adele,Hello,6,36,9,3.38
+2021-09-06 12:28:00,Adele,Someone Like You,6,36,9,1.9
+2021-09-06 12:30:00,Adele,Rolling in the Deep,6,36,9,2.29
+2021-09-06 12:33:00,Adele,When We Were Young,6,36,9,1.21
+2021-10-16 02:22:00,Adele,Easy On Me,16,41,10,3.74
+2021-10-16 03:02:00,Adele,Easy On Me,16,41,10,2.3
+2021-10-18 02:56:00,Adele,Easy On Me,18,42,10,3.74
+2021-11-03 12:25:00,Adele,Daydreamer,3,44,11,3.68
+2021-11-03 12:27:00,Adele,Best For Last,3,44,11,2.12
+2021-11-03 12:30:00,Adele,Chasing Pavements,3,44,11,3.51
+2021-11-03 12:33:00,Adele,Cold Shoulder,3,44,11,2.28
+2021-11-03 12:35:00,Adele,Crazy For You,3,44,11,2.32
+2021-11-03 12:37:00,Adele,Melt My Heart To Stone,3,44,11,2.25
+2021-11-03 12:39:00,Adele,First Love,3,44,11,1.67
+2021-11-03 12:41:00,Adele,Right As Rain,3,44,11,1.82
+2021-11-03 12:44:00,Adele,Make You Feel My Love,3,44,11,3.53
+2021-11-03 12:47:00,Adele,My Same,3,44,11,2.94
+2021-11-03 12:50:00,Adele,Tired,3,44,11,3.01
+2021-11-03 12:53:00,Adele,Hometown Glory,3,44,11,3.0
+2021-11-03 12:55:00,Adele,"That's It, I Quit, I'm Movin' On - Live at Hotel Cafe",3,44,11,2.08
+2021-11-03 12:56:00,Adele,Many Shades Of Black - Performed by The Raconteurs and Adele,3,44,11,0.88
+2021-11-04 12:00:00,Adele,Rumour Has It,4,44,11,1.32
+2021-11-04 12:04:00,Adele,Turning Tables,4,44,11,4.17
+2021-11-04 12:07:00,Adele,Don't You Remember,4,44,11,2.87
+2021-11-04 12:11:00,Adele,Set Fire to the Rain,4,44,11,4.05
+2021-11-04 12:13:00,Adele,He Won't Go,4,44,11,1.92
+2021-11-04 12:14:00,Adele,Take It All,4,44,11,1.16
+2021-11-04 12:23:00,Adele,I'll Be Waiting,4,44,11,2.36
+2021-11-04 12:26:00,Adele,One And Only,4,44,11,3.01
+2021-11-04 12:29:00,Adele,Lovesong,4,44,11,3.28
+2021-11-04 12:30:00,Adele,Someone Like You,4,44,11,1.14
+2021-11-04 12:35:00,Adele,Love In The Dark,4,44,11,4.77
+2021-11-04 12:37:00,Adele,Rolling in the Deep,4,44,11,1.32
+2021-11-04 12:42:00,Adele,When We Were Young,4,44,11,4.85
+2021-11-04 12:47:00,Adele,One And Only,4,44,11,5.8
+2021-11-04 13:05:00,Adele,Hello,4,44,11,2.48
+2021-11-05 11:46:00,Adele,Send My Love (To Your New Lover),5,44,11,1.15
+2021-11-05 11:48:00,Adele,I Miss You,5,44,11,1.67
+2021-11-05 11:52:00,Adele,Remedy,5,44,11,4.09
+2021-11-05 11:56:00,Adele,Water Under the Bridge,5,44,11,4.01
+2021-11-05 11:57:00,Adele,River Lea,5,44,11,0.86
+2021-11-05 11:57:00,Adele,Love In The Dark,5,44,11,0.78
+2021-11-05 11:59:00,Adele,Million Years Ago,5,44,11,1.75
+2021-11-05 12:04:00,Adele,All I Ask,5,44,11,4.53
+2021-11-05 12:08:00,Adele,Sweetest Devotion,5,44,11,4.2
+2021-11-05 12:13:00,Adele,Love In The Dark,5,44,11,4.77
+2021-11-05 12:14:00,Adele,All I Ask,5,44,11,1.49
+2021-11-05 12:47:00,Adele,Hello,5,44,11,4.93
+2021-11-05 12:51:00,Adele,I'll Be Waiting,5,44,11,4.02
+2021-11-05 12:55:00,Adele,Love In The Dark,5,44,11,4.77
+2021-11-05 13:01:00,Adele,One And Only,5,44,11,5.8
+2021-11-05 13:05:00,Adele,Set Fire to the Rain,5,44,11,4.05
+2021-11-05 13:09:00,Adele,Water Under the Bridge,5,44,11,4.01
+2021-11-05 13:13:00,Adele,Remedy,5,44,11,4.09
+2021-11-05 13:17:00,Adele,Don't You Remember,5,44,11,4.05
+2021-11-05 13:19:00,Adele,Chasing Pavements,5,44,11,1.36
+2021-11-06 13:14:00,Adele,Chasing Pavements,6,44,11,2.15
+2021-11-06 13:17:00,Adele,Make You Feel My Love,6,44,11,3.53
+2021-11-06 13:21:00,Adele,Rolling in the Deep,6,44,11,3.8
+2021-11-06 13:26:00,Adele,Someone Like You,6,44,11,4.75
+2021-11-06 13:30:00,Adele,When We Were Young,6,44,11,4.85
+2021-11-06 13:35:00,Adele,Tired,6,44,11,4.31
+2021-11-06 13:39:00,Adele,All I Ask,6,44,11,4.53
+2021-11-06 13:43:00,Adele,Easy On Me,6,44,11,3.74
+2021-11-06 13:48:00,Adele,Hello,6,44,11,4.93
+2021-11-06 14:33:00,Adele,I'll Be Waiting,6,44,11,2.15
+2021-11-07 07:18:00,Adele,Love In The Dark,7,44,11,4.77
+2021-11-08 12:20:00,Adele,One And Only,8,45,11,2.44
+2021-11-19 01:45:00,Adele,Easy On Me,19,46,11,3.74
+2021-11-19 01:49:00,Adele,Can I Get It,19,46,11,3.51
+2021-11-19 01:56:00,Adele,To Be Loved,19,46,11,6.73
+2021-11-19 02:25:00,Adele,Love Is A Game,19,46,11,2.21
+2021-11-19 05:35:00,Adele,Easy On Me,19,46,11,3.74
+2021-11-19 05:40:00,Adele,Woman Like Me,19,46,11,5.0
+2021-11-19 05:42:00,Adele,I Drink Wine,19,46,11,1.31
+2021-11-19 06:25:00,Adele,Strangers By Nature,19,46,11,2.6
+2021-11-19 12:06:00,Adele,Strangers By Nature,19,46,11,1.56
+2021-11-19 12:12:00,Adele,My Little Love,19,46,11,6.49
+2021-11-19 12:14:00,Adele,Cry Your Heart Out,19,46,11,1.67
+2021-11-19 12:23:00,Adele,Oh My God,19,46,11,3.75
+2021-11-19 12:26:00,Adele,Can I Get It,19,46,11,3.51
+2021-11-26 14:11:00,Adele,Love In The Dark,26,47,11,4.77
+2021-11-26 14:14:00,Adele,Chasing Pavements,26,47,11,3.51
+2021-11-26 14:18:00,Adele,Rolling in the Deep,26,47,11,3.8
+2021-11-26 14:23:00,Adele,All I Ask,26,47,11,4.53
+2021-11-26 14:34:00,Adele,I'll Be Waiting,26,47,11,0.93
+2021-11-26 15:27:00,Adele,Chasing Pavements,26,47,11,3.51
+2021-11-26 15:31:00,Adele,I'll Be Waiting,26,47,11,4.02
+2021-11-26 15:35:00,Adele,Set Fire to the Rain,26,47,11,4.05
+2021-11-26 15:39:00,Adele,Remedy,26,47,11,4.09
+2021-11-26 15:44:00,Adele,Love In The Dark,26,47,11,4.77
+2021-11-26 15:47:00,Adele,Make You Feel My Love,26,47,11,3.53
+2021-11-26 15:49:00,Adele,When We Were Young,26,47,11,1.48
+2021-11-27 03:02:00,Adele,I'll Be Waiting,27,47,11,3.09
+2021-11-27 03:08:00,Adele,One And Only,27,47,11,5.8
+2021-11-27 03:09:00,Adele,Make You Feel My Love,27,47,11,1.09
+2021-11-27 03:13:00,Adele,Make You Feel My Love,27,47,11,2.44
+2021-11-27 03:18:00,Adele,Love In The Dark,27,47,11,4.3
+2021-11-27 03:23:00,Adele,Love In The Dark,27,47,11,4.82
+2021-11-27 03:27:00,Adele,Someone Like You,27,47,11,4.75
+2021-11-27 03:31:00,Adele,Easy On Me,27,47,11,3.74
+2021-11-27 03:35:00,Adele,Tired,27,47,11,4.31
+2021-11-27 03:39:00,Adele,I'll Be Waiting,27,47,11,4.02
+2021-11-27 03:45:00,Adele,One And Only,27,47,11,5.8
+2021-11-27 03:50:00,Adele,Love In The Dark,27,47,11,4.77
+2021-11-27 03:54:00,Adele,All I Ask,27,47,11,4.53
+2021-11-27 03:59:00,Adele,When We Were Young,27,47,11,4.85
+2021-11-28 07:00:00,Adele,Love In The Dark,28,47,11,9.38
+2021-11-28 07:04:00,Adele,Love In The Dark,28,47,11,4.77
+2021-11-28 07:09:00,Adele,Love In The Dark,28,47,11,4.77
+2021-11-28 07:14:00,Adele,Love In The Dark,28,47,11,4.77
+2021-11-28 07:19:00,Adele,Love In The Dark,28,47,11,4.77
+2021-11-28 07:23:00,Adele,All I Ask,28,47,11,4.53
+2021-11-28 07:27:00,Adele,Set Fire to the Rain,28,47,11,4.05
+2021-11-28 07:39:00,Adele,Don't You Remember,28,47,11,2.07
+2021-11-28 12:02:00,Adele,Don't You Remember,28,47,11,1.99
+2021-11-28 12:06:00,Adele,Make You Feel My Love,28,47,11,3.53
+2021-11-28 12:10:00,Adele,Tired,28,47,11,4.31
+2021-11-28 12:18:00,Adele,Remedy,28,47,11,4.09
+2021-11-28 12:23:00,Adele,Hello,28,47,11,4.93
+2021-11-28 12:27:00,Adele,Easy On Me,28,47,11,3.74
+2021-11-28 13:47:00,Adele,Someone Like You,28,47,11,0.87
+2021-11-28 13:52:00,Adele,When We Were Young,28,47,11,4.85
+2021-11-28 14:04:00,Adele,Water Under the Bridge,28,47,11,2.24
+2021-11-28 14:11:00,Adele,Water Under the Bridge,28,47,11,4.09
+2021-11-28 14:15:00,Adele,I'll Be Waiting,28,47,11,4.02
+2021-11-28 14:19:00,Adele,Rolling in the Deep,28,47,11,3.8
+2021-11-28 14:22:00,Adele,Chasing Pavements,28,47,11,3.51
+2021-11-28 14:28:00,Adele,One And Only,28,47,11,5.8
+2021-11-28 14:33:00,Adele,Love In The Dark,28,47,11,3.88
+2021-11-28 14:37:00,Adele,Love In The Dark,28,47,11,4.72
+2021-11-28 15:15:00,Adele,Set Fire to the Rain,28,47,11,4.05
+2021-11-28 15:18:00,Adele,Water Under the Bridge,28,47,11,2.1
+2021-11-28 15:20:00,Adele,Water Under the Bridge,28,47,11,1.92
+2021-11-28 15:23:00,Adele,Rolling in the Deep,28,47,11,3.8
+2021-11-28 15:28:00,Adele,When We Were Young,28,47,11,4.85
+2021-11-28 15:33:00,Adele,All I Ask,28,47,11,4.53
+2021-11-28 15:37:00,Adele,Tired,28,47,11,4.31
+2021-11-28 15:41:00,Adele,I'll Be Waiting,28,47,11,4.02
+2021-11-28 15:46:00,Adele,Someone Like You,28,47,11,4.75
+2021-11-28 15:49:00,Adele,Chasing Pavements,28,47,11,3.51
+2021-11-28 15:53:00,Adele,Easy On Me,28,47,11,3.63
+2021-11-29 15:52:00,Adele,Love In The Dark,29,48,11,4.77
+2021-11-29 15:56:00,Adele,Chasing Pavements,29,48,11,3.51
+2021-11-29 15:59:00,Adele,Rolling in the Deep,29,48,11,3.8
+2021-11-29 16:42:00,Adele,Easy On Me,29,48,11,1.32
+2021-11-30 11:07:00,Adele,Love In The Dark,30,48,11,3.43
+2021-11-30 11:09:00,Adele,Love In The Dark,30,48,11,1.37
+2021-11-30 11:12:00,Adele,Love In The Dark,30,48,11,3.3
+2021-11-30 11:13:00,Adele,Love In The Dark,30,48,11,1.42
+2021-11-30 11:18:00,Adele,Love In The Dark,30,48,11,4.77
+2021-11-30 11:27:00,Adele,Love In The Dark,30,48,11,4.77
+2021-11-30 11:32:00,Adele,Love In The Dark,30,48,11,4.77
+2021-11-30 11:37:00,Adele,Love In The Dark,30,48,11,4.77
+2021-11-30 11:41:00,Adele,Love In The Dark,30,48,11,4.77
+2021-11-30 11:46:00,Adele,Love In The Dark,30,48,11,4.77
+2021-11-30 14:26:00,Adele,Love In The Dark,30,48,11,0.9
+2021-11-30 14:30:00,Adele,Love In The Dark,30,48,11,3.87
+2021-12-01 07:01:00,Adele,Love In The Dark,1,48,12,4.77
+2021-12-01 07:05:00,Adele,Easy On Me,1,48,12,3.74
+2021-12-01 07:09:00,Adele,Water Under the Bridge,1,48,12,4.01
+2021-12-01 07:13:00,Adele,I'll Be Waiting,1,48,12,4.02
+2021-12-01 07:32:00,Adele,Don't You Remember,1,48,12,1.66
+2021-12-01 07:59:00,Adele,Don't You Remember,1,48,12,2.39
+2021-12-01 08:03:00,Adele,All I Ask,1,48,12,4.53
+2021-12-01 08:25:00,Adele,Rolling in the Deep,1,48,12,3.26
+2021-12-01 09:31:00,Adele,Rolling in the Deep,1,48,12,0.55
+2021-12-01 09:34:00,Adele,Chasing Pavements,1,48,12,3.51
+2021-12-01 09:48:00,Adele,Set Fire to the Rain,1,48,12,4.03
+2021-12-01 12:04:00,Adele,Hello,1,48,12,4.93
+2021-12-01 12:07:00,Adele,Remedy,1,48,12,1.55
+2021-12-02 05:10:00,Adele,Easy On Me,2,48,12,3.74
+2021-12-02 05:12:00,Adele,All I Ask,2,48,12,1.93
+2021-12-02 05:15:00,Adele,All I Ask,2,48,12,2.57
+2021-12-02 05:19:00,Adele,Tired,2,48,12,4.31
+2021-12-02 05:23:00,Adele,Remedy,2,48,12,4.09
+2021-12-02 05:26:00,Adele,Make You Feel My Love,2,48,12,3.53
+2021-12-02 05:31:00,Adele,Love In The Dark,2,48,12,4.77
+2021-12-02 05:35:00,Adele,I'll Be Waiting,2,48,12,4.02
+2021-12-02 05:39:00,Adele,Easy On Me,2,48,12,3.74
+2021-12-02 05:43:00,Adele,Rolling in the Deep,2,48,12,3.8
+2021-12-02 05:47:00,Adele,Water Under the Bridge,2,48,12,4.01
+2021-12-02 05:50:00,Adele,Chasing Pavements,2,48,12,3.51
+2021-12-02 05:54:00,Adele,Don't You Remember,2,48,12,4.05
+2021-12-02 05:55:00,Adele,One And Only,2,48,12,1.0
+2021-12-05 01:53:00,Adele,Easy On Me,5,48,12,3.74
+2021-12-05 01:56:00,Adele,Chasing Pavements,5,48,12,3.51
+2021-12-05 01:58:00,Adele,Make You Feel My Love,5,48,12,1.71
+2021-12-05 02:03:00,Adele,Love In The Dark,5,48,12,4.77
+2021-12-05 02:07:00,Adele,All I Ask,5,48,12,4.53
+2021-12-05 02:11:00,Adele,I'll Be Waiting,5,48,12,4.02
+2021-12-05 02:15:00,Adele,Water Under the Bridge,5,48,12,4.01
+2021-12-05 02:20:00,Adele,Hello,5,48,12,4.93
+2021-12-05 02:24:00,Adele,Set Fire to the Rain,5,48,12,4.05
+2021-12-05 02:37:00,Adele,One And Only,5,48,12,3.1
+2021-12-05 06:28:00,Adele,Love In The Dark,5,48,12,4.77
+2021-12-05 06:32:00,Adele,I'll Be Waiting,5,48,12,4.02
+2021-12-05 06:36:00,Adele,Rolling in the Deep,5,48,12,3.8
+2021-12-05 06:50:00,Adele,Water Under the Bridge,5,48,12,3.7
+2021-12-05 06:58:00,Adele,One And Only,5,48,12,5.8
+2021-12-05 07:02:00,Adele,Set Fire to the Rain,5,48,12,4.05
+2021-12-05 11:50:00,Adele,Love In The Dark,5,48,12,1.94
+2021-12-06 12:02:00,Adele,Hello,6,49,12,4.93
+2021-12-06 12:07:00,Adele,Someone Like You,6,49,12,4.75
+2021-12-06 12:12:00,Adele,Love In The Dark,6,49,12,4.77
+2021-12-06 12:21:00,Adele,Easy On Me,6,49,12,3.74
+2021-12-06 12:30:00,Adele,Rolling in the Deep,6,49,12,3.8
+2021-12-06 12:34:00,Adele,When We Were Young,6,49,12,3.58
+2021-12-06 12:35:00,Adele,When We Were Young,6,49,12,1.24
+2021-12-06 12:39:00,Adele,Water Under the Bridge,6,49,12,4.01
+2021-12-06 12:43:00,Adele,Remedy,6,49,12,4.09
+2021-12-06 12:48:00,Adele,Someone Like You,6,49,12,4.75
+2021-12-06 12:53:00,Adele,Hello,6,49,12,4.93
+2021-12-06 12:57:00,Adele,Rolling in the Deep,6,49,12,3.8
+2021-12-06 13:01:00,Adele,Tired,6,49,12,4.31
+2021-12-06 13:05:00,Adele,I'll Be Waiting,6,49,12,4.02
+2021-12-06 13:10:00,Adele,Love In The Dark,6,49,12,4.77
+2021-12-06 13:14:00,Adele,Don't You Remember,6,49,12,4.05
+2021-12-06 13:18:00,Adele,Set Fire to the Rain,6,49,12,4.05
+2021-12-06 13:21:00,Adele,Make You Feel My Love,6,49,12,3.53
+2021-12-06 13:25:00,Adele,Chasing Pavements,6,49,12,3.51
+2021-12-06 13:31:00,Adele,One And Only,6,49,12,5.8
+2021-12-06 13:35:00,Adele,Easy On Me,6,49,12,3.74
+2021-12-06 13:39:00,Adele,All I Ask,6,49,12,4.53
+2021-12-06 13:44:00,Adele,When We Were Young,6,49,12,4.85
+2021-12-06 13:48:00,Adele,Water Under the Bridge,6,49,12,4.01
+2021-12-06 13:51:00,Adele,Remedy,6,49,12,2.99
+2021-12-06 13:52:00,Adele,Remedy,6,49,12,1.1
+2021-12-06 13:57:00,Adele,Hello,6,49,12,4.93
+2021-12-06 14:08:00,Adele,Tired,6,49,12,0.85
+2021-12-09 05:10:00,Adele,Hello,9,49,12,4.93
+2021-12-09 05:15:00,Adele,One And Only,9,49,12,5.8
+2021-12-09 05:20:00,Adele,When We Were Young,9,49,12,4.85
+2021-12-09 05:24:00,Adele,Don't You Remember,9,49,12,4.05
+2021-12-09 05:29:00,Adele,Someone Like You,9,49,12,4.75
+2021-12-09 05:33:00,Adele,I'll Be Waiting,9,49,12,4.02
+2021-12-09 05:37:00,Adele,Tired,9,49,12,4.31
+2021-12-09 05:41:00,Adele,Make You Feel My Love,9,49,12,3.53
+2021-12-09 05:45:00,Adele,Set Fire to the Rain,9,49,12,4.05
+2021-12-09 05:49:00,Adele,Water Under the Bridge,9,49,12,4.01
+2021-12-09 05:53:00,Adele,Easy On Me,9,49,12,3.74
+2021-12-09 05:57:00,Adele,Remedy,9,49,12,4.09
+2021-12-09 06:01:00,Adele,All I Ask,9,49,12,4.53
+2021-12-09 06:04:00,Adele,Chasing Pavements,9,49,12,2.24
+2021-12-10 04:49:00,Adele,Love In The Dark,10,49,12,4.77
+2021-12-10 05:01:00,Adele,I'll Be Waiting,10,49,12,2.23
+2021-12-10 05:37:00,Adele,I'll Be Waiting,10,49,12,1.8
+2021-12-10 05:43:00,Adele,One And Only,10,49,12,5.8
+2021-12-10 05:45:00,Adele,Don't You Remember,10,49,12,2.45
+2021-12-10 06:29:00,Adele,Don't You Remember,10,49,12,1.61
+2021-12-10 06:33:00,Adele,Love In The Dark,10,49,12,4.77
+2021-12-10 06:38:00,Adele,All I Ask,10,49,12,4.53
+2021-12-10 06:52:00,Adele,Water Under the Bridge,10,49,12,3.96
+2021-12-10 07:03:00,Adele,Set Fire to the Rain,10,49,12,4.05
+2021-12-10 07:07:00,Adele,Easy On Me,10,49,12,3.74
+2021-12-10 07:09:00,Adele,Chasing Pavements,10,49,12,2.45
+2021-12-10 07:10:00,Adele,Chasing Pavements,10,49,12,1.04
+2021-12-10 07:14:00,Adele,Make You Feel My Love,10,49,12,3.53
+2021-12-10 07:18:00,Adele,Tired,10,49,12,4.31
+2021-12-10 07:23:00,Adele,Love In The Dark,10,49,12,4.77
+2021-12-10 07:27:00,Adele,I'll Be Waiting,10,49,12,4.02
+2021-12-10 07:33:00,Adele,One And Only,10,49,12,5.8
+2021-12-10 07:40:00,Adele,Don't You Remember,10,49,12,4.05
+2021-12-10 07:42:00,Adele,Set Fire to the Rain,10,49,12,2.13
+2021-12-10 07:44:00,Adele,Set Fire to the Rain,10,49,12,1.98
+2021-12-10 07:48:00,Adele,Remedy,10,49,12,4.09
+2021-12-10 07:53:00,Adele,Water Under the Bridge,10,49,12,3.64
+2021-12-10 08:32:00,Adele,All I Ask,10,49,12,4.53
+2021-12-10 08:37:00,Adele,Hello,10,49,12,4.93
+2021-12-10 10:15:00,Adele,Someone Like You,10,49,12,4.3
+2021-12-10 10:20:00,Adele,All I Ask,10,49,12,4.54
+2021-12-10 10:23:00,Adele,Hello,10,49,12,2.82
+2021-12-10 10:25:00,Adele,Hello,10,49,12,2.06
+2021-12-10 10:30:00,Adele,Someone Like You,10,49,12,4.75
+2021-12-10 10:33:00,Adele,Rolling in the Deep,10,49,12,3.8
+2021-12-10 10:38:00,Adele,When We Were Young,10,49,12,4.85
+2021-12-10 10:42:00,Adele,Easy On Me,10,49,12,3.74
+2021-12-10 10:45:00,Adele,Chasing Pavements,10,49,12,3.51
+2021-12-10 10:49:00,Adele,Make You Feel My Love,10,49,12,3.53
+2021-12-10 10:53:00,Adele,Tired,10,49,12,4.31
+2021-12-10 10:58:00,Adele,Love In The Dark,10,49,12,4.77
+2021-12-10 11:02:00,Adele,I'll Be Waiting,10,49,12,4.02
+2021-12-10 11:08:00,Adele,One And Only,10,49,12,5.8
+2021-12-10 11:09:00,Adele,Don't You Remember,10,49,12,0.78
+2021-12-10 15:56:00,Adele,Easy On Me,10,49,12,3.74
+2021-12-10 16:01:00,Adele,Hello,10,49,12,4.93
+2021-12-10 16:04:00,Adele,Water Under the Bridge,10,49,12,0.52
+2021-12-10 16:13:00,Adele,Water Under the Bridge,10,49,12,1.95
+2021-12-10 21:59:00,Adele,Water Under the Bridge,10,49,12,2.06
+2021-12-10 22:04:00,Adele,Someone Like You,10,49,12,4.75
+2021-12-10 22:08:00,Adele,All I Ask,10,49,12,4.53
+2021-12-10 22:13:00,Adele,Love In The Dark,10,49,12,4.77
+2021-12-10 22:19:00,Adele,One And Only,10,49,12,5.8
+2021-12-10 22:22:00,Adele,Chasing Pavements,10,49,12,3.51
+2021-12-10 22:26:00,Adele,Rolling in the Deep,10,49,12,3.8
+2021-12-10 22:27:00,Adele,When We Were Young,10,49,12,1.12
+2021-12-10 22:31:00,Adele,I'll Be Waiting,10,49,12,4.02
+2021-12-10 22:35:00,Adele,Set Fire to the Rain,10,49,12,4.05
+2021-12-10 22:40:00,Adele,Remedy,10,49,12,4.09
+2021-12-10 22:42:00,Adele,Hello,10,49,12,2.8
+2021-12-10 22:45:00,Adele,Hello,10,49,12,2.13
+2021-12-10 22:48:00,Adele,Easy On Me,10,49,12,3.74
+2021-12-10 22:52:00,Adele,Water Under the Bridge,10,49,12,4.01
+2021-12-10 22:57:00,Adele,Tired,10,49,12,4.31
+2021-12-10 23:02:00,Adele,Someone Like You,10,49,12,4.75
+2021-12-10 23:06:00,Adele,All I Ask,10,49,12,4.53
+2021-12-10 23:11:00,Adele,Love In The Dark,10,49,12,4.77
+2021-12-10 23:17:00,Adele,One And Only,10,49,12,5.8
+2021-12-10 23:20:00,Adele,Chasing Pavements,10,49,12,3.51
+2021-12-10 23:24:00,Adele,Rolling in the Deep,10,49,12,3.8
+2021-12-11 08:12:00,Adele,Easy On Me,11,49,12,3.74
+2021-12-11 08:16:00,Adele,Set Fire to the Rain,11,49,12,4.05
+2021-12-11 08:21:00,Adele,Hello,11,49,12,4.93
+2021-12-11 08:25:00,Adele,All I Ask,11,49,12,4.38
+2021-12-11 09:16:00,Adele,Water Under the Bridge,11,49,12,4.01
+2021-12-11 09:29:00,Adele,Someone Like You,11,49,12,3.05
+2021-12-11 10:31:00,Adele,Love In The Dark,11,49,12,2.5
+2021-12-11 11:02:00,Adele,Love In The Dark,11,49,12,4.4
+2021-12-11 12:05:00,Adele,Easy On Me,11,49,12,3.74
+2021-12-11 12:17:00,Adele,All I Ask,11,49,12,1.8
+2021-12-12 00:47:00,Adele,All I Ask,12,49,12,2.73
+2021-12-12 00:51:00,Adele,I'll Be Waiting,12,49,12,4.02
+2021-12-12 00:57:00,Adele,One And Only,12,49,12,5.8
+2021-12-12 01:00:00,Adele,Make You Feel My Love,12,49,12,3.53
+2021-12-12 01:19:00,Adele,Someone Like You,12,49,12,3.34
+2021-12-12 12:50:00,Adele,Love In The Dark,12,49,12,4.77
+2021-12-12 12:54:00,Adele,Set Fire to the Rain,12,49,12,4.05
+2021-12-12 12:58:00,Adele,Make You Feel My Love,12,49,12,3.53
+2021-12-12 13:02:00,Adele,Easy On Me,12,49,12,3.74
+2021-12-12 13:06:00,Adele,When We Were Young,12,49,12,4.85
+2021-12-12 13:52:00,Adele,Hello,12,49,12,4.93
+2021-12-12 13:56:00,Adele,Water Under the Bridge,12,49,12,4.01
+2021-12-12 14:00:00,Adele,Tired,12,49,12,4.31
+2021-12-12 14:06:00,Adele,One And Only,12,49,12,5.8
+2021-12-12 14:11:00,Adele,Someone Like You,12,49,12,4.75
+2021-12-12 14:15:00,Adele,Don't You Remember,12,49,12,4.05
+2021-12-12 14:18:00,Adele,Rolling in the Deep,12,49,12,3.8
+2021-12-12 14:22:00,Adele,Remedy,12,49,12,4.09
+2021-12-12 14:26:00,Adele,I'll Be Waiting,12,49,12,4.02
+2021-12-12 14:31:00,Adele,All I Ask,12,49,12,4.53
+2021-12-12 14:35:00,Adele,Chasing Pavements,12,49,12,3.51
+2021-12-12 14:39:00,Adele,Love In The Dark,12,49,12,4.77
+2021-12-12 14:43:00,Adele,Set Fire to the Rain,12,49,12,4.05
+2021-12-12 14:47:00,Adele,Make You Feel My Love,12,49,12,3.53
+2021-12-12 14:51:00,Adele,Easy On Me,12,49,12,3.74
+2021-12-12 14:56:00,Adele,When We Were Young,12,49,12,4.85
+2021-12-12 15:00:00,Adele,Hello,12,49,12,4.93
+2021-12-12 15:05:00,Adele,Water Under the Bridge,12,49,12,4.01
+2021-12-12 15:09:00,Adele,Tired,12,49,12,4.31
+2021-12-12 15:15:00,Adele,One And Only,12,49,12,5.8
+2021-12-12 15:19:00,Adele,Someone Like You,12,49,12,4.75
+2021-12-12 15:23:00,Adele,Don't You Remember,12,49,12,4.05
+2021-12-12 15:27:00,Adele,Rolling in the Deep,12,49,12,3.8
+2021-12-12 15:29:00,Adele,Remedy,12,49,12,2.08
+2021-12-14 14:35:00,Adele,Set Fire to the Rain,14,50,12,4.05
+2021-12-14 14:39:00,Adele,Hello,14,50,12,4.37
+2021-12-15 00:15:00,Adele,Love In The Dark,15,50,12,4.77
+2021-12-15 00:19:00,Adele,Tired,15,50,12,4.31
+2021-12-15 00:23:00,Adele,Chasing Pavements,15,50,12,3.51
+2021-12-15 00:26:00,Adele,Make You Feel My Love,15,50,12,3.53
+2021-12-15 00:31:00,Adele,When We Were Young,15,50,12,4.85
+2021-12-15 00:35:00,Adele,Set Fire to the Rain,15,50,12,4.05
+2021-12-15 00:39:00,Adele,Water Under the Bridge,15,50,12,4.01
+2021-12-15 00:44:00,Adele,Remedy,15,50,12,4.09
+2021-12-15 00:48:00,Adele,Don't You Remember,15,50,12,4.05
+2021-12-15 00:52:00,Adele,Easy On Me,15,50,12,3.74
+2021-12-15 00:56:00,Adele,All I Ask,15,50,12,4.53
+2021-12-15 01:03:00,Adele,One And Only,15,50,12,5.8
+2021-12-15 01:06:00,Adele,Rolling in the Deep,15,50,12,3.8
+2021-12-15 01:11:00,Adele,Hello,15,50,12,4.93
+2021-12-15 01:15:00,Adele,I'll Be Waiting,15,50,12,4.02
+2021-12-15 01:20:00,Adele,Someone Like You,15,50,12,4.75
+2021-12-15 01:25:00,Adele,Love In The Dark,15,50,12,4.77
+2021-12-15 01:29:00,Adele,Tired,15,50,12,4.31
+2021-12-15 01:31:00,Adele,Chasing Pavements,15,50,12,1.37
+2021-12-15 03:11:00,Adele,Make You Feel My Love,15,50,12,3.53
+2021-12-15 03:16:00,Adele,Someone Like You,15,50,12,4.75
+2021-12-15 03:22:00,Adele,One And Only,15,50,12,5.8
+2021-12-15 03:24:00,Adele,I'll Be Waiting,15,50,12,1.69
+2021-12-16 01:45:00,Adele,Love In The Dark,16,50,12,4.77
+2021-12-16 01:49:00,Adele,Set Fire to the Rain,16,50,12,4.05
+2021-12-16 01:54:00,Adele,Someone Like You,16,50,12,4.75
+2021-12-16 01:58:00,Adele,Easy On Me,16,50,12,3.74
+2021-12-16 02:03:00,Adele,When We Were Young,16,50,12,4.85
+2021-12-16 02:07:00,Adele,Hello,16,50,12,4.93
+2021-12-16 02:11:00,Adele,Rolling in the Deep,16,50,12,3.8
+2021-12-16 02:16:00,Adele,All I Ask,16,50,12,4.53
+2021-12-16 02:30:00,Adele,I'll Be Waiting,16,50,12,3.92
+2021-12-16 04:56:00,Adele,Easy On Me,16,50,12,3.74
+2021-12-16 05:00:00,Adele,Love In The Dark,16,50,12,4.77
+2021-12-16 05:04:00,Adele,Rolling in the Deep,16,50,12,3.8
+2021-12-16 05:08:00,Adele,Chasing Pavements,16,50,12,3.51
+2021-12-16 05:21:00,Adele,Water Under the Bridge,16,50,12,2.86
+2021-12-16 05:51:00,Adele,Water Under the Bridge,16,50,12,1.15
+2021-12-16 06:03:00,Adele,I'll Be Waiting,16,50,12,4.02
+2021-12-16 06:08:00,Adele,All I Ask,16,50,12,4.53
+2021-12-16 06:30:00,Adele,Easy On Me,16,50,12,3.74
+2021-12-16 06:35:00,Adele,Tired,16,50,12,4.31
+2021-12-16 06:47:00,Adele,Make You Feel My Love,16,50,12,2.21
+2021-12-16 10:00:00,Adele,Easy On Me,16,50,12,3.74
+2021-12-16 10:04:00,Adele,Easy On Me,16,50,12,3.74
+2021-12-16 10:08:00,Adele,Make You Feel My Love,16,50,12,3.53
+2021-12-16 10:12:00,Adele,Love In The Dark,16,50,12,4.77
+2021-12-16 10:27:00,Adele,All I Ask,16,50,12,4.28
+2021-12-16 10:59:00,Adele,Tired,16,50,12,4.31
+2021-12-16 11:10:00,Adele,Love In The Dark,16,50,12,1.07
+2021-12-18 15:19:00,Adele,Easy On Me,18,50,12,3.74
+2021-12-18 15:24:00,Adele,Love In The Dark,18,50,12,4.77
+2021-12-18 15:28:00,Adele,I'll Be Waiting,18,50,12,4.02
+2021-12-18 15:37:00,Adele,Tired,18,50,12,4.31
+2021-12-18 15:38:00,Adele,Chasing Pavements,18,50,12,0.94
+2021-12-19 02:35:00,Adele,Easy On Me,19,50,12,3.74
+2021-12-19 02:40:00,Adele,Love In The Dark,19,50,12,4.77
+2021-12-19 02:44:00,Adele,All I Ask,19,50,12,4.53
+2021-12-19 02:49:00,Adele,Someone Like You,19,50,12,4.75
+2021-12-19 02:54:00,Adele,Tired,19,50,12,4.31
+2021-12-19 02:57:00,Adele,Chasing Pavements,19,50,12,3.51
+2021-12-19 03:01:00,Adele,Set Fire to the Rain,19,50,12,4.05
+2021-12-19 03:05:00,Adele,Make You Feel My Love,19,50,12,3.53
+2021-12-19 03:25:00,Adele,When We Were Young,19,50,12,2.75
+2021-12-21 06:14:00,Adele,Easy On Me,21,51,12,3.74
+2021-12-21 06:38:00,Adele,Love In The Dark,21,51,12,4.77
+2021-12-21 12:30:00,Adele,Easy On Me,21,51,12,3.74
+2021-12-21 12:34:00,Adele,Love In The Dark,21,51,12,4.77
+2021-12-21 12:55:00,Adele,Rolling in the Deep,21,51,12,1.31
+2021-12-21 13:29:00,Adele,Love In The Dark,21,51,12,4.77
+2021-12-21 13:33:00,Adele,All I Ask,21,51,12,4.53
+2021-12-21 13:45:00,Adele,Easy On Me,21,51,12,1.55
+2021-12-21 13:49:00,Adele,Easy On Me,21,51,12,2.2
+2021-12-21 13:56:00,Adele,Set Fire to the Rain,21,51,12,4.05
+2021-12-21 13:58:00,Adele,When We Were Young,21,51,12,2.56
+2021-12-21 14:02:00,Adele,Rolling in the Deep,21,51,12,3.8
+2021-12-21 14:03:00,Adele,Remedy,21,51,12,1.25
+2021-12-21 14:06:00,Adele,Remedy,21,51,12,2.82
+2021-12-21 14:11:00,Adele,Love In The Dark,21,51,12,4.77
+2021-12-21 14:14:00,Adele,Chasing Pavements,21,51,12,3.51
+2021-12-21 14:18:00,Adele,Easy On Me,21,51,12,3.74
+2021-12-21 14:23:00,Adele,Hello,21,51,12,4.93
+2021-12-21 14:27:00,Adele,Set Fire to the Rain,21,51,12,4.05
+2021-12-21 14:31:00,Adele,Water Under the Bridge,21,51,12,4.01
+2021-12-21 14:35:00,Adele,Don't You Remember,21,51,12,4.05
+2021-12-21 14:40:00,Adele,When We Were Young,21,51,12,4.85
+2021-12-21 14:45:00,Adele,All I Ask,21,51,12,4.53
+2021-12-21 14:49:00,Adele,Tired,21,51,12,4.31
+2021-12-21 14:54:00,Adele,Someone Like You,21,51,12,4.75
+2021-12-21 14:57:00,Adele,Make You Feel My Love,21,51,12,3.53
+2021-12-21 15:03:00,Adele,One And Only,21,51,12,5.8
+2021-12-21 15:07:00,Adele,I'll Be Waiting,21,51,12,4.02
+2021-12-21 15:11:00,Adele,Rolling in the Deep,21,51,12,3.8
+2021-12-21 15:12:00,Adele,Remedy,21,51,12,1.11
+2021-12-22 02:45:00,Adele,Remedy,22,51,12,2.96
+2021-12-22 02:49:00,Adele,Rolling in the Deep,22,51,12,3.8
+2021-12-22 02:53:00,Adele,Set Fire to the Rain,22,51,12,4.05
+2021-12-22 02:56:00,Adele,Make You Feel My Love,22,51,12,3.53
+2021-12-22 03:02:00,Adele,One And Only,22,51,12,5.8
+2021-12-22 03:06:00,Adele,Water Under the Bridge,22,51,12,4.01
+2021-12-22 03:11:00,Adele,When We Were Young,22,51,12,4.85
+2021-12-22 03:15:00,Adele,Tired,22,51,12,4.31
+2021-12-22 03:26:00,Adele,Someone Like You,22,51,12,1.09
+2021-12-22 04:23:00,Adele,Someone Like You,22,51,12,3.67
+2021-12-22 04:27:00,Adele,Easy On Me,22,51,12,3.74
+2021-12-22 04:37:00,Adele,Love In The Dark,22,51,12,4.77
+2021-12-22 04:38:00,Adele,Love In The Dark,22,51,12,1.32
+2021-12-22 04:41:00,Adele,Chasing Pavements,22,51,12,3.51
+2021-12-22 04:45:00,Adele,Easy On Me,22,51,12,3.74
+2021-12-22 05:08:00,Adele,Hello,22,51,12,4.93
+2021-12-22 05:57:00,Adele,Set Fire to the Rain,22,51,12,4.05
+2021-12-22 06:29:00,Adele,Water Under the Bridge,22,51,12,3.0
+2021-12-22 06:35:00,Adele,Someone Like You,22,51,12,4.75
+2021-12-22 06:40:00,Adele,Love In The Dark,22,51,12,4.77
+2021-12-22 06:51:00,Adele,I'll Be Waiting,22,51,12,0.63
+2021-12-22 07:00:00,Adele,I'll Be Waiting,22,51,12,3.4
+2021-12-24 02:37:00,Adele,Easy On Me,24,51,12,3.74
+2021-12-24 02:42:00,Adele,Someone Like You,24,51,12,4.75
+2021-12-24 02:47:00,Adele,Love In The Dark,24,51,12,4.77
+2021-12-24 02:51:00,Adele,Rolling in the Deep,24,51,12,3.8
+2021-12-24 02:54:00,Adele,Chasing Pavements,24,51,12,3.51
+2021-12-24 03:09:00,Adele,Set Fire to the Rain,24,51,12,3.89
+2021-12-24 06:18:00,Adele,Water Under the Bridge,24,51,12,4.01
+2021-12-24 06:23:00,Adele,When We Were Young,24,51,12,4.85
+2021-12-24 06:28:00,Adele,Hello,24,51,12,4.93
+2021-12-24 06:41:00,Adele,Easy On Me,24,51,12,3.33
+2021-12-24 06:49:00,Adele,One And Only,24,51,12,5.8
+2021-12-24 06:52:00,Adele,Chasing Pavements,24,51,12,3.51
+2021-12-24 06:57:00,Adele,Tired,24,51,12,4.31
+2021-12-24 07:00:00,Adele,Remedy,24,51,12,2.9
+2021-12-24 07:04:00,Adele,Love In The Dark,24,51,12,4.77
+2021-12-24 07:17:00,Adele,All I Ask,24,51,12,2.73
+2021-12-24 07:27:00,Adele,All I Ask,24,51,12,1.8
+2021-12-24 07:31:00,Adele,Set Fire to the Rain,24,51,12,4.05
+2021-12-24 07:35:00,Adele,Don't You Remember,24,51,12,4.05
+2021-12-24 07:40:00,Adele,Someone Like You,24,51,12,4.75
+2021-12-24 07:44:00,Adele,Water Under the Bridge,24,51,12,4.01
+2021-12-24 07:49:00,Adele,When We Were Young,24,51,12,4.85
+2021-12-24 07:54:00,Adele,Hello,24,51,12,4.93
+2021-12-24 07:58:00,Adele,Easy On Me,24,51,12,3.74
+2021-12-24 08:11:00,Adele,One And Only,24,51,12,3.77
+2021-12-24 11:22:00,Adele,Love In The Dark,24,51,12,4.77
+2021-12-24 11:27:00,Adele,Someone Like You,24,51,12,4.75
+2021-12-24 11:30:00,Adele,Chasing Pavements,24,51,12,3.51
+2021-12-24 11:34:00,Adele,Don't You Remember,24,51,12,4.05
+2021-12-24 11:40:00,Adele,One And Only,24,51,12,5.8
+2021-12-24 11:44:00,Adele,Water Under the Bridge,24,51,12,4.01
+2021-12-24 11:58:00,Adele,When We Were Young,24,51,12,3.38
+2021-12-25 14:28:00,Adele,Love In The Dark,25,51,12,4.77
+2021-12-25 15:02:00,Adele,Love In The Dark,25,51,12,4.77
+2021-12-26 03:10:00,Adele,Easy On Me,26,51,12,3.74
+2021-12-26 03:14:00,Adele,Hello,26,51,12,4.93
+2021-12-26 03:20:00,Adele,One And Only,26,51,12,5.8
+2021-12-26 03:24:00,Adele,Don't You Remember,26,51,12,4.05
+2021-12-26 03:28:00,Adele,Remedy,26,51,12,4.09
+2021-12-26 03:32:00,Adele,Make You Feel My Love,26,51,12,3.53
+2021-12-26 03:36:00,Adele,Rolling in the Deep,26,51,12,3.8
+2021-12-26 03:44:00,Adele,All I Ask,26,51,12,4.53
+2021-12-26 03:47:00,Adele,Chasing Pavements,26,51,12,3.51
+2021-12-26 03:52:00,Adele,Someone Like You,26,51,12,4.75
+2021-12-26 03:57:00,Adele,When We Were Young,26,51,12,4.85
+2021-12-26 04:01:00,Adele,I'll Be Waiting,26,51,12,4.02
+2021-12-26 04:06:00,Adele,Love In The Dark,26,51,12,4.77
+2021-12-26 04:12:00,Adele,Water Under the Bridge,26,51,12,4.01
+2021-12-26 04:16:00,Adele,Tired,26,51,12,4.31
+2021-12-26 04:20:00,Adele,Set Fire to the Rain,26,51,12,4.05
+2021-12-26 04:24:00,Adele,Easy On Me,26,51,12,3.74
+2021-12-26 04:41:00,Adele,Hello,26,51,12,3.52
+2021-12-27 12:10:00,Adele,Easy On Me,27,52,12,3.74
+2021-12-27 12:14:00,Adele,Don't You Remember,27,52,12,4.05
+2021-12-27 13:00:00,Adele,I'll Be Waiting,27,52,12,3.83
+2021-12-27 13:04:00,Adele,Chasing Pavements,27,52,12,3.43
+2021-12-27 13:07:00,Adele,Make You Feel My Love,27,52,12,3.53
+2021-12-27 13:11:00,Adele,Easy On Me,27,52,12,3.74
+2021-12-27 13:15:00,Adele,Rolling in the Deep,27,52,12,3.8
+2021-12-27 13:20:00,Adele,Someone Like You,27,52,12,4.75
+2021-12-27 13:25:00,Adele,Don't You Remember,27,52,12,0.67
+2021-12-27 13:25:00,Adele,When We Were Young,27,52,12,4.85
+2021-12-27 13:30:00,Adele,Tired,27,52,12,4.31
+2021-12-27 13:34:00,Adele,Love In The Dark,27,52,12,4.77
+2021-12-27 13:47:00,Adele,I'll Be Waiting,27,52,12,2.77
+2021-12-27 13:54:00,Adele,I'll Be Waiting,27,52,12,1.25
+2021-12-27 14:00:00,Adele,One And Only,27,52,12,5.8
+2021-12-27 14:04:00,Adele,Don't You Remember,27,52,12,4.05
+2021-12-27 14:07:00,Adele,Set Fire to the Rain,27,52,12,3.33
+2021-12-27 14:18:00,Adele,Someone Like You,27,52,12,4.75
+2021-12-27 14:36:00,Adele,Rolling in the Deep,27,52,12,3.8
+2021-12-27 14:47:00,Adele,Hello,27,52,12,4.93
+2021-12-27 15:20:00,Adele,Easy On Me,27,52,12,3.74

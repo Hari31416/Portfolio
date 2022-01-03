@@ -1,0 +1,235 @@
+endTime,artistName,trackName,Day,Week,Month,Minutes Played
+2021-01-08 16:36:00,Justin Bieber,Anyone,8,1,1,1.62
+2021-01-08 16:37:00,Justin Bieber,Mistletoe,8,1,1,1.44
+2021-01-08 16:38:00,Justin Bieber,Lonely (with benny blanco),8,1,1,0.73
+2021-01-11 16:16:00,Justin Bieber,Mistletoe,11,2,1,0.98
+2021-01-11 16:17:00,Justin Bieber,Anyone,11,2,1,1.49
+2021-01-11 16:18:00,Justin Bieber,Lonely (with benny blanco),11,2,1,0.93
+2021-01-11 16:23:00,Justin Bieber,All I Want Is You,11,2,1,1.86
+2021-01-11 16:24:00,Justin Bieber,All Around Me,11,2,1,0.57
+2021-01-12 04:49:00,Justin Bieber,Sorry,12,2,1,1.24
+2021-01-12 04:51:00,Justin Bieber,Baby,12,2,1,0.54
+2021-01-12 10:44:00,Justin Bieber,Mistletoe,12,2,1,3.05
+2021-01-20 01:23:00,Justin Bieber,Anyone,20,3,1,3.18
+2021-01-20 01:27:00,Justin Bieber,What Do You Mean?,20,3,1,3.43
+2021-01-20 01:29:00,Justin Bieber,Baby,20,3,1,2.66
+2021-01-20 09:27:00,Justin Bieber,Mistletoe,20,3,1,3.05
+2021-01-21 07:29:00,Justin Bieber,Anyone,21,3,1,3.18
+2021-01-21 07:32:00,Justin Bieber,Mistletoe,21,3,1,3.05
+2021-01-21 08:42:00,Justin Bieber,Anyone,21,3,1,3.18
+2021-01-21 08:45:00,Justin Bieber,Mistletoe,21,3,1,3.05
+2021-01-21 10:27:00,Justin Bieber,Anyone,21,3,1,3.18
+2021-01-21 10:30:00,Justin Bieber,Mistletoe,21,3,1,3.05
+2021-01-21 11:11:00,Justin Bieber,Anyone,21,3,1,2.74
+2021-01-21 11:34:00,Justin Bieber,Mistletoe,21,3,1,1.53
+2021-01-21 14:14:00,Justin Bieber,Anyone,21,3,1,2.84
+2021-01-21 14:40:00,Justin Bieber,Anyone,21,3,1,3.18
+2021-01-21 15:23:00,Justin Bieber,Anyone,21,3,1,2.29
+2021-01-21 16:04:00,Justin Bieber,Mistletoe,21,3,1,1.62
+2021-01-22 00:43:00,Justin Bieber,Anyone,22,3,1,3.18
+2021-01-22 04:25:00,Justin Bieber,Anyone,22,3,1,3.18
+2021-01-22 07:40:00,Justin Bieber,Anyone,22,3,1,3.18
+2021-01-22 08:38:00,Justin Bieber,Anyone,22,3,1,3.18
+2021-01-22 10:33:00,Justin Bieber,Anyone,22,3,1,3.18
+2021-01-22 11:26:00,Justin Bieber,Anyone,22,3,1,3.18
+2021-01-23 05:28:00,Justin Bieber,Anyone,23,3,1,3.18
+2021-01-23 06:12:00,Justin Bieber,Anyone,23,3,1,3.18
+2021-01-23 07:32:00,Justin Bieber,Anyone,23,3,1,3.18
+2021-01-24 02:29:00,Justin Bieber,Anyone,24,3,1,3.18
+2021-01-24 03:30:00,Justin Bieber,Anyone,24,3,1,3.18
+2021-01-24 04:22:00,Justin Bieber,Anyone,24,3,1,3.18
+2021-01-24 12:52:00,Justin Bieber,Anyone,24,3,1,3.18
+2021-01-24 14:02:00,Justin Bieber,Anyone,24,3,1,3.18
+2021-01-25 01:51:00,Justin Bieber,Anyone,25,4,1,3.18
+2021-01-25 04:27:00,Justin Bieber,Anyone,25,4,1,3.02
+2021-01-25 05:17:00,Justin Bieber,Anyone,25,4,1,3.18
+2021-01-25 10:58:00,Justin Bieber,Anyone,25,4,1,3.18
+2021-01-25 13:45:00,Justin Bieber,Anyone,25,4,1,3.18
+2021-01-26 02:31:00,Justin Bieber,Anyone,26,4,1,3.18
+2021-01-26 06:04:00,Justin Bieber,Anyone,26,4,1,3.18
+2021-01-26 09:44:00,Justin Bieber,Anyone,26,4,1,3.18
+2021-01-26 12:28:00,Justin Bieber,Anyone,26,4,1,1.48
+2021-01-26 12:47:00,Justin Bieber,Anyone,26,4,1,1.7
+2021-01-26 14:30:00,Justin Bieber,Anyone,26,4,1,3.18
+2021-01-27 01:18:00,Justin Bieber,Anyone,27,4,1,3.18
+2021-01-27 01:35:00,Justin Bieber,Anyone,27,4,1,3.18
+2021-01-27 12:26:00,Justin Bieber,Anyone,27,4,1,3.18
+2021-01-28 00:36:00,Justin Bieber,Anyone,28,4,1,3.18
+2021-01-28 03:45:00,Justin Bieber,Anyone,28,4,1,3.18
+2021-01-28 06:54:00,Justin Bieber,Anyone,28,4,1,3.18
+2021-01-30 03:26:00,Justin Bieber,Anyone,30,4,1,3.18
+2021-01-30 03:59:00,Justin Bieber,Anyone,30,4,1,3.18
+2021-01-30 04:31:00,Justin Bieber,Anyone,30,4,1,3.18
+2021-01-30 05:15:00,Justin Bieber,Anyone,30,4,1,3.18
+2021-02-01 14:45:00,Justin Bieber,Anyone,1,5,2,3.18
+2021-02-02 09:49:00,Justin Bieber,Anyone,2,5,2,3.18
+2021-02-02 11:21:00,Justin Bieber,Anyone,2,5,2,3.18
+2021-02-03 09:06:00,Justin Bieber,Anyone,3,5,2,3.18
+2021-02-05 08:00:00,Justin Bieber,Anyone,5,5,2,3.18
+2021-02-05 10:40:00,Justin Bieber,Anyone,5,5,2,3.18
+2021-02-05 15:11:00,Justin Bieber,Anyone,5,5,2,0.89
+2021-02-06 00:03:00,Justin Bieber,Anyone,6,5,2,2.3
+2021-02-06 04:26:00,Justin Bieber,Anyone,6,5,2,3.18
+2021-02-07 04:03:00,Justin Bieber,Anyone,7,5,2,3.18
+2021-02-07 04:59:00,Justin Bieber,Anyone,7,5,2,3.18
+2021-02-07 07:13:00,Justin Bieber,Anyone,7,5,2,2.94
+2021-02-07 10:06:00,Justin Bieber,Anyone,7,5,2,3.18
+2021-02-07 11:47:00,Justin Bieber,Anyone,7,5,2,1.43
+2021-02-07 13:10:00,Justin Bieber,Anyone,7,5,2,3.18
+2021-02-08 01:01:00,Justin Bieber,Anyone,8,6,2,3.18
+2021-02-08 10:14:00,Justin Bieber,Anyone,8,6,2,3.18
+2021-02-08 11:15:00,Justin Bieber,Anyone,8,6,2,1.97
+2021-02-08 12:09:00,Justin Bieber,Anyone,8,6,2,1.21
+2021-02-09 04:40:00,Justin Bieber,Anyone,9,6,2,3.18
+2021-02-09 05:46:00,Justin Bieber,Anyone,9,6,2,3.18
+2021-02-09 07:15:00,Justin Bieber,Anyone,9,6,2,3.18
+2021-02-10 01:55:00,Justin Bieber,Anyone,10,6,2,0.88
+2021-02-10 02:06:00,Justin Bieber,Anyone,10,6,2,2.31
+2021-02-10 15:57:00,Justin Bieber,Anyone,10,6,2,3.18
+2021-02-11 01:46:00,Justin Bieber,Anyone,11,6,2,3.18
+2021-02-11 06:16:00,Justin Bieber,Anyone,11,6,2,3.18
+2021-02-12 11:25:00,Justin Bieber,Anyone,12,6,2,1.97
+2021-02-13 03:29:00,Justin Bieber,Anyone,13,6,2,3.18
+2021-02-13 15:32:00,Justin Bieber,Anyone,13,6,2,3.18
+2021-02-14 01:46:00,Justin Bieber,Anyone,14,6,2,3.18
+2021-02-14 09:15:00,Justin Bieber,Anyone,14,6,2,3.18
+2021-02-14 09:40:00,Justin Bieber,Anyone,14,6,2,3.18
+2021-02-14 15:01:00,Justin Bieber,Anyone,14,6,2,3.18
+2021-02-15 01:32:00,Justin Bieber,Anyone,15,7,2,3.18
+2021-02-15 02:47:00,Justin Bieber,Anyone,15,7,2,3.18
+2021-02-15 05:08:00,Justin Bieber,Anyone,15,7,2,3.18
+2021-02-15 13:25:00,Justin Bieber,Anyone,15,7,2,3.18
+2021-02-16 06:16:00,Justin Bieber,Anyone,16,7,2,3.08
+2021-02-16 15:23:00,Justin Bieber,Anyone,16,7,2,3.18
+2021-02-17 00:35:00,Justin Bieber,Anyone,17,7,2,3.18
+2021-02-17 01:14:00,Justin Bieber,Anyone,17,7,2,0.67
+2021-02-19 08:33:00,Justin Bieber,Anyone,19,7,2,3.18
+2021-02-19 12:21:00,Justin Bieber,Anyone,19,7,2,3.18
+2021-02-19 13:02:00,Justin Bieber,Anyone,19,7,2,3.18
+2021-02-20 15:03:00,Justin Bieber,Anyone,20,7,2,3.18
+2021-02-21 10:31:00,Justin Bieber,Anyone,21,7,2,3.18
+2021-02-21 13:45:00,Justin Bieber,Anyone,21,7,2,3.18
+2021-02-23 02:37:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-23 03:18:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-23 06:24:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-23 07:58:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-23 11:42:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-23 12:14:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-23 12:36:00,Justin Bieber,Lonely (with benny blanco),23,8,2,1.39
+2021-02-23 14:37:00,Justin Bieber,Anyone,23,8,2,3.18
+2021-02-24 04:02:00,Justin Bieber,Anyone,24,8,2,3.18
+2021-02-24 11:07:00,Justin Bieber,Anyone,24,8,2,0.58
+2021-02-24 11:08:00,Justin Bieber,Purpose,24,8,2,0.66
+2021-02-24 15:06:00,Justin Bieber,Anyone,24,8,2,3.18
+2021-02-24 15:19:00,Justin Bieber,Anyone,24,8,2,3.18
+2021-02-25 03:44:00,Justin Bieber,Anyone,25,8,2,3.18
+2021-02-25 05:40:00,Justin Bieber,Anyone,25,8,2,0.93
+2021-02-25 08:22:00,Justin Bieber,Anyone,25,8,2,2.69
+2021-02-25 10:25:00,Justin Bieber,Anyone,25,8,2,3.18
+2021-02-26 02:55:00,Justin Bieber,Anyone,26,8,2,3.18
+2021-02-26 03:37:00,Justin Bieber,Anyone,26,8,2,0.59
+2021-02-26 03:41:00,Justin Bieber,Anyone,26,8,2,2.59
+2021-02-26 14:31:00,Justin Bieber,Anyone,26,8,2,1.71
+2021-02-27 02:30:00,Justin Bieber,Anyone,27,8,2,3.18
+2021-02-27 08:13:00,Justin Bieber,Anyone,27,8,2,3.18
+2021-02-28 07:46:00,Justin Bieber,Anyone,28,8,2,3.18
+2021-03-01 02:08:00,Justin Bieber,Anyone,1,9,3,3.18
+2021-03-01 13:03:00,Justin Bieber,Anyone,1,9,3,3.18
+2021-03-04 01:25:00,Justin Bieber,Anyone,4,9,3,3.18
+2021-03-04 03:00:00,Justin Bieber,Anyone,4,9,3,3.18
+2021-03-04 05:08:00,Justin Bieber,Anyone,4,9,3,0.97
+2021-03-05 08:31:00,Justin Bieber,Anyone,5,9,3,3.18
+2021-03-07 13:40:00,Justin Bieber,Anyone,7,9,3,3.18
+2021-03-08 01:27:00,Justin Bieber,Anyone,8,10,3,3.18
+2021-03-08 02:36:00,Justin Bieber,Anyone,8,10,3,0.6
+2021-03-10 02:59:00,Justin Bieber,Anyone,10,10,3,3.18
+2021-03-10 05:08:00,Justin Bieber,Anyone,10,10,3,3.18
+2021-03-10 06:59:00,Justin Bieber,Anyone,10,10,3,3.18
+2021-03-13 02:57:00,Justin Bieber,Anyone,13,10,3,0.94
+2021-03-13 03:44:00,Justin Bieber,Anyone,13,10,3,1.46
+2021-03-14 01:12:00,Justin Bieber,Anyone,14,10,3,3.18
+2021-03-14 13:10:00,Justin Bieber,Hold On,14,10,3,1.27
+2021-03-14 13:11:00,Justin Bieber,Mark My Words,14,10,3,0.67
+2021-03-14 13:13:00,Justin Bieber,I'll Show You,14,10,3,1.21
+2021-03-14 13:14:00,Justin Bieber,Love Yourself,14,10,3,1.3
+2021-03-14 13:16:00,Justin Bieber,Get Used To It,14,10,3,1.97
+2021-03-14 13:17:00,Justin Bieber,We Are,14,10,3,0.54
+2021-03-14 13:19:00,Justin Bieber,No Sense,14,10,3,1.61
+2021-03-14 13:21:00,Justin Bieber,Purpose,14,10,3,1.37
+2021-03-14 13:23:00,Justin Bieber,No Pressure,14,10,3,1.67
+2021-03-14 13:24:00,Justin Bieber,Company,14,10,3,0.83
+2021-03-14 13:25:00,Justin Bieber,What Do You Mean?,14,10,3,1.21
+2021-03-14 13:26:00,Justin Bieber,Trust,14,10,3,0.77
+2021-03-14 13:27:00,Justin Bieber,Sorry,14,10,3,0.67
+2021-03-14 13:29:00,Justin Bieber,Habitual,14,10,3,1.36
+2021-03-15 04:58:00,Justin Bieber,Anyone,15,11,3,3.18
+2021-03-20 01:58:00,Justin Bieber,Anyone,20,11,3,3.18
+2021-03-21 04:21:00,Justin Bieber,Anyone,21,11,3,3.18
+2021-03-22 02:57:00,Justin Bieber,Anyone,22,12,3,3.18
+2021-03-22 12:57:00,Justin Bieber,Anyone,22,12,3,3.18
+2021-03-22 13:27:00,Justin Bieber,Anyone,22,12,3,3.16
+2021-03-23 23:13:00,Justin Bieber,Anyone,23,12,3,3.18
+2021-03-24 03:47:00,Justin Bieber,Anyone,24,12,3,3.18
+2021-03-26 02:11:00,Justin Bieber,Anyone,26,12,3,3.18
+2021-03-27 05:06:00,Justin Bieber,Anyone,27,12,3,3.18
+2021-03-29 15:07:00,Justin Bieber,There She Go (feat. Lil Uzi Vert),29,13,3,0.67
+2021-03-30 02:39:00,Justin Bieber,Anyone,30,13,3,3.18
+2021-04-04 12:56:00,Justin Bieber,2 Much,4,13,4,1.95
+2021-04-04 12:57:00,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),4,13,4,1.62
+2021-04-07 05:06:00,Justin Bieber,Anyone,7,14,4,3.18
+2021-05-11 13:59:00,Justin Bieber,Anyone,11,19,5,3.18
+2021-05-12 01:39:00,Justin Bieber,Mistletoe,12,19,5,3.05
+2021-05-16 00:12:00,Justin Bieber,Anyone,16,19,5,3.18
+2021-06-01 07:40:00,Justin Bieber,Anyone,1,22,6,3.01
+2021-06-22 03:42:00,Justin Bieber,Anyone,22,25,6,3.18
+2021-06-25 02:23:00,Justin Bieber,Anyone,25,25,6,3.18
+2021-06-27 11:05:00,Justin Bieber,Anyone,27,25,6,3.18
+2021-06-28 01:58:00,Justin Bieber,Anyone,28,26,6,3.18
+2021-06-30 14:51:00,Justin Bieber,Anyone,30,26,6,3.18
+2021-07-03 13:52:00,Justin Bieber,Anyone,3,26,7,3.18
+2021-07-04 14:07:00,Justin Bieber,Anyone,4,26,7,3.18
+2021-07-04 16:40:00,Justin Bieber,Anyone,4,26,7,2.01
+2021-07-06 13:27:00,Justin Bieber,Anyone,6,27,7,3.18
+2021-07-09 02:31:00,Justin Bieber,Anyone,9,27,7,3.18
+2021-07-20 09:35:00,Justin Bieber,Anyone,20,29,7,3.18
+2021-07-20 11:13:00,Justin Bieber,Anyone,20,29,7,3.18
+2021-07-27 12:21:00,Justin Bieber,Anyone,27,30,7,3.18
+2021-08-04 00:27:00,Justin Bieber,Anyone,4,31,8,3.18
+2021-08-04 05:35:00,Justin Bieber,Anyone,4,31,8,3.18
+2021-08-07 18:05:00,Justin Bieber,Anyone,7,31,8,1.86
+2021-08-11 05:36:00,Justin Bieber,Anyone,11,32,8,3.18
+2021-08-17 00:18:00,Justin Bieber,Anyone,17,33,8,3.18
+2021-08-22 01:05:00,Justin Bieber,Anyone,22,33,8,3.18
+2021-08-24 00:34:00,Justin Bieber,Anyone,24,34,8,3.18
+2021-09-04 12:43:00,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),4,35,9,1.07
+2021-09-04 12:47:00,Justin Bieber,Love Yourself,4,35,9,1.29
+2021-09-04 12:49:00,Justin Bieber,Mistletoe,4,35,9,1.86
+2021-09-04 12:51:00,Justin Bieber,Sorry,4,35,9,0.69
+2021-09-04 12:54:00,Justin Bieber,What Do You Mean?,4,35,9,0.8
+2021-09-04 12:56:00,Justin Bieber,Baby,4,35,9,2.13
+2021-09-04 12:57:00,Justin Bieber,Friends (with BloodPop®),4,35,9,1.23
+2021-09-04 12:58:00,Justin Bieber,Confident,4,35,9,1.07
+2021-09-04 12:59:00,Justin Bieber,All That Matters,4,35,9,0.76
+2021-09-04 13:01:00,Justin Bieber,Company,4,35,9,1.68
+2021-09-04 13:02:00,Justin Bieber,One Less Lonely Girl,4,35,9,1.63
+2021-09-19 12:41:00,Justin Bieber,Mistletoe,19,37,9,3.05
+2021-09-19 12:44:00,Justin Bieber,Sorry,19,37,9,3.35
+2021-09-23 12:26:00,Justin Bieber,Anyone,23,38,9,3.18
+2021-09-24 01:58:00,Justin Bieber,Anyone,24,38,9,3.18
+2021-09-27 01:40:00,Justin Bieber,Anyone,27,39,9,3.18
+2021-10-17 02:37:00,Justin Bieber,Anyone,17,41,10,3.18
+2021-10-25 12:58:00,Justin Bieber,Anyone,25,43,10,3.18
+2021-10-25 13:44:00,Justin Bieber,Anyone,25,43,10,3.18
+2021-10-28 01:50:00,Justin Bieber,Anyone,28,43,10,3.18
+2021-10-28 15:05:00,Justin Bieber,Anyone,28,43,10,3.18
+2021-10-28 15:54:00,Justin Bieber,Anyone,28,43,10,3.18
+2021-11-27 08:14:00,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),27,47,11,3.3
+2021-11-27 08:17:00,Justin Bieber,Love You Different (feat. BEAM),27,47,11,3.11
+2021-11-27 08:20:00,Justin Bieber,Loved By You (feat. Burna Boy),27,47,11,2.65
+2021-11-27 08:23:00,Justin Bieber,Anyone,27,47,11,3.18
+2021-11-27 08:25:00,Justin Bieber,Lonely (with benny blanco),27,47,11,2.49
+2021-11-27 08:29:00,Justin Bieber,There She Go (feat. Lil Uzi Vert),27,47,11,3.58
+2021-11-27 08:32:00,Justin Bieber,I Can't Be Myself (feat. Jaden),27,47,11,3.22
+2021-12-03 12:26:00,Justin Bieber,Anyone,3,48,12,3.18
+2021-12-04 15:51:00,Justin Bieber,Anyone,4,48,12,3.18
+2021-12-15 04:11:00,Justin Bieber,Anyone,15,50,12,3.18

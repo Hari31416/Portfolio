@@ -1,0 +1,61 @@
+Book Id,Title,Author,ISBN13,My Rating,Average Rating,Publisher,Number of Pages,Year Published,Original Publication Year,Date Read,Date Added,Bookshelves,Read Count,Series
+57094644,Daughter of the Deep,Rick Riordan,9.78137E+12,5,4.33,Disney-Hyperion,352,2021,2021,12/22/2021,09/21/2021,read,1,Stand Alone
+34601024,"Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",Aurélien Géron,,5,4.57,O'Reilly Media,566,2017,2017,12/17/2021,11/27/2021,read,1,Stand Alone
+44492285,"Dune Messiah (Dune Chronicles, #2)",Frank Herbert,9.78059E+12,4,3.89,Ace Books,337,2019,1969,12/16/2021,09/17/2021,read,1,Dune
+43606157,"Cytonic (Skyward, #3)",Brandon Sanderson,9.78147E+12,5,4.19,Gollancz,409,2021,2021,12/02/2021,05/26/2021,read,1,Skyward
+22514127,Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Al Sweigart,9.78159E+12,5,4.29,No Starch Press,479,2015,2014,11/29/2021,11/21/2021,read,1,Stand Alone
+44767458,"Dune (Dune, #1)",Frank Herbert,9.78059E+12,5,4.24,Ace Books,688,2019,1965,11/08/2021,04/11/2020,read,1,Dune
+57903879,ReDawn (Skyward #2.2),Brandon Sanderson,9.78059E+12,5,4.28,Delacorte Press,229,2021,2021,11/05/2021,05/26/2021,read,1,Skyward
+57903876,Sunreach (Skyward #2.1),Brandon Sanderson,9.78059E+12,5,4.22,Delacorte Press,208,2021,2021,09/29/2021,05/26/2021,read,1,Skyward
+35167718,"""What Do You Care What Other People Think?"": Further Adventures of a Curious Character",Richard P. Feynman,9.78039E+12,5,4.11,W. W. Norton  Company,288,2018,1988,09/09/2021,08/16/2021,read,1,Stand Alone
+35959740,Circe,Madeline Miller,9.78032E+12,5,4.26,"Little, Brown and Company",393,2018,2018,08/31/2021,06/19/2020,read,1,Stand Alone
+69571,"Rich Dad, Poor Dad",Robert T. Kiyosaki,9.78075E+12,5,4.1,Time Warner Books UK,195,2007,1997,08/19/2021,07/06/2021,read,1,Stand Alone
+19063,The Book Thief,Markus Zusak,,5,4.38,Alfred A. Knopf,552,2006,2005,08/13/2021,07/24/2021,favorites,1,Stand Alone
+31817749,"The Stone Sky (The Broken Earth, #3)",N.K. Jemisin,,5,4.3,Orbit,416,2017,2017,07/29/2021,06/04/2021,read,1,The Broken Earth
+26228034,"The Obelisk Gate (The Broken Earth, #2)",N.K. Jemisin,,5,4.28,Orbit,410,2016,2016,07/12/2021,06/04/2021,read,1,The Broken Earth
+817589,Learn to Earn: A Beginner's Guide to the Basics of Investing and Business,Peter Lynch,9.78068E+12,5,4.04,Simon  Schuster,272,1996,1995,07/11/2021,07/06/2021,read,1,Stand Alone
+17999205,Computing with Quantum Cats: From Colossus to Qubits,John Gribbin,9.78059E+12,5,3.74,Bantam Press,304,2013,2013,07/03/2021,05/08/2021,read,1,Stand Alone
+19161852,"The Fifth Season (The Broken Earth, #1)",N.K. Jemisin,,5,4.28,Orbit,468,2015,2015,06/26/2021,06/04/2021,read,1,The Broken Earth
+8695,"The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,,5,4.2,Del Rey,250,2005,1980,06/21/2021,05/29/2021,read,1,Hitchhiker's Guide to the Galaxy
+54513688,"Realm Breaker (Realm Breaker, #1)",Victoria Aveyard,,3,3.7,Orion Publishing,576,2021,2021,06/15/2021,06/09/2021,read,1,Realm Breaker
+386162,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,,5,4.22,Del Rey,193,2007,1979,06/08/2021,05/29/2021,"books_worth_rereading, favorites",1,Hitchhiker's Guide to the Galaxy
+31520883,"A ​Sky Beyond the Storm (An Ember in the Ashes, #4)",Sabaa Tahir,9.78001E+12,4,4.36,Razorbill,516,2021,2020,06/04/2021,05/28/2021,read,1,An Ember in the Ashes
+4671,The Great Gatsby,F. Scott Fitzgerald,,4,3.93,Scribner,200,2004,1925,05/29/2021,04/11/2020,books_i_own,1,Stand Alone
+30809786,"A Reaper at the Gates (An Ember in the Ashes, #3)",Sabaa Tahir,9.78045E+12,5,4.21,Razorbill,458,2018,2018,05/28/2021,05/14/2021,read,1,An Ember in the Ashes
+27774758,"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir,,4,4.25,Razorbill,446,2016,2015,05/17/2021,05/14/2021,read,1,An Ember in the Ashes
+25591568,"A Torch Against the Night (An Ember in the Ashes, #2)",Sabaa Tahir,,3,4.23,Razorbill,467,2016,2016,05/20/2021,05/14/2021,read,1,An Ember in the Ashes
+30169100,"The Burning White (Lightbringer, #5)",Brent Weeks,9.78032E+12,5,4.28,Orbit,992,2019,2019,05/13/2021,05/01/2021,read,1,Lightbringer
+23437156,"Six of Crows (Six of Crows, #1)",Leigh Bardugo,9.78163E+12,5,4.47,Henry Holt & Company,465,2015,2015,03/12/2021,03/11/2021,"favorites, books_worth_rereading, books_i_own",1,Six of Crows
+13497,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,9.78055E+12,5,4.14,Bantam Books,1061,2011,2005,03/27/2021,04/02/2020,books_i_own,1,A Song of Ice and Fire
+22299763,"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,,5,4.59,Orion Children's Books,561,2016,2016,03/13/2021,03/12/2021,"favorites, books_worth_rereading, books_i_own",1,Six of Crows
+10664113,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,,5,4.31,Bantam,1125,2011,2011,04/07/2021,04/11/2020,books_i_own,1,A Song of Ice and Fire
+11133581,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,,5,4.53,Voyager,1218,2011,2000,01/29/2021,02/26/2020,books_i_own,1,A Song of Ice and Fire
+26047438,"Fire Falling (Air Awakens, #2)",Elise Kova,9.78162E+12,3,4.17,Silver Wing Press,378,2015,2015,04/24/2021,04/21/2021,read,1,Air Awakens
+29467232,"The Blood Mirror (Lightbringer, #4)",Brent Weeks,9.78032E+12,4,4.34,Orbit,704,2016,2015,05/09/2021,05/01/2021,read,1,Lightbringer
+30075662,"Aurora Rising (The Aurora Cycle, #1)",Amie Kaufman,9.78152E+12,5,4.13,Knopf Books for Young Readers,473,2019,2019,04/30/2021,04/29/2021,read,1,The Aurora Cycle
+12652457,"The Broken Eye (Lightbringer, #3)",Brent Weeks,,4,4.46,Orbit,846,2014,2014,05/07/2021,05/01/2021,read,1,Lightbringer
+12499290,"The Blinding Knife (Lightbringer, #2)",Brent Weeks,9.78032E+12,5,4.38,Orbit,671,2012,2012,05/04/2021,05/01/2021,read,1,Lightbringer
+7165300,"The Black Prism (Lightbringer, #1)",Brent Weeks,9.78032E+12,5,4.21,Orbit,629,2010,2010,05/02/2021,05/01/2021,read,1,Lightbringer
+32726691,Storm in a Teacup: The Physics of Everyday Life,Helen Czerski,,4,4.03,Transworld Digital,282,2016,2017,04/29/2021,03/20/2021,science,1,Stand Alone
+23127048,"Air Awakens (Air Awakens, #1)",Elise Kova,9.78193E+12,4,4.01,Silver Wing Press,342,2015,2015,04/23/2021,04/21/2021,read,1,Air Awakens
+36307634,"King of Scars (King of Scars, #1)",Leigh Bardugo,,5,4.19,Imprint,527,2019,2019,03/15/2021,03/11/2021,"favorites, books_worth_rereading",1,King of Scars
+25734172,Seven Brief Lessons on Physics,Carlo Rovelli,9.7804E+12,4,3.96,Riverhead Books,81,2016,2014,01/05/2021,01/01/2021,science,1,Stand Alone
+32191710,Astrophysics for People in a Hurry,Neil deGrasse Tyson,9.78039E+12,5,4.07,W. W. Norton  Company,208,2017,2017,03/09/2021,02/19/2021,"favorites, science",1,Stand Alone
+14290364,"Champion (Legend, #3)",Marie Lu,9.7804E+12,4,4.32,Putnam Juvenile,369,2013,2013,04/21/2021,04/18/2021,read,1,Legend
+13206760,"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,9.78031E+12,5,4.25,Feiwel & Friends,454,2013,2013,04/09/2021,04/07/2021,favorites,1,The Lunar Chronicles
+35425827,"Archenemies (Renegades, #2)",Marissa Meyer,9.78125E+12,5,4.3,Feiwel & Friends,560,2018,2018,04/16/2021,04/10/2021,favorites,1,Renegades
+13414446,"Prodigy (Legend, #2)",Marie Lu,9.7804E+12,5,4.24,Putnam Juvenile,371,2013,2013,04/20/2021,04/18/2021,favorites,1,Legend
+14061957,"Ruin and Rising (The Shadow and Bone Trilogy, #3)",Leigh Bardugo,,5,4.04,Henry Holt and Company,422,2014,2014,03/10/2021,03/10/2021,favorites,1,The Shadow and Bone
+9275658,"Legend (Legend, #1)",Marie Lu,,4,4.16,Putnam Juvenile,305,2011,2011,04/18/2021,04/18/2021,read,1,Legend
+42771754,"Supernova (Renegades, #3)",Marissa Meyer,9.78125E+12,4,4.42,Feiwel & Friends,552,2019,2019,04/17/2021,04/10/2021,read,1,Renegades
+28421168,"Renegades (Renegades, #1)",Marissa Meyer,9.78125E+12,4,4.14,Feiwel & Friends,556,2017,2017,04/16/2021,04/10/2021,read,1,Renegades
+9361589,The Night Circus,Erin Morgenstern,9.78039E+12,4,4.03,Doubleday,387,2011,2011,04/13/2021,04/13/2021,read,1,Stand Alone
+13206900,"Winter (The Lunar Chronicles, #4)",Marissa Meyer,9.78031E+12,5,4.41,Feiwel & Friends,827,2015,2015,04/11/2021,04/07/2021,read,1,The Lunar Chronicles
+13206828,"Cress (The Lunar Chronicles, #3)",Marissa Meyer,9.78031E+12,5,4.4,Feiwel & Friends,552,2014,2014,04/10/2021,04/07/2021,read,1,The Lunar Chronicles
+36381037,"Cinder (The Lunar Chronicles, #1)",Marissa Meyer,,5,4.13,Feiwel & Friends,400,2012,2012,04/08/2021,04/07/2021,read,1,The Lunar Chronicles
+36307674,"Rule of Wolves (King of Scars, #2)",Leigh Bardugo,9.78151E+12,4,4.41,Orion Children's Books,592,2021,2021,03/31/2021,03/15/2021,read,1,King of Scars
+91478,"Summer Knight (The Dresden Files, #4)",Jim Butcher,9.78045E+12,5,4.25,Roc,446,2002,2002,03/20/2021,03/10/2021,read,1,The Dresden Files
+833424,Reaper Man (Discworld #11),Terry Pratchett,9.78055E+12,4,4.24,Corgi Books,287,1992,1991,03/08/2021,02/27/2021,read,1,Discworld
+14061955,"Siege and Storm (The Shadow and Bone Trilogy, #2)",Leigh Bardugo,,5,3.87,Henry Holt and Company,435,2013,2013,03/10/2021,03/09/2021,read,1,The Shadow and Bone
+10194157,"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo,,4,3.96,Henry Holt & Company,358,2012,2012,03/09/2021,03/08/2021,read,1,The Shadow and Bone
+35068705,"The Poppy War (The Poppy War, #1)",R.F. Kuang,9.78006E+12,4,4.07,Harper Voyager,531,2018,2018,02/18/2021,01/29/2021,read,1,The Poppy War

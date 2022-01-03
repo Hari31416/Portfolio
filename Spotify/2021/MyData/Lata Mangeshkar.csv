@@ -1,0 +1,551 @@
+endTime,artistName,trackName,Day,Week,Month,Minutes Played
+2021-01-16 10:24:00,Lata Mangeshkar,Mere Naseeb Mein - Naseeb / Soundtrack Version,16,2,1,0.63
+2021-01-16 10:26:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",16,2,1,1.92
+2021-05-25 02:10:00,Lata Mangeshkar,Lag Ja Gale Se Phir,25,21,5,2.49
+2021-05-25 02:14:00,Lata Mangeshkar,Lag Ja Gale Se Phir,25,21,5,4.29
+2021-05-25 02:29:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,25,21,5,3.97
+2021-05-25 15:05:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,25,21,5,5.51
+2021-05-25 15:12:00,Lata Mangeshkar,Chandni Raat Mein,25,21,5,5.49
+2021-06-12 00:40:00,Lata Mangeshkar,Bahon Mein Chale Aao,12,23,6,4.03
+2021-06-12 00:44:00,Lata Mangeshkar,Lag Ja Gale Se Phir,12,23,6,4.29
+2021-06-12 00:46:00,Lata Mangeshkar,Loote Koi Man Ka Nagar,12,23,6,1.55
+2021-07-05 08:54:00,Lata Mangeshkar,Tumhin Meri Mandir,5,27,7,5.82
+2021-07-05 09:00:00,Lata Mangeshkar,Chup Gaye Sare Nazare,5,27,7,5.49
+2021-07-05 09:04:00,Lata Mangeshkar,Loote Koi Man Ka Nagar,5,27,7,3.57
+2021-07-05 09:08:00,Lata Mangeshkar,Rahen Na Rahen,5,27,7,4.43
+2021-07-05 09:14:00,Lata Mangeshkar,Tera Saath Hai To - Lata Mangeshkar,5,27,7,0.77
+2021-07-05 13:32:00,Lata Mangeshkar,Tera Saath Hai To - Lata Mangeshkar,5,27,7,1.02
+2021-07-06 07:34:00,Lata Mangeshkar,Beeti Na Bitai Raina,6,27,7,3.23
+2021-07-06 07:38:00,Lata Mangeshkar,Aaj Phir Jeene Ki Tamanna Hai,6,27,7,3.97
+2021-07-06 07:42:00,Lata Mangeshkar,Ehsan Tera Hoga Mujh Par - Lata Mangeshkar,6,27,7,3.51
+2021-07-06 07:46:00,Lata Mangeshkar,Bahon Mein Chale Aao,6,27,7,4.03
+2021-07-06 07:51:00,Lata Mangeshkar,Zindagi Pyar Ka Geet Hai,6,27,7,5.54
+2021-07-06 07:56:00,Lata Mangeshkar,Rahen Na Rahen,6,27,7,4.43
+2021-07-06 08:41:00,Lata Mangeshkar,"Ayegaa Ayegaa Anewaalaa, From ''Mahal''",6,27,7,0.74
+2021-07-08 12:42:00,Lata Mangeshkar,Teri Bindiya Re,8,27,7,0.58
+2021-07-14 13:39:00,Lata Mangeshkar,Chup Gaye Sare Nazare,14,28,7,5.49
+2021-07-14 13:53:00,Lata Mangeshkar,Tera Saath Hai To - Lata Mangeshkar,14,28,7,5.57
+2021-07-14 13:57:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",14,28,7,3.92
+2021-07-20 03:42:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,20,29,7,6.8
+2021-07-20 07:05:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,29,7,3.25
+2021-07-27 12:07:00,Lata Mangeshkar,Man Dole Mera Tan Dole,27,30,7,1.38
+2021-09-20 08:56:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,20,38,9,5.48
+2021-09-20 09:05:00,Lata Mangeshkar,Ehsan Tera Hoga Mujh Par - Lata Mangeshkar,20,38,9,3.51
+2021-09-20 09:09:00,Lata Mangeshkar,Rula Ke Gaya,20,38,9,4.51
+2021-09-20 09:13:00,Lata Mangeshkar,Ruk Ja Raat,20,38,9,4.19
+2021-09-20 09:15:00,Lata Mangeshkar,Saagar Kinare - Saagar / Soundtrack Version,20,38,9,1.35
+2021-09-20 09:23:00,Lata Mangeshkar,Lag Ja Gale Se Phir,20,38,9,4.29
+2021-09-20 09:28:00,Lata Mangeshkar,Rahen Na Rahen,20,38,9,4.43
+2021-09-20 09:32:00,Lata Mangeshkar,Sau Saal Pahle,20,38,9,4.08
+2021-09-20 09:44:00,Lata Mangeshkar,Chalo Sajna Jhahan Tak,20,38,9,4.94
+2021-09-20 11:11:00,Lata Mangeshkar,Chalte Chalte Yun Hi Koi,20,38,9,5.32
+2021-09-24 11:07:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,24,38,9,6.8
+2021-09-24 11:11:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",24,38,9,3.92
+2021-09-24 11:15:00,Lata Mangeshkar,Lag Ja Gale Se Phir,24,38,9,4.29
+2021-09-24 11:21:00,Lata Mangeshkar,Chandni Raat Mein,24,38,9,5.54
+2021-09-24 11:26:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,24,38,9,5.48
+2021-09-24 11:29:00,Lata Mangeshkar,Aaj Phir Jeene Ki Tamanna Hai,24,38,9,2.7
+2021-09-25 04:59:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,25,38,9,6.8
+2021-09-25 05:08:00,Lata Mangeshkar,Nainon Mein Badra Chhaye,25,38,9,3.56
+2021-09-25 05:18:00,Lata Mangeshkar,Teri Bindiya Re,25,38,9,4.54
+2021-09-25 05:23:00,Lata Mangeshkar,"Wada Na Tod - From ""Dil Tujhko Diya""",25,38,9,5.94
+2021-09-25 05:40:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",25,38,9,7.06
+2021-09-25 05:44:00,Lata Mangeshkar,Bahon Mein Chale Aao,25,38,9,4.03
+2021-09-25 05:55:00,Lata Mangeshkar,Bahon Mein Chale Aao,25,38,9,4.03
+2021-09-25 06:06:00,Lata Mangeshkar,Mausam Hai Ashiqana,25,38,9,2.24
+2021-09-25 06:17:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,25,38,9,1.46
+2021-09-26 05:52:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,26,38,9,1.75
+2021-09-26 06:33:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,26,38,9,5.06
+2021-09-26 06:47:00,Lata Mangeshkar,"Rasik Balamaa Hay Dil Kyon Lagayaa Tose, From ''Chori Chori''",26,38,9,3.48
+2021-09-26 09:17:00,Lata Mangeshkar,"Rasik Balamaa Hay Dil Kyon Lagayaa Tose, From ''Chori Chori''",26,38,9,4.56
+2021-09-28 07:28:00,Lata Mangeshkar,Bahon Mein Chale Aao,28,39,9,3.46
+2021-09-28 07:33:00,Lata Mangeshkar,Chandni Raat Mein,28,39,9,5.54
+2021-09-28 07:34:00,Lata Mangeshkar,"Wada Na Tod - From ""Dil Tujhko Diya""",28,39,9,0.78
+2021-09-28 07:41:00,Lata Mangeshkar,Chalte Chalte Yun Hi Koi,28,39,9,5.89
+2021-09-28 07:48:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,28,39,9,6.8
+2021-09-28 07:53:00,Lata Mangeshkar,Ab To Hai Tumse Har Khushi Apni,28,39,9,4.75
+2021-09-28 07:56:00,Lata Mangeshkar,Lag Ja Gale Se Phir,28,39,9,0.65
+2021-09-28 07:56:00,Lata Mangeshkar,Lo Aa Gayi Unki Yaad,28,39,9,2.46
+2021-09-28 08:12:00,Lata Mangeshkar,Chalo Sajna Jhahan Tak,28,39,9,0.74
+2021-09-28 11:04:00,Lata Mangeshkar,Tera Saath Hai To - Lata Mangeshkar,28,39,9,2.57
+2021-09-28 11:07:00,Lata Mangeshkar,Rahen Na Rahen,28,39,9,3.53
+2021-09-28 11:10:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",28,39,9,1.41
+2021-09-28 12:07:00,Lata Mangeshkar,Chalo Sajna Jhahan Tak,28,39,9,4.08
+2021-09-29 15:01:00,Lata Mangeshkar,Ruke Ruke Se Qadam,29,39,9,4.02
+2021-09-29 15:07:00,Lata Mangeshkar,Pardes Jake Pardesia,29,39,9,6.85
+2021-09-29 15:13:00,Lata Mangeshkar,Naam Goom Jayega,29,39,9,5.59
+2021-09-29 15:19:00,Lata Mangeshkar,Chup Gaye Sare Nazare,29,39,9,5.49
+2021-09-29 15:27:00,Lata Mangeshkar,Tune O Rangeele,29,39,9,3.54
+2021-09-29 15:31:00,Lata Mangeshkar,Tumhen Yaad Karte Karte,29,39,9,3.59
+2021-09-29 15:40:00,Lata Mangeshkar,Jhilmil Sitaron Ka Angan Hoga,29,39,9,5.48
+2021-09-29 15:45:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,29,39,9,5.48
+2021-09-29 15:51:00,Lata Mangeshkar,Main Na Bhoolunga-1 - Sad,29,39,9,5.65
+2021-09-29 15:57:00,Lata Mangeshkar,Solah Baras Ki Bali Umar,29,39,9,6.23
+2021-09-29 16:04:00,Lata Mangeshkar,Aya Sawan Jhoom Ke,29,39,9,6.9
+2021-09-29 16:10:00,Lata Mangeshkar,Chandni Raat Mein,29,39,9,5.54
+2021-09-29 16:15:00,Lata Mangeshkar,Suno Sajna Papihe Ne Kaha,29,39,9,5.44
+2021-09-29 16:22:00,Lata Mangeshkar,Meri Kismat Mein Tu Nahin Shayad,29,39,9,7.28
+2021-09-29 16:27:00,Lata Mangeshkar,Woh Bhooli Dastan Lo Phir Yaad,29,39,9,4.87
+2021-09-29 16:31:00,Lata Mangeshkar,Sawan Ke Jhoole Pade - Sad,29,39,9,3.76
+2021-09-29 16:35:00,Lata Mangeshkar,Tujhse Naraz Nahin Zindagi - Lata Mangeshkar,29,39,9,3.67
+2021-09-29 16:40:00,Lata Mangeshkar,Tumhin Meri Mandir,29,39,9,5.82
+2021-09-29 16:45:00,Lata Mangeshkar,Dheere Dheere Chal Chand,29,39,9,4.32
+2021-09-29 16:50:00,Lata Mangeshkar,Chalo Sajna Jhahan Tak,29,39,9,4.94
+2021-09-29 16:55:00,Lata Mangeshkar,Tere Mere Milan Ki Yeh Raina,29,39,9,4.91
+2021-09-29 16:59:00,Lata Mangeshkar,Ruk Ja Raat,29,39,9,4.19
+2021-09-29 17:05:00,Lata Mangeshkar,Ye Dil Tum Bin Lagta Nahin,29,39,9,5.86
+2021-09-29 17:09:00,Lata Mangeshkar,Piya Bina Piya Bina,29,39,9,4.2
+2021-10-02 05:12:00,Lata Mangeshkar,Tune O Rangeele,2,39,10,3.54
+2021-10-02 05:17:00,Lata Mangeshkar,Kahin Deep Jale Kahin Dil,2,39,10,5.41
+2021-10-02 05:21:00,Lata Mangeshkar,Ruke Ruke Se Qadam,2,39,10,4.02
+2021-10-02 05:27:00,Lata Mangeshkar,Dekha Ek Khwab,2,39,10,5.35
+2021-10-02 05:30:00,Lata Mangeshkar,Chand Phir Nikla Magar Tum Na Aaye,2,39,10,3.71
+2021-10-02 05:36:00,Lata Mangeshkar,Chalte Chalte Yun Hi Koi,2,39,10,5.89
+2021-10-02 05:38:00,Lata Mangeshkar,Dheere Dheere Chal Chand,2,39,10,1.77
+2021-10-02 05:42:00,Lata Mangeshkar,Zara Si Aahat Hoti Hai,2,39,10,3.86
+2021-10-02 05:49:00,Lata Mangeshkar,Is Mod Se Jate Hain,2,39,10,4.94
+2021-10-02 05:53:00,Lata Mangeshkar,Main Na Bhoolunga-2 - Happy,2,39,10,0.65
+2021-10-02 05:58:00,Lata Mangeshkar,Tum Mujhe Yun Bhula Na Paoge - Lata Mangeshkar,2,39,10,5.27
+2021-10-02 06:03:00,Lata Mangeshkar,Rahen Na Rahen,2,39,10,4.43
+2021-10-02 06:05:00,Lata Mangeshkar,Tumhen Yaad Karte Karte,2,39,10,2.03
+2021-10-02 06:21:00,Lata Mangeshkar,Saagar Kinare - Saagar / Soundtrack Version,2,39,10,0.69
+2021-10-02 06:21:00,Lata Mangeshkar,Naam Goom Jayega,2,39,10,1.14
+2021-10-02 06:29:00,Lata Mangeshkar,Sawan Ke Jhoole Pade - Sad,2,39,10,3.76
+2021-10-02 06:30:00,Lata Mangeshkar,Aaja Re Pardesi,2,39,10,1.09
+2021-10-03 12:16:00,Lata Mangeshkar,Yara Seeli Seeli,3,39,10,5.1
+2021-10-03 12:19:00,Lata Mangeshkar,Tune O Rangeele,3,39,10,3.54
+2021-10-03 12:24:00,Lata Mangeshkar,Teri Bindiya Re,3,39,10,4.54
+2021-10-03 12:33:00,Lata Mangeshkar,Rula Ke Gaya,3,39,10,4.51
+2021-10-03 12:38:00,Lata Mangeshkar,Neela Aasman So Gaya - Lata Mangeshkar,3,39,10,4.96
+2021-10-03 14:10:00,Lata Mangeshkar,Chandan Sa Badan Chanchal Chitwan,3,39,10,2.03
+2021-10-03 14:15:00,Lata Mangeshkar,Lo Aa Gayi Unki Yaad,3,39,10,4.63
+2021-10-03 14:30:00,Lata Mangeshkar,Aye-Dil-E-Nadan,3,39,10,4.96
+2021-10-03 14:36:00,Lata Mangeshkar,Aye-Dil-E-Nadan,3,39,10,0.7
+2021-10-03 14:38:00,Lata Mangeshkar,Main Tere Ishq Mein,3,39,10,1.04
+2021-10-03 14:42:00,Lata Mangeshkar,Ruk Ja Raat,3,39,10,4.19
+2021-10-03 15:01:00,Lata Mangeshkar,Woh Jab Yaad Aaye,3,39,10,4.72
+2021-10-03 15:17:00,Lata Mangeshkar,Aaja Piya Tohe Pyar Doon,3,39,10,4.19
+2021-10-03 15:24:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,3,39,10,6.8
+2021-10-03 15:29:00,Lata Mangeshkar,Tere Mere Milan Ki Yeh Raina,3,39,10,4.91
+2021-10-03 15:34:00,Lata Mangeshkar,Is Mod Se Jate Hain,3,39,10,4.94
+2021-10-03 15:40:00,Lata Mangeshkar,Chandni Raat Mein,3,39,10,5.54
+2021-10-03 15:43:00,Lata Mangeshkar,Tera Jana,3,39,10,3.69
+2021-10-03 15:53:00,Lata Mangeshkar,Sawan Ke Jhoole Pade - Sad,3,39,10,3.76
+2021-10-06 14:03:00,Lata Mangeshkar,Ae Ri Pawan,6,40,10,5.46
+2021-10-06 14:18:00,Lata Mangeshkar,Loote Koi Man Ka Nagar,6,40,10,0.63
+2021-10-06 14:37:00,Lata Mangeshkar,Bahon Mein Chale Aao,6,40,10,4.03
+2021-10-06 14:42:00,Lata Mangeshkar,Neela Aasman So Gaya - Lata Mangeshkar,6,40,10,5.47
+2021-10-06 14:47:00,Lata Mangeshkar,Woh Bhooli Dastan Lo Phir Yaad,6,40,10,4.87
+2021-10-06 14:56:00,Lata Mangeshkar,Tera Mera Pyar Amar - Lata Mangeshkar,6,40,10,3.18
+2021-10-06 15:03:00,Lata Mangeshkar,Pardes Jake Pardesia,6,40,10,6.85
+2021-10-06 15:07:00,Lata Mangeshkar,Loote Koi Man Ka Nagar,6,40,10,3.57
+2021-10-06 15:11:00,Lata Mangeshkar,Rahen Na Rahen,6,40,10,4.43
+2021-10-06 15:15:00,Lata Mangeshkar,Lag Ja Gale Se Phir,6,40,10,4.29
+2021-10-06 15:21:00,Lata Mangeshkar,Chandni Raat Mein,6,40,10,5.54
+2021-10-06 15:26:00,Lata Mangeshkar,Suno Sajna Papihe Ne Kaha,6,40,10,5.44
+2021-10-06 15:31:00,Lata Mangeshkar,"Ye Mulaqat Ek Bahana Hai - From ""Khandaan""",6,40,10,4.62
+2021-10-06 15:33:00,Lata Mangeshkar,Tumhen Yaad Karte Karte,6,40,10,2.18
+2021-10-06 15:38:00,Lata Mangeshkar,Aaja Sanam Madhur Chandni Men,6,40,10,4.43
+2021-10-06 15:42:00,Lata Mangeshkar,Teri Aankhon Ke Siva Duniya Men,6,40,10,4.42
+2021-10-06 16:01:00,Lata Mangeshkar,Teri Bindiya Re,6,40,10,2.53
+2021-10-08 04:04:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,8,40,10,5.48
+2021-10-08 04:16:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,8,40,10,6.8
+2021-10-08 04:20:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",8,40,10,3.92
+2021-10-08 04:45:00,Lata Mangeshkar,Aye-Dil-E-Nadan,8,40,10,5.65
+2021-10-08 04:51:00,Lata Mangeshkar,Ae Ri Pawan,8,40,10,5.46
+2021-10-08 06:45:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,8,40,10,4.34
+2021-10-08 06:55:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,8,40,10,5.48
+2021-10-08 12:11:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,8,40,10,6.8
+2021-10-08 12:15:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",8,40,10,3.92
+2021-10-08 12:31:00,Lata Mangeshkar,Aye-Dil-E-Nadan,8,40,10,5.65
+2021-10-08 12:37:00,Lata Mangeshkar,Ae Ri Pawan,8,40,10,5.46
+2021-10-08 13:00:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,8,40,10,5.48
+2021-10-08 13:06:00,Lata Mangeshkar,Ae Ri Pawan,8,40,10,5.46
+2021-10-08 13:11:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,8,40,10,5.45
+2021-10-08 14:15:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,8,40,10,4.83
+2021-10-08 14:40:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,8,40,10,5.42
+2021-10-08 14:44:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",8,40,10,3.92
+2021-10-09 03:20:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,9,40,10,6.8
+2021-10-09 03:44:00,Lata Mangeshkar,Aye-Dil-E-Nadan,9,40,10,4.59
+2021-10-09 06:26:00,Lata Mangeshkar,Aye-Dil-E-Nadan,9,40,10,5.65
+2021-10-09 06:32:00,Lata Mangeshkar,Ae Ri Pawan,9,40,10,5.46
+2021-10-09 06:58:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,9,40,10,3.61
+2021-10-09 07:05:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,9,40,10,1.23
+2021-10-09 07:11:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,9,40,10,5.48
+2021-10-09 07:15:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",9,40,10,3.92
+2021-10-10 06:20:00,Lata Mangeshkar,Aye-Dil-E-Nadan,10,40,10,5.65
+2021-10-10 07:16:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,10,40,10,6.8
+2021-10-10 07:34:00,Lata Mangeshkar,Ae Ri Pawan,10,40,10,0.79
+2021-10-10 11:05:00,Lata Mangeshkar,Ae Ri Pawan,10,40,10,5.46
+2021-10-10 11:10:00,Lata Mangeshkar,Aye-Dil-E-Nadan,10,40,10,5.65
+2021-10-10 11:30:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,10,40,10,6.8
+2021-10-10 11:38:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,10,40,10,4.83
+2021-10-10 11:44:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,10,40,10,5.48
+2021-10-10 11:52:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",10,40,10,3.92
+2021-10-10 12:09:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,10,40,10,5.48
+2021-10-10 12:11:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",10,40,10,2.55
+2021-10-12 05:09:00,Lata Mangeshkar,Aye-Dil-E-Nadan,12,41,10,5.65
+2021-10-12 05:29:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,12,41,10,3.23
+2021-10-12 10:37:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,12,41,10,4.83
+2021-10-12 10:43:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,12,41,10,5.48
+2021-10-12 10:47:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",12,41,10,3.92
+2021-10-12 11:03:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,12,41,10,6.8
+2021-10-12 11:12:00,Lata Mangeshkar,Ae Ri Pawan,12,41,10,5.46
+2021-10-12 11:25:00,Lata Mangeshkar,Aye-Dil-E-Nadan,12,41,10,2.89
+2021-10-12 11:28:00,Lata Mangeshkar,Aye-Dil-E-Nadan,12,41,10,2.73
+2021-10-12 11:33:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,12,41,10,4.83
+2021-10-12 11:38:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,12,41,10,5.48
+2021-10-12 11:42:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",12,41,10,3.92
+2021-10-12 11:59:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,12,41,10,6.8
+2021-10-13 02:18:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,13,41,10,5.48
+2021-10-14 01:42:00,Lata Mangeshkar,Aye-Dil-E-Nadan,14,41,10,5.65
+2021-10-14 02:28:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",14,41,10,3.92
+2021-10-14 02:35:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,14,41,10,6.8
+2021-10-14 02:40:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,14,41,10,4.83
+2021-10-14 02:45:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,14,41,10,5.48
+2021-10-14 02:51:00,Lata Mangeshkar,Aye-Dil-E-Nadan,14,41,10,5.65
+2021-10-14 03:31:00,Lata Mangeshkar,Ae Ri Pawan,14,41,10,5.46
+2021-10-14 03:39:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",14,41,10,3.92
+2021-10-14 03:46:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,14,41,10,6.8
+2021-10-14 03:51:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,14,41,10,4.83
+2021-10-14 03:56:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,14,41,10,5.48
+2021-10-14 04:02:00,Lata Mangeshkar,Aye-Dil-E-Nadan,14,41,10,5.65
+2021-10-14 05:12:00,Lata Mangeshkar,Aye-Dil-E-Nadan,14,41,10,5.65
+2021-10-15 00:39:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,15,41,10,5.48
+2021-10-16 02:17:00,Lata Mangeshkar,Nainon Mein Badra Chhaye,16,41,10,3.56
+2021-10-16 02:18:00,Lata Mangeshkar,Rahen Na Rahen,16,41,10,0.99
+2021-10-17 00:06:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,17,41,10,5.48
+2021-10-17 00:10:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,41,10,3.92
+2021-10-17 00:38:00,Lata Mangeshkar,Ae Ri Pawan,17,41,10,5.46
+2021-10-17 00:45:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,17,41,10,6.8
+2021-10-17 00:50:00,Lata Mangeshkar,Aye-Dil-E-Nadan,17,41,10,5.65
+2021-10-17 01:04:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,17,41,10,3.18
+2021-10-17 01:06:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,17,41,10,1.65
+2021-10-17 01:31:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,17,41,10,0.8
+2021-10-17 01:52:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,17,41,10,4.02
+2021-10-17 12:22:00,Lata Mangeshkar,Aye-Dil-E-Nadan,17,41,10,5.65
+2021-10-18 05:29:00,Lata Mangeshkar,Phool Tumhe Bheja Hai Khat Mein,18,42,10,4.77
+2021-10-18 13:18:00,Lata Mangeshkar,Chup Gaye Sare Nazare,18,42,10,5.49
+2021-10-18 13:33:00,Lata Mangeshkar,Ye Dil Tum Bin Lagta Nahin,18,42,10,5.86
+2021-10-19 00:31:00,Lata Mangeshkar,Na Jane Kyon Hota Hai,19,42,10,2.81
+2021-10-19 00:36:00,Lata Mangeshkar,Kanchi Re Kanchi Re,19,42,10,4.95
+2021-10-19 00:41:00,Lata Mangeshkar,Teri Bindiya Re,19,42,10,4.54
+2021-10-19 00:45:00,Lata Mangeshkar,"Rasik Balamaa Hay Dil Kyon Lagayaa Tose, From ''Chori Chori''",19,42,10,4.53
+2021-10-19 01:18:00,Lata Mangeshkar,Jane Kyon Log Mohabbat Kiya,19,42,10,4.9
+2021-10-19 02:51:00,Lata Mangeshkar,Woh Jab Yaad Aaye,19,42,10,4.72
+2021-10-19 02:56:00,Lata Mangeshkar,Tere Mere Milan Ki Yeh Raina,19,42,10,4.91
+2021-10-19 03:10:00,Lata Mangeshkar,Tujhse Naraz Nahin Zindagi - Lata Mangeshkar,19,42,10,3.51
+2021-10-19 04:15:00,Lata Mangeshkar,Tera Mera Pyar Amar - Lata Mangeshkar,19,42,10,0.89
+2021-10-19 04:21:00,Lata Mangeshkar,Ae Ri Pawan,19,42,10,5.46
+2021-10-19 04:32:00,Lata Mangeshkar,Aye-Dil-E-Nadan,19,42,10,5.65
+2021-10-19 05:05:00,Lata Mangeshkar,Aye-Dil-E-Nadan,19,42,10,5.65
+2021-10-19 07:06:00,Lata Mangeshkar,Ae Ri Pawan,19,42,10,4.02
+2021-10-19 10:06:00,Lata Mangeshkar,Ae Ri Pawan,19,42,10,1.44
+2021-10-20 00:39:00,Lata Mangeshkar,Phool Tumhe Bheja Hai Khat Mein,20,42,10,1.9
+2021-10-20 01:25:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,20,42,10,5.48
+2021-10-20 01:30:00,Lata Mangeshkar,Ae Ri Pawan,20,42,10,5.46
+2021-10-20 08:22:00,Lata Mangeshkar,Aye-Dil-E-Nadan,20,42,10,5.65
+2021-10-20 08:33:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,20,42,10,0.82
+2021-10-20 10:02:00,Lata Mangeshkar,Is Mod Se Jate Hain,20,42,10,4.94
+2021-10-20 10:12:00,Lata Mangeshkar,Is Mod Se Jate Hain,20,42,10,0.6
+2021-10-20 10:18:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,20,42,10,5.48
+2021-10-20 10:23:00,Lata Mangeshkar,Is Mod Se Jate Hain,20,42,10,4.94
+2021-10-20 11:16:00,Lata Mangeshkar,Woh Shaam Kuch Aajib Thi,20,42,10,0.58
+2021-10-20 12:12:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,20,42,10,4.02
+2021-10-20 12:16:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,42,10,3.92
+2021-10-20 12:21:00,Lata Mangeshkar,Ae Ri Pawan,20,42,10,5.46
+2021-10-20 23:54:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,20,42,10,6.8
+2021-10-21 00:38:00,Lata Mangeshkar,Aye-Dil-E-Nadan,21,42,10,3.62
+2021-10-21 07:14:00,Lata Mangeshkar,Chup Gaye Sare Nazare,21,42,10,1.03
+2021-10-21 12:08:00,Lata Mangeshkar,Chup Gaye Sare Nazare,21,42,10,5.49
+2021-10-21 14:42:00,Lata Mangeshkar,Rahen Na Rahen,21,42,10,4.43
+2021-10-21 14:54:00,Lata Mangeshkar,Rula Ke Gaya,21,42,10,2.69
+2021-10-21 23:48:00,Lata Mangeshkar,Piya Bina Piya Bina,21,42,10,4.2
+2021-10-21 23:51:00,Lata Mangeshkar,Nainon Mein Badra Chhaye,21,42,10,3.56
+2021-10-21 23:57:00,Lata Mangeshkar,Naam Goom Jayega,21,42,10,5.59
+2021-10-22 00:01:00,Lata Mangeshkar,Aaj Phir Jeene Ki Tamanna Hai,22,42,10,3.97
+2021-10-22 00:06:00,Lata Mangeshkar,Yara Seeli Seeli,22,42,10,5.1
+2021-10-22 00:12:00,Lata Mangeshkar,Sawan Ka Mahina,22,42,10,5.48
+2021-10-22 00:16:00,Lata Mangeshkar,Rula Ke Gaya,22,42,10,4.51
+2021-10-22 15:15:00,Lata Mangeshkar,Aye-Dil-E-Nadan,22,42,10,2.27
+2021-10-22 15:33:00,Lata Mangeshkar,Aye-Dil-E-Nadan,22,42,10,5.65
+2021-10-24 00:43:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,24,42,10,2.51
+2021-10-24 06:40:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,24,42,10,7.04
+2021-10-24 06:45:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,24,42,10,5.48
+2021-10-27 02:22:00,Lata Mangeshkar,Ae Ri Pawan,27,43,10,5.44
+2021-10-27 06:24:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,27,43,10,6.8
+2021-10-27 10:33:00,Lata Mangeshkar,Aye-Dil-E-Nadan,27,43,10,5.65
+2021-10-27 11:04:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,27,43,10,0.89
+2021-10-27 11:55:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,27,43,10,4.59
+2021-10-27 14:51:00,Lata Mangeshkar,Ae Ri Pawan,27,43,10,5.46
+2021-10-27 15:11:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,27,43,10,6.8
+2021-10-27 15:23:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",27,43,10,3.26
+2021-10-27 23:46:00,Lata Mangeshkar,Aye-Dil-E-Nadan,27,43,10,5.65
+2021-10-30 02:23:00,Lata Mangeshkar,Ye Dil Tum Bin Lagta Nahin,30,43,10,5.86
+2021-10-30 03:54:00,Lata Mangeshkar,Ae Ri Pawan,30,43,10,5.46
+2021-10-30 04:04:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,30,43,10,4.83
+2021-10-30 04:24:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,30,43,10,5.48
+2021-10-30 04:30:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,30,43,10,6.8
+2021-10-30 06:25:00,Lata Mangeshkar,Aye-Dil-E-Nadan,30,43,10,5.65
+2021-10-30 06:49:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,30,43,10,3.65
+2021-10-30 07:04:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,30,43,10,1.83
+2021-10-30 13:37:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,30,43,10,6.21
+2021-10-30 13:43:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,30,43,10,0.6
+2021-10-31 05:40:00,Lata Mangeshkar,Aye-Dil-E-Nadan,31,43,10,3.34
+2021-10-31 06:19:00,Lata Mangeshkar,Aye-Dil-E-Nadan,31,43,10,2.32
+2021-10-31 07:00:00,Lata Mangeshkar,Teri Bindiya Re,31,43,10,4.54
+2021-10-31 07:08:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,31,43,10,5.48
+2021-10-31 14:17:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,31,43,10,6.8
+2021-11-01 04:47:00,Lata Mangeshkar,Aye-Dil-E-Nadan,1,44,11,5.65
+2021-11-01 06:29:00,Lata Mangeshkar,Aye-Dil-E-Nadan,1,44,11,5.65
+2021-11-01 13:30:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,1,44,11,5.57
+2021-11-01 13:45:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,1,44,11,1.19
+2021-11-01 14:40:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,1,44,11,5.48
+2021-11-03 06:01:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,3,44,11,4.83
+2021-11-03 06:22:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,3,44,11,6.8
+2021-11-03 06:28:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,3,44,11,5.48
+2021-11-03 06:40:00,Lata Mangeshkar,Ae Ri Pawan,3,44,11,2.3
+2021-11-03 07:30:00,Lata Mangeshkar,Ae Ri Pawan,3,44,11,3.16
+2021-11-03 08:01:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",3,44,11,3.91
+2021-11-03 08:14:00,Lata Mangeshkar,Aye-Dil-E-Nadan,3,44,11,3.4
+2021-11-03 09:07:00,Lata Mangeshkar,Aye-Dil-E-Nadan,3,44,11,2.26
+2021-11-03 13:45:00,Lata Mangeshkar,Phool Tumhe Bheja Hai Khat Mein,3,44,11,4.77
+2021-11-03 14:35:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,3,44,11,6.13
+2021-11-04 07:04:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,4,44,11,6.95
+2021-11-04 07:10:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",4,44,11,3.92
+2021-11-04 07:20:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,4,44,11,5.48
+2021-11-06 03:52:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,6,44,11,1.86
+2021-11-06 04:31:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,6,44,11,3.62
+2021-11-06 15:36:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,6,44,11,1.92
+2021-11-07 03:07:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,7,44,11,4.9
+2021-11-07 03:13:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,7,44,11,5.48
+2021-11-07 03:29:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,7,44,11,1.67
+2021-11-07 03:32:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,7,44,11,3.15
+2021-11-07 14:54:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,7,44,11,6.8
+2021-11-07 15:12:00,Lata Mangeshkar,Aye-Dil-E-Nadan,7,44,11,5.65
+2021-11-09 09:46:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,9,45,11,0.55
+2021-11-10 06:27:00,Lata Mangeshkar,Aye-Dil-E-Nadan,10,45,11,5.65
+2021-11-10 06:44:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,10,45,11,6.8
+2021-11-10 14:08:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,10,45,11,1.96
+2021-11-11 06:25:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,11,45,11,4.85
+2021-11-11 12:50:00,Lata Mangeshkar,Aye-Dil-E-Nadan,11,45,11,5.65
+2021-11-11 14:02:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",11,45,11,3.92
+2021-11-11 14:14:00,Lata Mangeshkar,Ae Ri Pawan,11,45,11,1.71
+2021-11-11 14:24:00,Lata Mangeshkar,Ae Ri Pawan,11,45,11,3.74
+2021-11-11 14:30:00,Lata Mangeshkar,Aye-Dil-E-Nadan,11,45,11,5.65
+2021-11-12 02:05:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,12,45,11,0.72
+2021-11-12 09:08:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,12,45,11,6.8
+2021-11-15 12:46:00,Lata Mangeshkar,Beeti Na Bitai Raina,15,46,11,2.98
+2021-11-15 13:24:00,Lata Mangeshkar,Chalte Chalte Yun Hi Koi,15,46,11,1.92
+2021-11-15 13:49:00,Lata Mangeshkar,Is Mod Se Jate Hain,15,46,11,4.94
+2021-11-15 13:53:00,Lata Mangeshkar,Lag Ja Gale Se Phir,15,46,11,4.29
+2021-11-16 04:22:00,Lata Mangeshkar,Lag Ja Gale Se Phir,16,46,11,4.29
+2021-11-16 04:37:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,16,46,11,6.8
+2021-11-16 04:54:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,16,46,11,3.06
+2021-11-16 05:32:00,Lata Mangeshkar,Is Mod Se Jate Hain,16,46,11,4.94
+2021-11-16 05:36:00,Lata Mangeshkar,Lag Ja Gale Se Phir,16,46,11,3.34
+2021-11-16 06:51:00,Lata Mangeshkar,Ae Ri Pawan,16,46,11,0.79
+2021-11-16 09:23:00,Lata Mangeshkar,Ae Ri Pawan,16,46,11,4.67
+2021-11-16 09:27:00,Lata Mangeshkar,Lag Ja Gale Se Phir,16,46,11,4.29
+2021-11-16 09:59:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",16,46,11,3.92
+2021-11-16 10:04:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,16,46,11,4.83
+2021-11-16 11:32:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,16,46,11,6.8
+2021-11-16 11:57:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,16,46,11,5.48
+2021-11-16 13:12:00,Lata Mangeshkar,Ae Ri Pawan,16,46,11,5.31
+2021-11-16 13:26:00,Lata Mangeshkar,Lag Ja Gale Se Phir,16,46,11,1.66
+2021-11-16 14:02:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",16,46,11,1.28
+2021-11-16 15:03:00,Lata Mangeshkar,Lag Ja Gale Se Phir,16,46,11,2.64
+2021-11-17 03:34:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,3.92
+2021-11-17 03:39:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,17,46,11,4.83
+2021-11-17 03:59:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,17,46,11,6.8
+2021-11-17 04:26:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,17,46,11,4.45
+2021-11-17 07:23:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,2.65
+2021-11-17 07:27:00,Lata Mangeshkar,Lag Ja Gale Se Phir,17,46,11,4.29
+2021-11-17 09:59:00,Lata Mangeshkar,Aye-Dil-E-Nadan,17,46,11,2.76
+2021-11-17 10:02:00,Lata Mangeshkar,Aye-Dil-E-Nadan,17,46,11,2.88
+2021-11-17 10:18:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,17,46,11,3.05
+2021-11-17 12:00:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,17,46,11,6.8
+2021-11-17 12:04:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,3.92
+2021-11-17 12:31:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,17,46,11,4.52
+2021-11-17 12:43:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,3.92
+2021-11-17 13:01:00,Lata Mangeshkar,Ae Ri Pawan,17,46,11,5.46
+2021-11-17 13:07:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,17,46,11,5.48
+2021-11-17 13:11:00,Lata Mangeshkar,Lag Ja Gale Se Phir,17,46,11,4.29
+2021-11-17 13:50:00,Lata Mangeshkar,Lag Ja Gale Se Phir,17,46,11,4.29
+2021-11-17 13:54:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,1.14
+2021-11-17 14:23:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,2.79
+2021-11-17 14:47:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,17,46,11,4.83
+2021-11-17 14:51:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,3.92
+2021-11-17 15:28:00,Lata Mangeshkar,Aye-Dil-E-Nadan,17,46,11,5.65
+2021-11-17 15:47:00,Lata Mangeshkar,Ae Ri Pawan,17,46,11,5.46
+2021-11-17 15:57:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,17,46,11,5.48
+2021-11-17 16:03:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,17,46,11,6.8
+2021-11-17 16:07:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",17,46,11,3.92
+2021-11-17 16:29:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,17,46,11,4.83
+2021-11-17 16:34:00,Lata Mangeshkar,Lag Ja Gale Se Phir,17,46,11,4.29
+2021-11-17 17:08:00,Lata Mangeshkar,Aye-Dil-E-Nadan,17,46,11,5.65
+2021-11-18 01:24:00,Lata Mangeshkar,Aye-Dil-E-Nadan,18,46,11,5.65
+2021-11-18 01:36:00,Lata Mangeshkar,Lag Ja Gale Se Phir,18,46,11,4.29
+2021-11-18 01:41:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,18,46,11,4.83
+2021-11-18 02:16:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,18,46,11,6.37
+2021-11-18 06:43:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",18,46,11,3.92
+2021-11-18 06:48:00,Lata Mangeshkar,Ae Ri Pawan,18,46,11,5.46
+2021-11-18 07:38:00,Lata Mangeshkar,Aye-Dil-E-Nadan,18,46,11,5.65
+2021-11-18 12:15:00,Lata Mangeshkar,Lag Ja Gale Se Phir,18,46,11,4.29
+2021-11-18 12:25:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,18,46,11,4.83
+2021-11-18 13:21:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,18,46,11,5.48
+2021-11-18 13:35:00,Lata Mangeshkar,Aye-Dil-E-Nadan,18,46,11,5.65
+2021-11-18 13:45:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,18,46,11,6.08
+2021-11-18 14:46:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,18,46,11,4.83
+2021-11-18 14:51:00,Lata Mangeshkar,Ae Ri Pawan,18,46,11,5.46
+2021-11-18 14:58:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,18,46,11,6.8
+2021-11-18 15:33:00,Lata Mangeshkar,Aye-Dil-E-Nadan,18,46,11,5.65
+2021-11-18 15:41:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",18,46,11,3.92
+2021-11-18 15:53:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,18,46,11,5.48
+2021-11-18 15:58:00,Lata Mangeshkar,Lag Ja Gale Se Phir,18,46,11,4.29
+2021-11-19 01:36:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,19,46,11,6.8
+2021-11-19 01:41:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,19,46,11,5.48
+2021-11-19 03:32:00,Lata Mangeshkar,Aye-Dil-E-Nadan,19,46,11,5.09
+2021-11-19 04:35:00,Lata Mangeshkar,Lag Ja Gale Se Phir,19,46,11,4.29
+2021-11-19 04:51:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",19,46,11,3.92
+2021-11-19 05:32:00,Lata Mangeshkar,Ae Ri Pawan,19,46,11,4.13
+2021-11-19 10:49:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",19,46,11,3.92
+2021-11-19 10:53:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,19,46,11,4.03
+2021-11-20 00:16:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,46,11,3.36
+2021-11-20 00:17:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,46,11,0.57
+2021-11-20 09:59:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,20,46,11,4.83
+2021-11-20 10:04:00,Lata Mangeshkar,Ae Ri Pawan,20,46,11,5.46
+2021-11-20 10:11:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,20,46,11,6.8
+2021-11-20 10:46:00,Lata Mangeshkar,Aye-Dil-E-Nadan,20,46,11,5.65
+2021-11-20 10:54:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,46,11,3.92
+2021-11-20 11:06:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,20,46,11,5.48
+2021-11-20 11:11:00,Lata Mangeshkar,Lag Ja Gale Se Phir,20,46,11,4.29
+2021-11-20 11:43:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,20,46,11,4.83
+2021-11-20 11:49:00,Lata Mangeshkar,Ae Ri Pawan,20,46,11,5.46
+2021-11-20 11:56:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,20,46,11,6.8
+2021-11-20 12:51:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,46,11,3.92
+2021-11-20 12:56:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,20,46,11,4.83
+2021-11-20 13:01:00,Lata Mangeshkar,Ae Ri Pawan,20,46,11,5.46
+2021-11-20 13:08:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,20,46,11,6.8
+2021-11-20 13:13:00,Lata Mangeshkar,Aye-Dil-E-Nadan,20,46,11,5.65
+2021-11-20 13:19:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,20,46,11,5.48
+2021-11-20 13:23:00,Lata Mangeshkar,Lag Ja Gale Se Phir,20,46,11,4.29
+2021-11-21 01:48:00,Lata Mangeshkar,Ae Ri Pawan,21,46,11,5.46
+2021-11-21 02:01:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,21,46,11,4.83
+2021-11-21 06:24:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",21,46,11,3.92
+2021-11-21 06:29:00,Lata Mangeshkar,Lag Ja Gale Se Phir,21,46,11,4.29
+2021-11-21 12:27:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,21,46,11,1.18
+2021-11-22 10:24:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",22,47,11,3.79
+2021-11-22 12:32:00,Lata Mangeshkar,Lag Ja Gale Se Phir,22,47,11,1.33
+2021-11-22 12:35:00,Lata Mangeshkar,Lag Ja Gale Se Phir,22,47,11,2.92
+2021-11-22 12:58:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,22,47,11,5.39
+2021-11-22 13:08:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,22,47,11,6.8
+2021-11-22 13:36:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",22,47,11,3.92
+2021-11-22 13:41:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,22,47,11,5.48
+2021-11-22 14:53:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",22,47,11,3.92
+2021-11-22 15:29:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,22,47,11,5.48
+2021-11-22 15:43:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,22,47,11,6.8
+2021-11-22 16:06:00,Lata Mangeshkar,Lag Ja Gale Se Phir,22,47,11,4.29
+2021-11-22 16:08:00,Lata Mangeshkar,Ae Ri Pawan,22,47,11,2.07
+2021-11-23 06:02:00,Lata Mangeshkar,Lag Ja Gale Se Phir,23,47,11,4.04
+2021-11-23 06:18:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,23,47,11,6.8
+2021-11-23 07:26:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,23,47,11,5.48
+2021-11-23 07:30:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,23,47,11,4.83
+2021-11-23 07:38:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",23,47,11,3.92
+2021-11-23 07:49:00,Lata Mangeshkar,Aye-Dil-E-Nadan,23,47,11,5.65
+2021-11-23 08:34:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,23,47,11,4.83
+2021-11-23 08:55:00,Lata Mangeshkar,Ae Ri Pawan,23,47,11,5.46
+2021-11-23 09:54:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,23,47,11,2.62
+2021-11-23 12:23:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,23,47,11,0.83
+2021-11-23 15:00:00,Lata Mangeshkar,Aye-Dil-E-Nadan,23,47,11,5.65
+2021-11-24 06:39:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,24,47,11,5.48
+2021-11-24 06:44:00,Lata Mangeshkar,Lag Ja Gale Se Phir,24,47,11,4.29
+2021-11-24 07:08:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,24,47,11,4.2
+2021-11-24 07:30:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,24,47,11,6.8
+2021-11-24 07:38:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",24,47,11,3.92
+2021-11-24 13:42:00,Lata Mangeshkar,Lag Ja Gale Se Phir,24,47,11,4.29
+2021-11-24 14:40:00,Lata Mangeshkar,Ae Ri Pawan,24,47,11,5.46
+2021-11-24 14:45:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,24,47,11,4.83
+2021-11-24 14:50:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",24,47,11,1.78
+2021-11-24 14:52:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",24,47,11,2.1
+2021-11-24 15:17:00,Lata Mangeshkar,Ae Ri Pawan,24,47,11,5.46
+2021-11-24 15:35:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,24,47,11,4.83
+2021-11-24 15:48:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,24,47,11,5.48
+2021-11-24 15:55:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,24,47,11,6.8
+2021-11-25 12:00:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",25,47,11,1.5
+2021-11-25 13:54:00,Lata Mangeshkar,Aye-Dil-E-Nadan,25,47,11,5.65
+2021-11-25 13:58:00,Lata Mangeshkar,Lag Ja Gale Se Phir,25,47,11,4.29
+2021-11-25 15:17:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,25,47,11,0.66
+2021-11-26 02:54:00,Lata Mangeshkar,Aye-Dil-E-Nadan,26,47,11,5.65
+2021-11-26 02:58:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",26,47,11,3.92
+2021-11-26 09:32:00,Lata Mangeshkar,Lag Ja Gale Se Phir,26,47,11,4.29
+2021-11-26 09:59:00,Lata Mangeshkar,Aye-Dil-E-Nadan,26,47,11,5.65
+2021-11-26 10:03:00,Lata Mangeshkar,Ae Ri Pawan,26,47,11,3.58
+2021-11-27 13:42:00,Lata Mangeshkar,Ae Ri Pawan,27,47,11,1.48
+2021-11-27 14:05:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",27,47,11,0.83
+2021-11-29 04:58:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,29,48,11,6.8
+2021-11-29 05:51:00,Lata Mangeshkar,Lag Ja Gale Se Phir,29,48,11,4.29
+2021-11-29 06:00:00,Lata Mangeshkar,Ae Ri Pawan,29,48,11,5.46
+2021-11-29 06:17:00,Lata Mangeshkar,Aye-Dil-E-Nadan,29,48,11,5.65
+2021-11-29 06:20:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",29,48,11,3.92
+2021-11-29 06:31:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,29,48,11,4.83
+2021-11-29 12:34:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",29,48,11,3.92
+2021-11-30 10:31:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",30,48,11,3.92
+2021-11-30 10:53:00,Lata Mangeshkar,Aye-Dil-E-Nadan,30,48,11,5.65
+2021-11-30 11:00:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,30,48,11,6.8
+2021-11-30 12:09:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",30,48,11,3.92
+2021-11-30 12:27:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,30,48,11,0.6
+2021-11-30 12:45:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,30,48,11,4.83
+2021-11-30 13:20:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,30,48,11,6.8
+2021-11-30 13:48:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",30,48,11,3.92
+2021-11-30 13:55:00,Lata Mangeshkar,Lag Ja Gale Se Phir,30,48,11,4.29
+2021-11-30 14:41:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,30,48,11,2.49
+2021-12-01 13:10:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,1,48,12,4.83
+2021-12-02 15:00:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",2,48,12,3.92
+2021-12-02 15:10:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,2,48,12,6.8
+2021-12-02 15:24:00,Lata Mangeshkar,Aye-Dil-E-Nadan,2,48,12,5.65
+2021-12-02 15:29:00,Lata Mangeshkar,Lag Ja Gale Se Phir,2,48,12,4.29
+2021-12-05 15:20:00,Lata Mangeshkar,Ye Dil Tum Bin Lagta Nahin,5,48,12,5.86
+2021-12-05 15:22:00,Lata Mangeshkar,Woh Jab Yaad Aaye,5,48,12,1.19
+2021-12-05 15:25:00,Lata Mangeshkar,Woh Jab Yaad Aaye,5,48,12,3.52
+2021-12-05 15:29:00,Lata Mangeshkar,Tune O Rangeele,5,48,12,3.54
+2021-12-06 15:40:00,Lata Mangeshkar,Woh Chand Khila Woh Tare Hanse,6,49,12,4.41
+2021-12-06 15:53:00,Lata Mangeshkar,Phool Tumhe Bheja Hai Khat Mein,6,49,12,4.77
+2021-12-07 03:33:00,Lata Mangeshkar,Lag Ja Gale Se Phir,7,49,12,4.29
+2021-12-07 04:04:00,Lata Mangeshkar,Ae Ri Pawan,7,49,12,5.46
+2021-12-07 04:11:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,7,49,12,6.8
+2021-12-07 04:16:00,Lata Mangeshkar,Baharon Mera Jeevan Bhi Sanwaro,7,49,12,4.83
+2021-12-07 04:25:00,Lata Mangeshkar,Aye-Dil-E-Nadan,7,49,12,5.65
+2021-12-07 04:34:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",7,49,12,3.92
+2021-12-07 04:56:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,7,49,12,0.71
+2021-12-09 15:35:00,Lata Mangeshkar,Ae Ri Pawan,9,49,12,3.2
+2021-12-19 06:50:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,19,50,12,3.26
+2021-12-19 07:00:00,Lata Mangeshkar,Bhor Bhaye Panghat Pe,19,50,12,2.22
+2021-12-20 11:40:00,Lata Mangeshkar,Rim Jhim Ke Geet,20,51,12,4.7
+2021-12-20 11:46:00,Lata Mangeshkar,Ae Ri Pawan,20,51,12,5.46
+2021-12-20 12:05:00,Lata Mangeshkar,Hum The Jinke Sahare,20,51,12,1.69
+2021-12-20 12:11:00,Lata Mangeshkar,Hum The Jinke Sahare,20,51,12,2.32
+2021-12-20 12:21:00,Lata Mangeshkar,Naam Goom Jayega,20,51,12,5.59
+2021-12-20 12:32:00,Lata Mangeshkar,Sawan Ka Mahina,20,51,12,0.99
+2021-12-20 13:27:00,Lata Mangeshkar,Dhire Dhire Machal,20,51,12,3.59
+2021-12-20 13:31:00,Lata Mangeshkar,Pardesiyon Se Na Ankhiyan Milana,20,51,12,3.3
+2021-12-20 13:44:00,Lata Mangeshkar,Dekha Ek Khwab,20,51,12,2.41
+2021-12-20 13:59:00,Lata Mangeshkar,Dekha Ek Khwab,20,51,12,2.94
+2021-12-20 14:13:00,Lata Mangeshkar,Ye Dil Tum Bin Lagta Nahin,20,51,12,5.86
+2021-12-20 14:32:00,Lata Mangeshkar,Piya Tose Naina Laage Re,20,51,12,8.41
+2021-12-20 14:35:00,Lata Mangeshkar,Loote Koi Man Ka Nagar,20,51,12,3.57
+2021-12-20 14:40:00,Lata Mangeshkar,Woh Jab Yaad Aaye,20,51,12,4.72
+2021-12-20 14:46:00,Lata Mangeshkar,Solah Baras Ki Bali Umar,20,51,12,6.23
+2021-12-20 14:52:00,Lata Mangeshkar,Sawan Ka Mahina,20,51,12,5.48
+2021-12-20 14:56:00,Lata Mangeshkar,"Dil Hoom Hoom Kare (From ""Rudaali"") - Female Version",20,51,12,3.92
+2021-12-20 15:00:00,Lata Mangeshkar,Zara Si Aahat Hoti Hai,20,51,12,3.86
+2021-12-20 15:09:00,Lata Mangeshkar,Nainon Mein Badra Chhaye,20,51,12,3.56
+2021-12-20 15:13:00,Lata Mangeshkar,Lag Ja Gale Se Phir,20,51,12,4.29
+2021-12-20 15:17:00,Lata Mangeshkar,Aaj Phir Jeene Ki Tamanna Hai,20,51,12,3.97
+2021-12-20 15:22:00,Lata Mangeshkar,Rim Jhim Ke Geet,20,51,12,4.7
+2021-12-20 15:25:00,Lata Mangeshkar,Tera Jana,20,51,12,3.69
+2021-12-20 15:29:00,Lata Mangeshkar,Chandan Sa Badan Chanchal Chitwan,20,51,12,3.38
+2021-12-20 15:32:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,20,51,12,3.56
+2021-12-21 03:19:00,Lata Mangeshkar,Mere Naina Sawan Bhadon- Lata Mangeshkar,21,51,12,3.24
+2021-12-21 03:23:00,Lata Mangeshkar,Unse Mili Nazar Ke Mere Hosh Ud Gai,21,51,12,4.09
+2021-12-21 03:26:00,Lata Mangeshkar,Ruk Ja Raat,21,51,12,3.72

@@ -1,0 +1,583 @@
+endTime,artistName,trackName,Day,Week,Month,Minutes Played
+2021-01-21 16:08:00,Lady Gaga,Bad Romance,21,3,1,2.27
+2021-02-08 13:56:00,Lady Gaga,Always Remember Us This Way,8,6,2,0.81
+2021-02-23 14:29:00,Lady Gaga,Shallow,23,8,2,2.56
+2021-03-15 02:05:00,Lady Gaga,Rain On Me (with Ariana Grande),15,11,3,1.72
+2021-07-08 16:05:00,Lady Gaga,Shallow - Radio Edit,8,27,7,3.62
+2021-07-08 16:08:00,Lady Gaga,Rain On Me (with Ariana Grande),8,27,7,3.04
+2021-07-08 16:12:00,Lady Gaga,Always Remember Us This Way,8,27,7,3.5
+2021-07-08 16:16:00,Lady Gaga,Poker Face,8,27,7,3.95
+2021-07-13 07:17:00,Lady Gaga,Shallow - Radio Edit,13,28,7,3.62
+2021-07-13 13:01:00,Lady Gaga,Always Remember Us This Way,13,28,7,3.5
+2021-07-13 13:04:00,Lady Gaga,Shallow - Radio Edit,13,28,7,3.62
+2021-07-13 17:00:00,Lady Gaga,Shallow - Radio Edit,13,28,7,3.62
+2021-07-14 02:47:00,Lady Gaga,Shallow - Radio Edit,14,28,7,3.62
+2021-07-14 13:47:00,Lady Gaga,Shallow - Radio Edit,14,28,7,3.62
+2021-07-14 14:21:00,Lady Gaga,Shallow - Radio Edit,14,28,7,3.62
+2021-07-14 14:25:00,Lady Gaga,Shallow - Radio Edit,14,28,7,3.62
+2021-07-14 16:42:00,Lady Gaga,Shallow - Radio Edit,14,28,7,3.62
+2021-07-14 16:58:00,Lady Gaga,Shallow - Radio Edit,14,28,7,3.62
+2021-07-15 02:31:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 03:46:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 04:46:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 07:40:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 13:27:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 13:31:00,Lady Gaga,Always Remember Us This Way,15,28,7,3.5
+2021-07-15 13:34:00,Lady Gaga,Rain On Me (with Ariana Grande),15,28,7,3.04
+2021-07-15 13:38:00,Lady Gaga,Shallow,15,28,7,3.6
+2021-07-15 13:42:00,Lady Gaga,Poker Face,15,28,7,3.95
+2021-07-15 13:45:00,Lady Gaga,Always Remember Us This Way,15,28,7,3.5
+2021-07-15 13:55:00,Lady Gaga,Shallow - Radio Edit,15,28,7,0.74
+2021-07-15 13:58:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.27
+2021-07-15 14:07:00,Lady Gaga,Always Remember Us This Way,15,28,7,3.5
+2021-07-15 14:14:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 14:25:00,Lady Gaga,Always Remember Us This Way,15,28,7,3.5
+2021-07-15 15:18:00,Lady Gaga,Always Remember Us This Way,15,28,7,3.5
+2021-07-15 15:27:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-15 15:40:00,Lady Gaga,Shallow - Radio Edit,15,28,7,3.62
+2021-07-16 02:39:00,Lady Gaga,Always Remember Us This Way,16,28,7,3.5
+2021-07-16 02:50:00,Lady Gaga,Shallow - Radio Edit,16,28,7,3.62
+2021-07-16 03:56:00,Lady Gaga,Always Remember Us This Way,16,28,7,3.5
+2021-07-16 04:20:00,Lady Gaga,Shallow - Radio Edit,16,28,7,3.62
+2021-07-16 04:43:00,Lady Gaga,Always Remember Us This Way,16,28,7,2.75
+2021-07-16 05:16:00,Lady Gaga,Always Remember Us This Way,16,28,7,2.63
+2021-07-16 13:21:00,Lady Gaga,Shallow - Radio Edit,16,28,7,3.62
+2021-07-16 13:29:00,Lady Gaga,Always Remember Us This Way,16,28,7,3.5
+2021-07-16 13:36:00,Lady Gaga,Shallow - Radio Edit,16,28,7,3.62
+2021-07-16 13:44:00,Lady Gaga,Always Remember Us This Way,16,28,7,6.24
+2021-07-16 13:47:00,Lady Gaga,Rain On Me (with Ariana Grande),16,28,7,3.04
+2021-07-16 13:56:00,Lady Gaga,Shallow - Radio Edit,16,28,7,3.62
+2021-07-16 14:05:00,Lady Gaga,Always Remember Us This Way,16,28,7,3.5
+2021-07-16 14:19:00,Lady Gaga,Shallow - Radio Edit,16,28,7,0.67
+2021-07-16 14:37:00,Lady Gaga,Shallow - Radio Edit,16,28,7,2.96
+2021-07-16 14:55:00,Lady Gaga,Always Remember Us This Way,16,28,7,3.5
+2021-07-16 15:13:00,Lady Gaga,Shallow - Radio Edit,16,28,7,0.6
+2021-07-17 02:53:00,Lady Gaga,Always Remember Us This Way,17,28,7,3.5
+2021-07-17 03:00:00,Lady Gaga,Shallow - Radio Edit,17,28,7,3.62
+2021-07-17 03:18:00,Lady Gaga,Always Remember Us This Way,17,28,7,3.01
+2021-07-17 07:10:00,Lady Gaga,Always Remember Us This Way,17,28,7,3.5
+2021-07-17 07:17:00,Lady Gaga,Shallow - Radio Edit,17,28,7,3.62
+2021-07-17 07:25:00,Lady Gaga,Always Remember Us This Way,17,28,7,3.04
+2021-07-17 08:21:00,Lady Gaga,Shallow - Radio Edit,17,28,7,3.07
+2021-07-17 10:47:00,Lady Gaga,Shallow - Radio Edit,17,28,7,3.62
+2021-07-17 15:15:00,Lady Gaga,Always Remember Us This Way,17,28,7,3.5
+2021-07-17 15:19:00,Lady Gaga,Shallow - Radio Edit,17,28,7,3.62
+2021-07-17 15:32:00,Lady Gaga,Always Remember Us This Way,17,28,7,3.5
+2021-07-18 07:26:00,Lady Gaga,Always Remember Us This Way,18,28,7,3.07
+2021-07-18 07:34:00,Lady Gaga,Shallow - Radio Edit,18,28,7,3.62
+2021-07-18 13:26:00,Lady Gaga,Shallow - Radio Edit,18,28,7,3.62
+2021-07-18 13:29:00,Lady Gaga,Rain On Me (with Ariana Grande),18,28,7,3.04
+2021-07-18 13:34:00,Lady Gaga,Bad Romance,18,28,7,4.91
+2021-07-18 13:37:00,Lady Gaga,Shallow,18,28,7,3.6
+2021-07-18 13:42:00,Lady Gaga,I'll Never Love Again - Film Version - Radio Edit,18,28,7,4.69
+2021-07-18 13:45:00,Lady Gaga,Music To My Eyes,18,28,7,3.32
+2021-07-18 14:04:00,Lady Gaga,Shallow - Radio Edit,18,28,7,3.62
+2021-07-19 02:37:00,Lady Gaga,Shallow - Radio Edit,19,29,7,3.62
+2021-07-19 02:46:00,Lady Gaga,Always Remember Us This Way,19,29,7,3.5
+2021-07-19 02:53:00,Lady Gaga,Shallow - Radio Edit,19,29,7,3.62
+2021-07-19 16:44:00,Lady Gaga,Always Remember Us This Way,19,29,7,3.5
+2021-07-19 16:51:00,Lady Gaga,Shallow - Radio Edit,19,29,7,3.62
+2021-07-20 03:14:00,Lady Gaga,Always Remember Us This Way,20,29,7,3.5
+2021-07-20 03:23:00,Lady Gaga,Shallow - Radio Edit,20,29,7,3.62
+2021-07-20 07:54:00,Lady Gaga,Shallow - Radio Edit,20,29,7,3.62
+2021-07-20 08:57:00,Lady Gaga,Always Remember Us This Way,20,29,7,1.99
+2021-07-20 09:50:00,Lady Gaga,Shallow - Radio Edit,20,29,7,3.62
+2021-07-20 13:41:00,Lady Gaga,Shallow - Radio Edit,20,29,7,1.48
+2021-07-20 14:38:00,Lady Gaga,Shallow - Radio Edit,20,29,7,1.12
+2021-07-21 03:09:00,Lady Gaga,Shallow - Radio Edit,21,29,7,3.62
+2021-07-21 03:13:00,Lady Gaga,Always Remember Us This Way,21,29,7,3.5
+2021-07-21 04:20:00,Lady Gaga,Always Remember Us This Way,21,29,7,1.91
+2021-07-21 08:24:00,Lady Gaga,Always Remember Us This Way,21,29,7,3.55
+2021-07-21 08:28:00,Lady Gaga,Shallow - Radio Edit,21,29,7,3.62
+2021-07-21 08:39:00,Lady Gaga,Always Remember Us This Way,21,29,7,3.5
+2021-07-21 08:43:00,Lady Gaga,Shallow - Radio Edit,21,29,7,3.62
+2021-07-21 08:52:00,Lady Gaga,Always Remember Us This Way,21,29,7,1.05
+2021-07-22 02:12:00,Lady Gaga,Shallow - Radio Edit,22,29,7,3.62
+2021-07-22 04:01:00,Lady Gaga,Always Remember Us This Way,22,29,7,3.5
+2021-07-22 04:10:00,Lady Gaga,Shallow - Radio Edit,22,29,7,3.62
+2021-07-22 04:17:00,Lady Gaga,Always Remember Us This Way,22,29,7,3.5
+2021-07-22 11:16:00,Lady Gaga,Shallow - Radio Edit,22,29,7,3.62
+2021-07-22 12:39:00,Lady Gaga,Always Remember Us This Way,22,29,7,2.52
+2021-07-22 16:44:00,Lady Gaga,Rain On Me (with Ariana Grande),22,29,7,0.95
+2021-07-22 16:57:00,Lady Gaga,Rain On Me (with Ariana Grande),22,29,7,1.52
+2021-07-22 17:19:00,Lady Gaga,Rain On Me (with Ariana Grande),22,29,7,1.54
+2021-07-23 10:12:00,Lady Gaga,Shallow,23,29,7,3.6
+2021-07-23 10:21:00,Lady Gaga,Rain On Me (with Ariana Grande),23,29,7,3.04
+2021-07-23 10:32:00,Lady Gaga,Always Remember Us This Way,23,29,7,3.5
+2021-07-23 10:39:00,Lady Gaga,Shallow - Radio Edit,23,29,7,3.46
+2021-07-24 02:58:00,Lady Gaga,Shallow - Radio Edit,24,29,7,3.62
+2021-07-24 03:12:00,Lady Gaga,Always Remember Us This Way,24,29,7,3.5
+2021-07-24 03:15:00,Lady Gaga,Rain On Me (with Ariana Grande),24,29,7,3.04
+2021-07-24 03:27:00,Lady Gaga,Shallow - Radio Edit,24,29,7,3.62
+2021-07-24 03:30:00,Lady Gaga,Always Remember Us This Way,24,29,7,3.5
+2021-07-24 03:33:00,Lady Gaga,Rain On Me (with Ariana Grande),24,29,7,3.04
+2021-07-24 03:49:00,Lady Gaga,Shallow - Radio Edit,24,29,7,3.62
+2021-07-24 04:03:00,Lady Gaga,Always Remember Us This Way,24,29,7,1.44
+2021-07-24 07:36:00,Lady Gaga,Shallow - Radio Edit,24,29,7,3.62
+2021-07-24 07:40:00,Lady Gaga,Always Remember Us This Way,24,29,7,3.5
+2021-07-24 07:43:00,Lady Gaga,Rain On Me (with Ariana Grande),24,29,7,3.04
+2021-07-25 02:44:00,Lady Gaga,Always Remember Us This Way,25,29,7,1.67
+2021-07-26 06:24:00,Lady Gaga,Rain On Me (with Ariana Grande),26,30,7,3.04
+2021-07-26 06:37:00,Lady Gaga,Shallow - Radio Edit,26,30,7,3.62
+2021-07-26 06:44:00,Lady Gaga,Always Remember Us This Way,26,30,7,3.5
+2021-07-26 06:49:00,Lady Gaga,Rain On Me (with Ariana Grande),26,30,7,3.04
+2021-07-26 14:06:00,Lady Gaga,Always Remember Us This Way,26,30,7,3.5
+2021-07-26 14:21:00,Lady Gaga,Shallow - Radio Edit,26,30,7,0.56
+2021-07-27 02:53:00,Lady Gaga,Always Remember Us This Way,27,30,7,3.5
+2021-07-27 02:56:00,Lady Gaga,Rain On Me (with Ariana Grande),27,30,7,3.04
+2021-07-27 03:07:00,Lady Gaga,Shallow - Radio Edit,27,30,7,3.62
+2021-07-27 09:16:00,Lady Gaga,Shallow - Radio Edit,27,30,7,3.62
+2021-07-27 09:29:00,Lady Gaga,Always Remember Us This Way,27,30,7,1.77
+2021-07-27 09:41:00,Lady Gaga,Always Remember Us This Way,27,30,7,1.74
+2021-07-27 12:24:00,Lady Gaga,Shallow - Radio Edit,27,30,7,3.62
+2021-07-28 04:11:00,Lady Gaga,Shallow - Radio Edit,28,30,7,0.95
+2021-07-28 16:19:00,Lady Gaga,Rain On Me (with Ariana Grande),28,30,7,3.04
+2021-07-28 16:34:00,Lady Gaga,Shallow - Radio Edit,28,30,7,3.62
+2021-07-29 09:10:00,Lady Gaga,Always Remember Us This Way,29,30,7,3.5
+2021-07-30 02:14:00,Lady Gaga,Shallow - Radio Edit,30,30,7,3.62
+2021-07-30 02:24:00,Lady Gaga,Always Remember Us This Way,30,30,7,3.5
+2021-07-30 04:09:00,Lady Gaga,Shallow - Radio Edit,30,30,7,3.62
+2021-07-30 04:19:00,Lady Gaga,Always Remember Us This Way,30,30,7,3.5
+2021-07-30 04:51:00,Lady Gaga,Rain On Me (with Ariana Grande),30,30,7,3.04
+2021-07-30 04:56:00,Lady Gaga,Shallow - Radio Edit,30,30,7,3.62
+2021-07-30 05:00:00,Lady Gaga,Always Remember Us This Way,30,30,7,3.5
+2021-07-30 13:03:00,Lady Gaga,Rain On Me (with Ariana Grande),30,30,7,3.04
+2021-07-31 00:23:00,Lady Gaga,Shallow - Radio Edit,31,30,7,3.62
+2021-07-31 00:31:00,Lady Gaga,Rain On Me (with Ariana Grande),31,30,7,3.04
+2021-07-31 00:39:00,Lady Gaga,Always Remember Us This Way,31,30,7,3.5
+2021-07-31 15:27:00,Lady Gaga,Shallow - Radio Edit,31,30,7,3.62
+2021-07-31 15:33:00,Lady Gaga,Always Remember Us This Way,31,30,7,3.47
+2021-08-02 11:31:00,Lady Gaga,Shallow - Radio Edit,2,31,8,3.62
+2021-08-02 11:38:00,Lady Gaga,Always Remember Us This Way,2,31,8,3.5
+2021-08-02 11:49:00,Lady Gaga,Shallow - Radio Edit,2,31,8,3.62
+2021-08-02 12:02:00,Lady Gaga,Shallow - Radio Edit,2,31,8,3.62
+2021-08-02 15:08:00,Lady Gaga,Shallow - Radio Edit,2,31,8,5.95
+2021-08-02 15:14:00,Lady Gaga,Always Remember Us This Way,2,31,8,3.05
+2021-08-03 13:50:00,Lady Gaga,Shallow - Radio Edit,3,31,8,1.34
+2021-08-03 14:26:00,Lady Gaga,Shallow - Radio Edit,3,31,8,2.29
+2021-08-03 14:42:00,Lady Gaga,Always Remember Us This Way,3,31,8,2.37
+2021-08-04 05:54:00,Lady Gaga,Always Remember Us This Way,4,31,8,3.5
+2021-08-04 06:24:00,Lady Gaga,Shallow - Radio Edit,4,31,8,3.62
+2021-08-06 02:03:00,Lady Gaga,Always Remember Us This Way,6,31,8,1.6
+2021-08-06 02:37:00,Lady Gaga,Always Remember Us This Way,6,31,8,4.32
+2021-08-06 02:49:00,Lady Gaga,Always Remember Us This Way,6,31,8,0.88
+2021-08-06 03:01:00,Lady Gaga,Shallow,6,31,8,2.41
+2021-08-06 03:12:00,Lady Gaga,Shallow,6,31,8,3.6
+2021-08-06 03:15:00,Lady Gaga,Rain On Me (with Ariana Grande),6,31,8,3.04
+2021-08-06 03:19:00,Lady Gaga,Shallow,6,31,8,3.6
+2021-08-06 03:29:00,Lady Gaga,Always Remember Us This Way,6,31,8,9.54
+2021-08-06 03:32:00,Lady Gaga,Shallow,6,31,8,3.6
+2021-08-06 03:36:00,Lady Gaga,Shallow - Radio Edit,6,31,8,3.62
+2021-08-06 03:39:00,Lady Gaga,Always Remember Us This Way,6,31,8,3.5
+2021-08-06 04:00:00,Lady Gaga,Shallow,6,31,8,3.48
+2021-08-06 08:35:00,Lady Gaga,Always Remember Us This Way,6,31,8,3.5
+2021-08-06 08:48:00,Lady Gaga,Shallow - Radio Edit,6,31,8,3.62
+2021-08-06 09:27:00,Lady Gaga,Always Remember Us This Way,6,31,8,3.44
+2021-08-07 01:35:00,Lady Gaga,Always Remember Us This Way,7,31,8,3.5
+2021-08-09 09:28:00,Lady Gaga,Shallow - Radio Edit,9,32,8,3.62
+2021-08-10 02:31:00,Lady Gaga,Always Remember Us This Way,10,32,8,3.5
+2021-08-10 07:33:00,Lady Gaga,Always Remember Us This Way,10,32,8,3.5
+2021-08-10 07:36:00,Lady Gaga,Rain On Me (with Ariana Grande),10,32,8,3.04
+2021-08-10 07:43:00,Lady Gaga,Shallow - Radio Edit,10,32,8,3.62
+2021-08-10 15:01:00,Lady Gaga,Always Remember Us This Way,10,32,8,3.5
+2021-08-11 04:43:00,Lady Gaga,Shallow - Radio Edit,11,32,8,3.62
+2021-08-11 14:17:00,Lady Gaga,Always Remember Us This Way,11,32,8,3.5
+2021-08-14 01:56:00,Lady Gaga,Always Remember Us This Way,14,32,8,3.5
+2021-08-14 12:51:00,Lady Gaga,Rain On Me (with Ariana Grande),14,32,8,2.47
+2021-08-14 13:04:00,Lady Gaga,Shallow - Radio Edit,14,32,8,3.62
+2021-08-14 13:10:00,Lady Gaga,Always Remember Us This Way,14,32,8,3.5
+2021-08-14 14:55:00,Lady Gaga,Shallow - Radio Edit,14,32,8,3.62
+2021-08-15 00:33:00,Lady Gaga,Shallow - Radio Edit,15,32,8,3.62
+2021-08-15 00:44:00,Lady Gaga,Always Remember Us This Way,15,32,8,3.5
+2021-08-15 00:53:00,Lady Gaga,Rain On Me (with Ariana Grande),15,32,8,3.04
+2021-08-15 01:04:00,Lady Gaga,Shallow - Radio Edit,15,32,8,3.62
+2021-08-15 01:10:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,15,32,8,5.47
+2021-08-16 02:43:00,Lady Gaga,Shallow - Radio Edit,16,33,8,3.62
+2021-08-16 03:02:00,Lady Gaga,Always Remember Us This Way,16,33,8,0.95
+2021-08-20 14:42:00,Lady Gaga,Shallow - Radio Edit,20,33,8,3.62
+2021-08-21 11:36:00,Lady Gaga,Shallow - Radio Edit,21,33,8,3.62
+2021-08-21 11:43:00,Lady Gaga,Always Remember Us This Way,21,33,8,6.9
+2021-08-22 00:24:00,Lady Gaga,Shallow - Radio Edit,22,33,8,3.62
+2021-08-22 14:46:00,Lady Gaga,Shallow - Radio Edit,22,33,8,3.62
+2021-08-22 14:49:00,Lady Gaga,Always Remember Us This Way,22,33,8,3.5
+2021-08-22 14:59:00,Lady Gaga,Rain On Me (with Ariana Grande),22,33,8,2.14
+2021-08-22 15:03:00,Lady Gaga,Shallow - Radio Edit,22,33,8,3.62
+2021-08-22 15:06:00,Lady Gaga,Always Remember Us This Way,22,33,8,3.5
+2021-08-24 11:55:00,Lady Gaga,Shallow - Radio Edit,24,34,8,3.62
+2021-08-25 13:42:00,Lady Gaga,Shallow - Radio Edit,25,34,8,3.62
+2021-08-25 13:48:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,25,34,8,5.47
+2021-08-25 13:52:00,Lady Gaga,I'll Never Love Again - Film Version - Radio Edit,25,34,8,4.69
+2021-08-25 14:01:00,Lady Gaga,Always Remember Us This Way,25,34,8,3.5
+2021-08-25 14:43:00,Lady Gaga,Rain On Me (with Ariana Grande),25,34,8,2.99
+2021-08-25 14:50:00,Lady Gaga,Shallow - Radio Edit,25,34,8,3.62
+2021-08-26 01:01:00,Lady Gaga,Always Remember Us This Way,26,34,8,3.5
+2021-08-27 01:00:00,Lady Gaga,Rain On Me (with Ariana Grande),27,34,8,3.04
+2021-08-27 11:37:00,Lady Gaga,Shallow - Radio Edit,27,34,8,3.62
+2021-08-27 11:49:00,Lady Gaga,Always Remember Us This Way,27,34,8,3.5
+2021-08-27 14:11:00,Lady Gaga,Shallow - Radio Edit,27,34,8,4.08
+2021-08-27 14:24:00,Lady Gaga,Always Remember Us This Way,27,34,8,2.84
+2021-08-27 14:48:00,Lady Gaga,Shallow - Radio Edit,27,34,8,4.16
+2021-08-27 15:07:00,Lady Gaga,Shallow - Radio Edit,27,34,8,3.62
+2021-08-28 10:26:00,Lady Gaga,Always Remember Us This Way,28,34,8,3.5
+2021-08-28 13:52:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,28,34,8,5.33
+2021-08-28 13:56:00,Lady Gaga,Shallow - Radio Edit,28,34,8,3.62
+2021-08-28 13:59:00,Lady Gaga,Always Remember Us This Way,28,34,8,2.92
+2021-08-28 14:04:00,Lady Gaga,Bad Romance,28,34,8,4.5
+2021-08-28 17:05:00,Lady Gaga,Shallow - Radio Edit,28,34,8,3.62
+2021-08-29 01:54:00,Lady Gaga,Shallow - Radio Edit,29,34,8,3.62
+2021-08-29 02:02:00,Lady Gaga,Always Remember Us This Way,29,34,8,3.5
+2021-08-29 02:05:00,Lady Gaga,Rain On Me (with Ariana Grande),29,34,8,3.04
+2021-08-29 10:31:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,29,34,8,5.38
+2021-08-29 13:58:00,Lady Gaga,Shallow - Radio Edit,29,34,8,3.62
+2021-08-30 01:08:00,Lady Gaga,Always Remember Us This Way,30,35,8,3.5
+2021-08-30 03:04:00,Lady Gaga,Shallow - Radio Edit,30,35,8,3.62
+2021-08-30 13:05:00,Lady Gaga,Shallow - Radio Edit,30,35,8,3.62
+2021-08-30 14:20:00,Lady Gaga,Always Remember Us This Way,30,35,8,3.41
+2021-08-31 09:44:00,Lady Gaga,Rain On Me (with Ariana Grande),31,35,8,3.04
+2021-08-31 14:44:00,Lady Gaga,Shallow - Radio Edit,31,35,8,3.39
+2021-08-31 15:18:00,Lady Gaga,Always Remember Us This Way,31,35,8,3.5
+2021-09-01 02:19:00,Lady Gaga,Rain On Me (with Ariana Grande),1,35,9,3.04
+2021-09-01 08:38:00,Lady Gaga,Shallow - Radio Edit,1,35,9,3.62
+2021-09-01 09:05:00,Lady Gaga,Always Remember Us This Way,1,35,9,3.5
+2021-09-01 12:42:00,Lady Gaga,Always Remember Us This Way,1,35,9,3.5
+2021-09-02 06:18:00,Lady Gaga,Shallow - Radio Edit,2,35,9,3.62
+2021-09-02 11:52:00,Lady Gaga,Always Remember Us This Way,2,35,9,3.5
+2021-09-02 11:55:00,Lady Gaga,Shallow - Radio Edit,2,35,9,3.62
+2021-09-02 11:58:00,Lady Gaga,Rain On Me (with Ariana Grande),2,35,9,3.04
+2021-09-02 15:19:00,Lady Gaga,Shallow - Radio Edit,2,35,9,3.62
+2021-09-05 07:22:00,Lady Gaga,Shallow - Radio Edit,5,35,9,3.62
+2021-09-05 07:36:00,Lady Gaga,Always Remember Us This Way,5,35,9,2.58
+2021-09-05 12:51:00,Lady Gaga,Shallow - Radio Edit,5,35,9,3.62
+2021-09-05 13:00:00,Lady Gaga,Always Remember Us This Way,5,35,9,3.5
+2021-09-05 13:17:00,Lady Gaga,Shallow - Radio Edit,5,35,9,3.62
+2021-09-05 13:25:00,Lady Gaga,Always Remember Us This Way,5,35,9,3.5
+2021-09-05 13:42:00,Lady Gaga,Shallow - Radio Edit,5,35,9,3.62
+2021-09-05 13:50:00,Lady Gaga,Always Remember Us This Way,5,35,9,3.5
+2021-09-05 14:24:00,Lady Gaga,Shallow - Radio Edit,5,35,9,0.92
+2021-09-06 01:57:00,Lady Gaga,Shallow - Radio Edit,6,36,9,3.62
+2021-09-06 02:00:00,Lady Gaga,Always Remember Us This Way,6,36,9,3.5
+2021-09-06 05:35:00,Lady Gaga,Shallow - Radio Edit,6,36,9,3.62
+2021-09-07 02:08:00,Lady Gaga,Always Remember Us This Way,7,36,9,3.5
+2021-09-07 02:11:00,Lady Gaga,Shallow - Radio Edit,7,36,9,3.62
+2021-09-07 06:43:00,Lady Gaga,Always Remember Us This Way,7,36,9,3.5
+2021-09-07 06:53:00,Lady Gaga,Shallow - Radio Edit,7,36,9,3.62
+2021-09-07 12:21:00,Lady Gaga,Shallow - Radio Edit,7,36,9,3.62
+2021-09-07 14:09:00,Lady Gaga,I'll Never Love Again - Extended Version,7,36,9,5.48
+2021-09-07 14:13:00,Lady Gaga,Shallow - Radio Edit,7,36,9,3.62
+2021-09-07 15:18:00,Lady Gaga,Always Remember Us This Way,7,36,9,3.5
+2021-09-08 02:04:00,Lady Gaga,I'll Never Love Again - Extended Version,8,36,9,5.48
+2021-09-08 02:07:00,Lady Gaga,Shallow - Radio Edit,8,36,9,3.62
+2021-09-09 01:53:00,Lady Gaga,I'll Never Love Again - Extended Version,9,36,9,5.48
+2021-09-09 02:11:00,Lady Gaga,Always Remember Us This Way,9,36,9,3.5
+2021-09-09 02:14:00,Lady Gaga,Shallow - Radio Edit,9,36,9,3.62
+2021-09-09 12:28:00,Lady Gaga,I'll Never Love Again - Extended Version,9,36,9,5.48
+2021-09-09 12:34:00,Lady Gaga,Shallow - Radio Edit,9,36,9,3.62
+2021-09-09 12:43:00,Lady Gaga,Always Remember Us This Way,9,36,9,3.5
+2021-09-09 14:19:00,Lady Gaga,I'll Never Love Again - Extended Version,9,36,9,5.48
+2021-09-09 14:48:00,Lady Gaga,Shallow - Radio Edit,9,36,9,1.7
+2021-09-09 15:17:00,Lady Gaga,I'll Never Love Again - Extended Version,9,36,9,5.48
+2021-09-09 15:20:00,Lady Gaga,Shallow - Radio Edit,9,36,9,3.62
+2021-09-10 02:07:00,Lady Gaga,Always Remember Us This Way,10,36,9,3.5
+2021-09-10 02:10:00,Lady Gaga,Shallow - Radio Edit,10,36,9,3.62
+2021-09-10 04:53:00,Lady Gaga,I'll Never Love Again - Extended Version,10,36,9,4.95
+2021-09-10 14:47:00,Lady Gaga,Always Remember Us This Way,10,36,9,3.5
+2021-09-10 14:58:00,Lady Gaga,Shallow - Radio Edit,10,36,9,3.62
+2021-09-10 15:14:00,Lady Gaga,I'll Never Love Again - Extended Version,10,36,9,0.62
+2021-09-11 02:43:00,Lady Gaga,Always Remember Us This Way,11,36,9,3.5
+2021-09-11 02:52:00,Lady Gaga,Shallow - Radio Edit,11,36,9,3.62
+2021-09-11 03:01:00,Lady Gaga,I'll Never Love Again - Extended Version,11,36,9,5.48
+2021-09-11 03:16:00,Lady Gaga,Always Remember Us This Way,11,36,9,3.5
+2021-09-11 07:50:00,Lady Gaga,Shallow - Radio Edit,11,36,9,3.62
+2021-09-11 12:02:00,Lady Gaga,Always Remember Us This Way,11,36,9,3.5
+2021-09-11 12:07:00,Lady Gaga,I'll Never Love Again - Extended Version,11,36,9,5.48
+2021-09-11 12:18:00,Lady Gaga,I'll Never Love Again - Extended Version,11,36,9,5.48
+2021-09-11 12:30:00,Lady Gaga,Shallow - Radio Edit,11,36,9,3.62
+2021-09-11 12:48:00,Lady Gaga,Always Remember Us This Way,11,36,9,3.5
+2021-09-11 12:54:00,Lady Gaga,I'll Never Love Again - Extended Version,11,36,9,5.34
+2021-09-11 13:14:00,Lady Gaga,Rain On Me (with Ariana Grande),11,36,9,3.04
+2021-09-11 13:25:00,Lady Gaga,Shallow - Radio Edit,11,36,9,3.62
+2021-09-11 13:37:00,Lady Gaga,I'll Never Love Again - Extended Version,11,36,9,5.48
+2021-09-12 03:39:00,Lady Gaga,Shallow - Radio Edit,12,36,9,3.62
+2021-09-12 03:43:00,Lady Gaga,Always Remember Us This Way,12,36,9,3.5
+2021-09-12 03:48:00,Lady Gaga,I'll Never Love Again - Extended Version,12,36,9,5.48
+2021-09-12 06:33:00,Lady Gaga,I'll Never Love Again - Extended Version,12,36,9,2.42
+2021-09-12 07:04:00,Lady Gaga,I'll Never Love Again - Extended Version,12,36,9,3.07
+2021-09-12 07:08:00,Lady Gaga,Shallow - Radio Edit,12,36,9,3.62
+2021-09-12 07:30:00,Lady Gaga,Always Remember Us This Way,12,36,9,0.78
+2021-09-12 12:13:00,Lady Gaga,Always Remember Us This Way,12,36,9,3.5
+2021-09-12 12:18:00,Lady Gaga,I'll Never Love Again - Extended Version,12,36,9,5.48
+2021-09-12 12:28:00,Lady Gaga,Shallow - Radio Edit,12,36,9,3.62
+2021-09-13 12:21:00,Lady Gaga,Shallow - Radio Edit,13,37,9,3.62
+2021-09-14 06:57:00,Lady Gaga,I'll Never Love Again - Extended Version,14,37,9,5.48
+2021-09-14 07:01:00,Lady Gaga,Always Remember Us This Way,14,37,9,3.5
+2021-09-14 07:18:00,Lady Gaga,Shallow - Radio Edit,14,37,9,3.62
+2021-09-14 10:54:00,Lady Gaga,Always Remember Us This Way,14,37,9,2.63
+2021-09-14 12:46:00,Lady Gaga,I'll Never Love Again - Extended Version,14,37,9,5.48
+2021-09-14 12:50:00,Lady Gaga,Always Remember Us This Way,14,37,9,3.5
+2021-09-14 14:54:00,Lady Gaga,Shallow - Radio Edit,14,37,9,3.62
+2021-09-14 15:11:00,Lady Gaga,I'll Never Love Again - Extended Version,14,37,9,5.48
+2021-09-14 15:12:00,Lady Gaga,Always Remember Us This Way,14,37,9,1.93
+2021-09-15 02:57:00,Lady Gaga,Shallow - Radio Edit,15,37,9,3.62
+2021-09-15 03:03:00,Lady Gaga,I'll Never Love Again - Extended Version,15,37,9,5.48
+2021-09-15 03:25:00,Lady Gaga,Always Remember Us This Way,15,37,9,3.3
+2021-09-15 06:57:00,Lady Gaga,Shallow - Radio Edit,15,37,9,3.62
+2021-09-15 07:07:00,Lady Gaga,I'll Never Love Again - Extended Version,15,37,9,5.48
+2021-09-16 02:45:00,Lady Gaga,Shallow - Radio Edit,16,37,9,2.76
+2021-09-16 05:49:00,Lady Gaga,Always Remember Us This Way,16,37,9,3.5
+2021-09-16 16:30:00,Lady Gaga,Shallow - Radio Edit,16,37,9,3.62
+2021-09-17 07:17:00,Lady Gaga,Shallow - Radio Edit,17,37,9,3.62
+2021-09-17 08:38:00,Lady Gaga,I'll Never Love Again - Extended Version,17,37,9,5.48
+2021-09-17 08:51:00,Lady Gaga,Always Remember Us This Way,17,37,9,3.5
+2021-09-17 10:53:00,Lady Gaga,Rain On Me (with Ariana Grande),17,37,9,3.04
+2021-09-17 13:20:00,Lady Gaga,Shallow - Radio Edit,17,37,9,3.62
+2021-09-18 04:34:00,Lady Gaga,Always Remember Us This Way,18,37,9,3.5
+2021-09-19 12:17:00,Lady Gaga,Bad Romance,19,37,9,4.91
+2021-09-19 12:21:00,Lady Gaga,Always Remember Us This Way,19,37,9,3.5
+2021-09-19 12:24:00,Lady Gaga,Shallow - Radio Edit,19,37,9,3.62
+2021-09-19 12:27:00,Lady Gaga,Rain On Me (with Ariana Grande),19,37,9,3.04
+2021-09-19 12:37:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,19,37,9,2.82
+2021-09-20 05:04:00,Lady Gaga,Always Remember Us This Way,20,38,9,3.5
+2021-09-20 08:42:00,Lady Gaga,Rain On Me (with Ariana Grande),20,38,9,3.04
+2021-09-20 14:39:00,Lady Gaga,Always Remember Us This Way,20,38,9,3.5
+2021-09-22 02:04:00,Lady Gaga,Always Remember Us This Way,22,38,9,3.5
+2021-09-22 02:24:00,Lady Gaga,I'll Never Love Again - Extended Version,22,38,9,2.88
+2021-09-22 02:37:00,Lady Gaga,I'll Never Love Again - Extended Version,22,38,9,2.61
+2021-09-22 07:01:00,Lady Gaga,Shallow - Radio Edit,22,38,9,3.62
+2021-09-22 08:57:00,Lady Gaga,I'll Never Love Again - Extended Version,22,38,9,5.48
+2021-09-22 11:33:00,Lady Gaga,Always Remember Us This Way,22,38,9,3.5
+2021-09-22 15:00:00,Lady Gaga,Shallow - Radio Edit,22,38,9,3.62
+2021-09-22 15:37:00,Lady Gaga,Shallow - Radio Edit,22,38,9,3.62
+2021-09-22 15:40:00,Lady Gaga,Always Remember Us This Way,22,38,9,3.5
+2021-09-22 15:57:00,Lady Gaga,I'll Never Love Again - Extended Version,22,38,9,5.48
+2021-09-22 16:14:00,Lady Gaga,Shallow - Radio Edit,22,38,9,3.62
+2021-09-22 16:17:00,Lady Gaga,Always Remember Us This Way,22,38,9,3.5
+2021-09-23 02:06:00,Lady Gaga,Shallow - Radio Edit,23,38,9,3.62
+2021-09-23 12:47:00,Lady Gaga,Shallow - Radio Edit,23,38,9,3.62
+2021-09-24 02:03:00,Lady Gaga,I'll Never Love Again - Extended Version,24,38,9,5.48
+2021-09-24 07:09:00,Lady Gaga,Always Remember Us This Way,24,38,9,3.5
+2021-09-24 14:04:00,Lady Gaga,Always Remember Us This Way,24,38,9,3.5
+2021-09-25 13:42:00,Lady Gaga,Bad Romance,25,38,9,4.91
+2021-09-25 13:48:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,25,38,9,5.47
+2021-09-25 13:51:00,Lady Gaga,Shallow - Radio Edit,25,38,9,3.62
+2021-09-25 13:54:00,Lady Gaga,Always Remember Us This Way,25,38,9,2.39
+2021-09-25 15:16:00,Lady Gaga,Always Remember Us This Way,25,38,9,1.12
+2021-09-25 15:19:00,Lady Gaga,Rain On Me (with Ariana Grande),25,38,9,3.04
+2021-09-25 15:24:00,Lady Gaga,Bad Romance,25,38,9,4.91
+2021-09-25 15:29:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,25,38,9,5.47
+2021-09-25 15:33:00,Lady Gaga,Shallow - Radio Edit,25,38,9,3.62
+2021-09-25 15:36:00,Lady Gaga,Always Remember Us This Way,25,38,9,3.5
+2021-09-25 15:39:00,Lady Gaga,Rain On Me (with Ariana Grande),25,38,9,2.83
+2021-09-27 01:56:00,Lady Gaga,Shallow - Radio Edit,27,39,9,3.62
+2021-09-27 05:25:00,Lady Gaga,Shallow - Radio Edit,27,39,9,3.62
+2021-09-27 05:29:00,Lady Gaga,Always Remember Us This Way,27,39,9,3.5
+2021-09-27 05:45:00,Lady Gaga,I'll Never Love Again - Extended Version,27,39,9,5.48
+2021-09-27 12:49:00,Lady Gaga,I'll Never Love Again - Extended Version,27,39,9,1.17
+2021-09-27 14:18:00,Lady Gaga,I'll Never Love Again - Extended Version,27,39,9,2.31
+2021-09-27 14:49:00,Lady Gaga,I'll Never Love Again - Extended Version,27,39,9,1.88
+2021-09-28 12:11:00,Lady Gaga,Shallow - Radio Edit,28,39,9,3.62
+2021-09-28 12:14:00,Lady Gaga,Always Remember Us This Way,28,39,9,3.5
+2021-09-28 12:19:00,Lady Gaga,Bad Romance,28,39,9,4.91
+2021-09-28 12:25:00,Lady Gaga,I'll Never Love - Extended Version - Radio Edit,28,39,9,5.47
+2021-09-28 12:28:00,Lady Gaga,Rain On Me (with Ariana Grande),28,39,9,3.04
+2021-09-30 01:58:00,Lady Gaga,I'll Never Love Again - Extended Version,30,39,9,5.48
+2021-09-30 02:02:00,Lady Gaga,Shallow - Radio Edit,30,39,9,3.62
+2021-09-30 02:05:00,Lady Gaga,Always Remember Us This Way,30,39,9,3.5
+2021-09-30 02:35:00,Lady Gaga,I'll Never Love Again - Extended Version,30,39,9,5.05
+2021-09-30 12:20:00,Lady Gaga,Shallow - Radio Edit,30,39,9,3.62
+2021-09-30 14:07:00,Lady Gaga,Always Remember Us This Way,30,39,9,3.5
+2021-09-30 16:00:00,Lady Gaga,Rain On Me (with Ariana Grande),30,39,9,3.04
+2021-10-01 02:13:00,Lady Gaga,I'll Never Love Again - Extended Version,1,39,10,5.48
+2021-10-01 07:19:00,Lady Gaga,Shallow - Radio Edit,1,39,10,3.62
+2021-10-01 14:02:00,Lady Gaga,Always Remember Us This Way,1,39,10,3.5
+2021-10-02 04:40:00,Lady Gaga,Shallow - Radio Edit,2,39,10,3.62
+2021-10-02 04:48:00,Lady Gaga,Always Remember Us This Way,2,39,10,3.5
+2021-10-02 05:08:00,Lady Gaga,I'll Never Love Again - Extended Version,2,39,10,5.48
+2021-10-02 12:11:00,Lady Gaga,Shallow - Radio Edit,2,39,10,3.62
+2021-10-03 04:23:00,Lady Gaga,Always Remember Us This Way,3,39,10,3.5
+2021-10-03 04:28:00,Lady Gaga,I'll Never Love Again - Extended Version,3,39,10,5.48
+2021-10-05 11:58:00,Lady Gaga,I'll Never Love Again - Extended Version,5,40,10,5.48
+2021-10-06 02:21:00,Lady Gaga,Rain On Me (with Ariana Grande),6,40,10,3.04
+2021-10-06 06:21:00,Lady Gaga,Always Remember Us This Way,6,40,10,3.5
+2021-10-06 06:25:00,Lady Gaga,Shallow - Radio Edit,6,40,10,3.62
+2021-10-06 12:48:00,Lady Gaga,I'll Never Love Again - Extended Version,6,40,10,5.48
+2021-10-06 12:52:00,Lady Gaga,Shallow - Radio Edit,6,40,10,3.62
+2021-10-06 12:53:00,Lady Gaga,Rain On Me (with Ariana Grande),6,40,10,1.06
+2021-10-06 13:50:00,Lady Gaga,I'll Never Love Again - Extended Version,6,40,10,5.01
+2021-10-08 10:59:00,Lady Gaga,Shallow - Radio Edit,8,40,10,3.62
+2021-10-09 12:12:00,Lady Gaga,Shallow - Radio Edit,9,40,10,3.62
+2021-10-09 13:57:00,Lady Gaga,Always Remember Us This Way,9,40,10,3.5
+2021-10-09 15:07:00,Lady Gaga,I'll Never Love Again - Extended Version,9,40,10,5.48
+2021-10-10 02:39:00,Lady Gaga,Shallow - Radio Edit,10,40,10,3.62
+2021-10-11 02:16:00,Lady Gaga,Always Remember Us This Way,11,41,10,3.5
+2021-10-11 12:22:00,Lady Gaga,I'll Never Love Again - Extended Version,11,41,10,5.48
+2021-10-11 12:26:00,Lady Gaga,Shallow - Radio Edit,11,41,10,3.62
+2021-10-13 01:53:00,Lady Gaga,Always Remember Us This Way,13,41,10,3.5
+2021-10-13 09:23:00,Lady Gaga,Shallow - Radio Edit,13,41,10,3.62
+2021-10-13 23:02:00,Lady Gaga,Always Remember Us This Way,13,41,10,0.68
+2021-10-14 05:23:00,Lady Gaga,Shallow - Radio Edit,14,41,10,3.62
+2021-10-15 00:33:00,Lady Gaga,Always Remember Us This Way,15,41,10,3.5
+2021-10-16 23:03:00,Lady Gaga,Shallow - Radio Edit,16,41,10,3.62
+2021-10-17 02:59:00,Lady Gaga,Always Remember Us This Way,17,41,10,3.5
+2021-10-17 03:31:00,Lady Gaga,Shallow - Radio Edit,17,41,10,2.36
+2021-10-17 03:39:00,Lady Gaga,Shallow - Radio Edit,17,41,10,1.27
+2021-10-17 07:29:00,Lady Gaga,I'll Never Love Again - Extended Version,17,41,10,5.48
+2021-10-17 13:44:00,Lady Gaga,Shallow - Radio Edit,17,41,10,3.62
+2021-10-17 14:49:00,Lady Gaga,I'll Never Love Again - Extended Version,17,41,10,4.58
+2021-10-18 03:18:00,Lady Gaga,Bad Romance,18,42,10,4.91
+2021-10-18 03:41:00,Lady Gaga,I'll Never Love Again - Extended Version,18,42,10,5.48
+2021-10-18 04:16:00,Lady Gaga,Shallow,18,42,10,3.6
+2021-10-18 04:19:00,Lady Gaga,Rain On Me (with Ariana Grande),18,42,10,3.04
+2021-10-18 04:30:00,Lady Gaga,Always Remember Us This Way,18,42,10,3.5
+2021-10-18 04:34:00,Lady Gaga,Shallow - Radio Edit,18,42,10,3.62
+2021-10-18 12:12:00,Lady Gaga,Shallow - Radio Edit,18,42,10,3.62
+2021-10-19 14:02:00,Lady Gaga,I'll Never Love Again - Extended Version,19,42,10,5.48
+2021-10-24 12:02:00,Lady Gaga,Shallow - Radio Edit,24,42,10,3.55
+2021-10-25 13:11:00,Lady Gaga,Shallow - Radio Edit,25,43,10,3.62
+2021-10-25 13:16:00,Lady Gaga,I'll Never Love Again - Extended Version,25,43,10,5.48
+2021-10-26 08:38:00,Lady Gaga,Shallow - Radio Edit,26,43,10,3.62
+2021-10-27 00:23:00,Lady Gaga,I'll Never Love Again - Extended Version,27,43,10,5.48
+2021-10-27 00:44:00,Lady Gaga,Shallow - Radio Edit,27,43,10,3.62
+2021-10-27 10:40:00,Lady Gaga,Always Remember Us This Way,27,43,10,3.5
+2021-10-27 12:27:00,Lady Gaga,I'll Never Love Again - Extended Version,27,43,10,5.48
+2021-10-27 14:02:00,Lady Gaga,Shallow - Radio Edit,27,43,10,1.83
+2021-10-27 14:10:00,Lady Gaga,Shallow - Radio Edit,27,43,10,1.8
+2021-10-28 00:03:00,Lady Gaga,Always Remember Us This Way,28,43,10,3.12
+2021-10-29 01:45:00,Lady Gaga,Always Remember Us This Way,29,43,10,3.46
+2021-10-29 12:59:00,Lady Gaga,I'll Never Love Again - Extended Version,29,43,10,5.48
+2021-10-29 13:53:00,Lady Gaga,Shallow - Radio Edit,29,43,10,3.62
+2021-10-30 06:29:00,Lady Gaga,Shallow - Radio Edit,30,43,10,3.62
+2021-10-30 12:49:00,Lady Gaga,Always Remember Us This Way,30,43,10,3.5
+2021-10-30 14:41:00,Lady Gaga,I'll Never Love Again - Extended Version,30,43,10,5.48
+2021-10-31 06:52:00,Lady Gaga,Shallow - Radio Edit,31,43,10,3.42
+2021-10-31 12:23:00,Lady Gaga,Always Remember Us This Way,31,43,10,3.5
+2021-11-02 02:01:00,Lady Gaga,Shallow - Radio Edit,2,44,11,3.62
+2021-11-02 07:14:00,Lady Gaga,I'll Never Love Again - Extended Version,2,44,11,5.16
+2021-11-02 12:02:00,Lady Gaga,Always Remember Us This Way,2,44,11,3.5
+2021-11-02 12:07:00,Lady Gaga,Bad Romance,2,44,11,4.91
+2021-11-03 02:07:00,Lady Gaga,I'll Never Love Again - Extended Version,3,44,11,5.48
+2021-11-05 12:15:00,Lady Gaga,Just Dance,5,44,11,0.94
+2021-11-05 12:17:00,Lady Gaga,Paparazzi,5,44,11,1.69
+2021-11-05 12:22:00,Lady Gaga,"Eh, Eh (Nothing Else I Can Say)",5,44,11,1.58
+2021-11-05 12:23:00,Lady Gaga,The Fame,5,44,11,0.96
+2021-11-05 12:24:00,Lady Gaga,Money Honey,5,44,11,0.72
+2021-11-05 12:30:00,Lady Gaga,Starstruck,5,44,11,1.17
+2021-11-05 12:31:00,Lady Gaga,Paper Gangsta,5,44,11,0.73
+2021-11-05 12:32:00,Lady Gaga,Brown Eyes,5,44,11,1.39
+2021-11-05 12:33:00,Lady Gaga,I Like It Rough,5,44,11,0.9
+2021-11-05 12:34:00,Lady Gaga,Summerboy,5,44,11,0.98
+2021-11-05 12:35:00,Lady Gaga,Disco Heaven,5,44,11,1.23
+2021-11-06 04:36:00,Lady Gaga,Shallow - Radio Edit,6,44,11,1.03
+2021-11-06 04:38:00,Lady Gaga,Shallow - Radio Edit,6,44,11,2.58
+2021-11-06 04:49:00,Lady Gaga,Always Remember Us This Way,6,44,11,3.5
+2021-11-06 12:35:00,Lady Gaga,Marry The Night,6,44,11,1.9
+2021-11-06 12:37:00,Lady Gaga,Born This Way,6,44,11,1.13
+2021-11-06 12:38:00,Lady Gaga,Government Hooker,6,44,11,1.23
+2021-11-06 12:39:00,Lady Gaga,Judas,6,44,11,0.87
+2021-11-06 12:40:00,Lady Gaga,Americano,6,44,11,1.39
+2021-11-06 12:41:00,Lady Gaga,Hair,6,44,11,1.37
+2021-11-06 12:42:00,Lady Gaga,ScheiBe,6,44,11,0.54
+2021-11-06 12:43:00,Lady Gaga,Bloody Mary,6,44,11,1.32
+2021-11-06 12:44:00,Lady Gaga,Black Jesus + Amen Fashion,6,44,11,0.86
+2021-11-06 12:45:00,Lady Gaga,Bad Kids,6,44,11,0.69
+2021-11-06 12:46:00,Lady Gaga,Fashion Of His Love,6,44,11,1.09
+2021-11-06 12:48:00,Lady Gaga,Electric Chapel,6,44,11,1.15
+2021-11-06 12:49:00,Lady Gaga,The Queen,6,44,11,1.2
+2021-11-06 12:50:00,Lady Gaga,You And I,6,44,11,1.02
+2021-11-06 12:52:00,Lady Gaga,The Edge Of Glory,6,44,11,2.36
+2021-11-06 12:55:00,Lady Gaga,Alice,6,44,11,2.96
+2021-11-07 06:25:00,Lady Gaga,Always Remember Us This Way,7,44,11,3.06
+2021-11-07 12:04:00,Lady Gaga,Diamond Heart,7,44,11,1.02
+2021-11-07 12:05:00,Lady Gaga,Joanne,7,44,11,0.7
+2021-11-07 12:06:00,Lady Gaga,Music To My Eyes,7,44,11,1.62
+2021-11-07 12:09:00,Lady Gaga,Look What I Found,7,44,11,2.71
+2021-11-07 12:11:00,Lady Gaga,Heal Me,7,44,11,1.39
+2021-11-07 12:13:00,Lady Gaga,I Don't Know What Love Is,7,44,11,2.95
+2021-11-07 12:17:00,Lady Gaga,Is That Alright?,7,44,11,3.19
+2021-11-07 12:20:00,Lady Gaga,Why Did You Do That?,7,44,11,2.44
+2021-11-07 12:21:00,Lady Gaga,Before I Cry,7,44,11,1.28
+2021-11-07 12:23:00,Lady Gaga,I'll Never Love Again - Film Version - Radio Edit,7,44,11,0.75
+2021-11-07 12:33:00,Lady Gaga,Stupid Love,7,44,11,2.78
+2021-11-07 12:34:00,Lady Gaga,Fun Tonight,7,44,11,0.71
+2021-11-07 12:34:00,Lady Gaga,Free Woman,7,44,11,1.12
+2021-11-07 12:35:00,Lady Gaga,Chromatica II,7,44,11,0.7
+2021-11-07 12:36:00,Lady Gaga,911,7,44,11,1.18
+2021-11-07 12:37:00,Lady Gaga,Plastic Doll,7,44,11,0.62
+2021-11-07 12:38:00,Lady Gaga,Sour Candy (with BLACKPINK),7,44,11,0.6
+2021-11-07 12:38:00,Lady Gaga,Enigma,7,44,11,0.74
+2021-11-07 12:40:00,Lady Gaga,Replay,7,44,11,2.0
+2021-11-07 12:51:00,Lady Gaga,Sine From Above (with Elton John),7,44,11,1.06
+2021-11-07 13:04:00,Lady Gaga,Shallow - Radio Edit,7,44,11,3.62
+2021-11-07 15:17:00,Lady Gaga,Always Remember Us This Way,7,44,11,0.69
+2021-11-08 06:50:00,Lady Gaga,Shallow - Radio Edit,8,45,11,3.62
+2021-11-08 15:17:00,Lady Gaga,Always Remember Us This Way,8,45,11,3.5
+2021-11-10 05:59:00,Lady Gaga,I'll Never Love Again - Extended Version,10,45,11,5.48
+2021-11-10 06:47:00,Lady Gaga,Always Remember Us This Way,10,45,11,3.5
+2021-11-10 11:57:00,Lady Gaga,I'll Never Love Again - Extended Version,10,45,11,5.48
+2021-11-10 12:00:00,Lady Gaga,Shallow - Radio Edit,10,45,11,3.62
+2021-11-10 12:44:00,Lady Gaga,Always Remember Us This Way,10,45,11,2.97
+2021-11-10 13:14:00,Lady Gaga,Always Remember Us This Way,10,45,11,0.54
+2021-11-12 09:15:00,Lady Gaga,Shallow - Radio Edit,12,45,11,3.62
+2021-11-12 09:31:00,Lady Gaga,Always Remember Us This Way,12,45,11,3.5
+2021-11-14 08:35:00,Lady Gaga,Always Remember Us This Way,14,45,11,3.5
+2021-11-22 12:28:00,Lady Gaga,Always Remember Us This Way,22,47,11,3.5
+2021-11-22 12:42:00,Lady Gaga,Always Remember Us This Way,22,47,11,3.5
+2021-11-22 15:06:00,Lady Gaga,Always Remember Us This Way,22,47,11,3.5
+2021-11-22 15:36:00,Lady Gaga,Shallow - Radio Edit,22,47,11,3.62
+2021-11-22 15:52:00,Lady Gaga,I'll Never Love Again - Extended Version,22,47,11,5.48
+2021-11-23 05:12:00,Lady Gaga,Shallow - Radio Edit,23,47,11,3.62
+2021-11-23 06:08:00,Lady Gaga,I'll Never Love Again - Extended Version,23,47,11,5.48
+2021-11-23 06:51:00,Lady Gaga,Always Remember Us This Way,23,47,11,3.5
+2021-11-23 08:49:00,Lady Gaga,I'll Never Love Again - Extended Version,23,47,11,5.48
+2021-11-23 15:09:00,Lady Gaga,I'll Never Love Again - Extended Version,23,47,11,5.48
+2021-11-24 04:42:00,Lady Gaga,Always Remember Us This Way,24,47,11,1.97
+2021-11-24 04:50:00,Lady Gaga,Always Remember Us This Way,24,47,11,1.54
+2021-11-24 07:50:00,Lady Gaga,Shallow - Radio Edit,24,47,11,1.91
+2021-11-24 12:09:00,Lady Gaga,Shallow - Radio Edit,24,47,11,1.72
+2021-11-24 12:37:00,Lady Gaga,Always Remember Us This Way,24,47,11,3.5
+2021-11-24 15:02:00,Lady Gaga,I'll Never Love Again - Extended Version,24,47,11,5.48
+2021-11-24 15:21:00,Lady Gaga,Shallow - Radio Edit,24,47,11,3.62
+2021-11-25 07:15:00,Lady Gaga,I'll Never Love Again - Extended Version,25,47,11,5.48
+2021-11-25 13:48:00,Lady Gaga,Shallow - Radio Edit,25,47,11,3.62
+2021-11-26 02:40:00,Lady Gaga,Always Remember Us This Way,26,47,11,3.5
+2021-11-26 02:45:00,Lady Gaga,I'll Never Love Again - Extended Version,26,47,11,5.48
+2021-11-26 06:42:00,Lady Gaga,Shallow - Radio Edit,26,47,11,3.62
+2021-11-26 09:16:00,Lady Gaga,Always Remember Us This Way,26,47,11,3.5
+2021-11-29 03:11:00,Lady Gaga,Always Remember Us This Way,29,48,11,3.5
+2021-11-29 06:08:00,Lady Gaga,Shallow - Radio Edit,29,48,11,3.62
+2021-11-29 06:26:00,Lady Gaga,Always Remember Us This Way,29,48,11,3.5
+2021-11-29 07:06:00,Lady Gaga,I'll Never Love Again - Extended Version,29,48,11,5.48
+2021-11-29 12:12:00,Lady Gaga,I'll Never Love Again - Extended Version,29,48,11,5.48
+2021-11-29 12:25:00,Lady Gaga,Always Remember Us This Way,29,48,11,3.5
+2021-11-29 12:43:00,Lady Gaga,I'll Never Love Again - Extended Version,29,48,11,5.48
+2021-11-29 14:50:00,Lady Gaga,Shallow - Radio Edit,29,48,11,3.0
+2021-11-29 14:54:00,Lady Gaga,Shallow - Radio Edit,29,48,11,3.96
+2021-11-30 06:52:00,Lady Gaga,Always Remember Us This Way,30,48,11,2.63
+2021-11-30 07:01:00,Lady Gaga,Always Remember Us This Way,30,48,11,0.89
+2021-11-30 07:06:00,Lady Gaga,I'll Never Love Again - Extended Version,30,48,11,5.48
+2021-11-30 11:59:00,Lady Gaga,I'll Never Love Again - Extended Version,30,48,11,5.48
+2021-11-30 12:05:00,Lady Gaga,Always Remember Us This Way,30,48,11,3.5
+2021-11-30 12:26:00,Lady Gaga,Shallow - Radio Edit,30,48,11,2.7
+2021-11-30 12:27:00,Lady Gaga,Shallow - Radio Edit,30,48,11,0.92
+2021-11-30 12:57:00,Lady Gaga,Always Remember Us This Way,30,48,11,3.5
+2021-11-30 13:23:00,Lady Gaga,Shallow - Radio Edit,30,48,11,3.62
+2021-11-30 13:57:00,Lady Gaga,I'll Never Love Again - Extended Version,30,48,11,2.71
+2021-11-30 14:01:00,Lady Gaga,I'll Never Love Again - Extended Version,30,48,11,2.77
+2021-12-01 13:19:00,Lady Gaga,I'll Never Love Again - Extended Version,1,48,12,5.48
+2021-12-02 14:48:00,Lady Gaga,Always Remember Us This Way,2,48,12,3.5
+2021-12-02 15:15:00,Lady Gaga,I'll Never Love Again - Extended Version,2,48,12,5.48
+2021-12-03 12:37:00,Lady Gaga,Rain On Me (with Ariana Grande),3,48,12,3.04
+2021-12-04 15:26:00,Lady Gaga,Shallow - Radio Edit,4,48,12,3.62
+2021-12-04 16:08:00,Lady Gaga,Always Remember Us This Way,4,48,12,3.5
+2021-12-09 14:31:00,Lady Gaga,Rain On Me (with Ariana Grande),9,49,12,3.04
+2021-12-09 14:46:00,Lady Gaga,Always Remember Us This Way,9,49,12,3.5
+2021-12-11 02:21:00,Lady Gaga,Always Remember Us This Way,11,49,12,3.5
+2021-12-11 02:41:00,Lady Gaga,Shallow - Radio Edit,11,49,12,3.62
+2021-12-11 04:38:00,Lady Gaga,Always Remember Us This Way,11,49,12,3.5
+2021-12-15 03:42:00,Lady Gaga,Shallow - Radio Edit,15,50,12,3.62
+2021-12-15 04:01:00,Lady Gaga,I'll Never Love Again - Extended Version,15,50,12,5.48
+2021-12-18 14:13:00,Lady Gaga,Always Remember Us This Way,18,50,12,3.5
+2021-12-25 10:55:00,Lady Gaga,Shallow - Radio Edit,25,51,12,3.62
+2021-12-25 11:00:00,Lady Gaga,I'll Never Love Again - Extended Version,25,51,12,5.48
+2021-12-25 13:57:00,Lady Gaga,Always Remember Us This Way,25,51,12,3.5
+2021-12-25 15:05:00,Lady Gaga,Always Remember Us This Way,25,51,12,3.5
+2021-12-27 15:16:00,Lady Gaga,Always Remember Us This Way,27,52,12,3.5
