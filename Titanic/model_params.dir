@@ -1,4 +1,4 @@
-'lr_base', (0, 301)
+'lr_base', (0, 302)
 'lr_final', (512, 94)
 'knc_base', (1024, 175)
 'knn_final', (1536, 111)
