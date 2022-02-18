@@ -16,3 +16,4 @@ dependencies:
   - plotly
   # - cufflinks
   - bokeh
+  - django=2.2.5
