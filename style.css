@@ -2,11 +2,11 @@
 
 :root {
   --red: rgb(206, 79, 79);
-  --white: #ffffff;
+  --blue: rgb(5, 5, 199);
 }
 
 body {
-  background-image: url(images/banner2.jpg);
+  background-image: url(images/banner4.jpg);
   background-repeat: repeat-y;
 }
 
@@ -39,11 +39,15 @@ li h2:hover {
   font-size: 3rem;
 }
 
-a {
+#navbar a {
   text-decoration: none;
   color: var(--red);
 }
 
+a {
+  text-decoration: none;
+  color: var(--blue);
+}
 a:hover {
   color: var(--red);
 }
@@ -55,10 +59,24 @@ li:last-child {
 .card-body .card-hidden {
   display: none;
   font-size: 0.9rem;
-  transition: display 3s;
+  transition: display;
 }
 .card-body:hover .card-hidden {
   display: block;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  display: none;
+  transition: display 3s;
+}
+.card:hover .card-img-top {
+  display: block;
+}
+
+#construction {
+  box-shadow: 10px 10px #797977;
 }
 
 @media (max-width: 720px) {
