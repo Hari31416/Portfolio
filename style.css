@@ -10,11 +10,6 @@ body {
   background-repeat: repeat-y;
 }
 
-/* #bg-image {
-  background-image: url(images/banner1.jpg);
-  background-repeat: space;
-} */
-
 #heading {
   font-family: "Shizuru", cursive;
   color: var(--red);
