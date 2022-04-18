@@ -1,6 +1,3 @@
-import pandas as pd
-
-
 def get_detail(column):
     """Prints the details of a column
 
