@@ -6,29 +6,29 @@
 <title>Modeling</title><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 <style type="text/css">
-  pre { line-height: 125%; margin: 0; }
-td.linenos pre { color: #000000; background-color: #f0f0f0; padding-left: 5px; padding-right: 5px; }
-span.linenos { color: #000000; background-color: #f0f0f0; padding-left: 5px; padding-right: 5px; }
-td.linenos pre.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
+  pre { line-height: 125%; }
+td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
 span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
 .highlight .hll { background-color: #ffffcc }
 .highlight { background: #f8f8f8; }
-.highlight .c { color: #408080; font-style: italic } /* Comment */
+.highlight .c { color: #3D7B7B; font-style: italic } /* Comment */
 .highlight .err { border: 1px solid #FF0000 } /* Error */
 .highlight .k { color: #008000; font-weight: bold } /* Keyword */
 .highlight .o { color: #666666 } /* Operator */
-.highlight .ch { color: #408080; font-style: italic } /* Comment.Hashbang */
-.highlight .cm { color: #408080; font-style: italic } /* Comment.Multiline */
-.highlight .cp { color: #BC7A00 } /* Comment.Preproc */
-.highlight .cpf { color: #408080; font-style: italic } /* Comment.PreprocFile */
-.highlight .c1 { color: #408080; font-style: italic } /* Comment.Single */
-.highlight .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlight .ch { color: #3D7B7B; font-style: italic } /* Comment.Hashbang */
+.highlight .cm { color: #3D7B7B; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #9C6500 } /* Comment.Preproc */
+.highlight .cpf { color: #3D7B7B; font-style: italic } /* Comment.PreprocFile */
+.highlight .c1 { color: #3D7B7B; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #3D7B7B; font-style: italic } /* Comment.Special */
 .highlight .gd { color: #A00000 } /* Generic.Deleted */
 .highlight .ge { font-style: italic } /* Generic.Emph */
-.highlight .gr { color: #FF0000 } /* Generic.Error */
+.highlight .gr { color: #E40000 } /* Generic.Error */
 .highlight .gh { color: #000080; font-weight: bold } /* Generic.Heading */
-.highlight .gi { color: #00A000 } /* Generic.Inserted */
-.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gi { color: #008400 } /* Generic.Inserted */
+.highlight .go { color: #717171 } /* Generic.Output */
 .highlight .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
 .highlight .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
@@ -41,15 +41,15 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 .highlight .kt { color: #B00040 } /* Keyword.Type */
 .highlight .m { color: #666666 } /* Literal.Number */
 .highlight .s { color: #BA2121 } /* Literal.String */
-.highlight .na { color: #7D9029 } /* Name.Attribute */
+.highlight .na { color: #687822 } /* Name.Attribute */
 .highlight .nb { color: #008000 } /* Name.Builtin */
 .highlight .nc { color: #0000FF; font-weight: bold } /* Name.Class */
 .highlight .no { color: #880000 } /* Name.Constant */
 .highlight .nd { color: #AA22FF } /* Name.Decorator */
-.highlight .ni { color: #999999; font-weight: bold } /* Name.Entity */
-.highlight .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlight .ni { color: #717171; font-weight: bold } /* Name.Entity */
+.highlight .ne { color: #CB3F38; font-weight: bold } /* Name.Exception */
 .highlight .nf { color: #0000FF } /* Name.Function */
-.highlight .nl { color: #A0A000 } /* Name.Label */
+.highlight .nl { color: #767600 } /* Name.Label */
 .highlight .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
 .highlight .nt { color: #008000; font-weight: bold } /* Name.Tag */
 .highlight .nv { color: #19177C } /* Name.Variable */
@@ -66,11 +66,11 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 .highlight .dl { color: #BA2121 } /* Literal.String.Delimiter */
 .highlight .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
 .highlight .s2 { color: #BA2121 } /* Literal.String.Double */
-.highlight .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlight .se { color: #AA5D1F; font-weight: bold } /* Literal.String.Escape */
 .highlight .sh { color: #BA2121 } /* Literal.String.Heredoc */
-.highlight .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlight .si { color: #A45A77; font-weight: bold } /* Literal.String.Interpol */
 .highlight .sx { color: #008000 } /* Literal.String.Other */
-.highlight .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlight .sr { color: #A45A77 } /* Literal.String.Regex */
 .highlight .s1 { color: #BA2121 } /* Literal.String.Single */
 .highlight .ss { color: #19177C } /* Literal.String.Symbol */
 .highlight .bp { color: #008000 } /* Name.Builtin.Pseudo */
@@ -13098,9 +13098,9 @@ div#notebook {
 <div class="text_cell_render border-box-sizing rendered_html">
 <table class="tfo-notebook-buttons" align="left">
 <td style="border: none;">
-<a target="blank" href="https://colab.research.google.com/github/Hari31416/Portfolio/blob/main/ML\Housing_Price\Modeling.ipynb?hl=en"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="28" height="28"/>Run on Google Colab</a></td>
+<a target="blank" href="https://colab.research.google.com/github/Hari31416/Portfolio/blob/main/ML/Housing_Price/Modeling.ipynb?hl=en"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="28" height="28"/>Run on Google Colab</a></td>
 <td style="border: none;">
-<a target="blank" href="https://github.com/Hari31416/Portfolio/blob/main/ML\Housing_Price\Modeling.ipynb"><img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" width="28" height="28"/>View on Github</a></td>
+<a target="blank" href="https://github.com/Hari31416/Portfolio/blob/main/Housing_Price/ML/Modeling.ipynb"><img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" width="28" height="28"/>View on Github</a></td>
 <td style="border: none;">
 </table>
 </div>
@@ -13109,13 +13109,13 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Imports">Imports<a class="anchor-link" href="#Imports">&#182;</a></h2>
+<h1 id="Imports">Imports<a class="anchor-link" href="#Imports">&#182;</a></h1>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -13127,8 +13127,6 @@ div#notebook {
 <span class="kn">from</span> <span class="nn">sklearn.preprocessing</span> <span class="kn">import</span> <span class="n">PolynomialFeatures</span>
 <span class="kn">from</span> <span class="nn">sklearn.svm</span> <span class="kn">import</span> <span class="n">SVR</span>
 <span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">mean_squared_error</span><span class="p">,</span> <span class="n">r2_score</span>
-
-<span class="kn">from</span> <span class="nn">life_saving_tools.Notification</span> <span class="kn">import</span> <span class="n">Notification</span>
 </pre></div>
 
     </div>
@@ -13139,13 +13137,28 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Preprocessing">Preprocessing<a class="anchor-link" href="#Preprocessing">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Loading-The-Data">Loading The Data<a class="anchor-link" href="#Loading-The-Data">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let's start by loading the data.</p>
+
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">X</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data/train_final.csv&#39;</span><span class="p">)</span>
@@ -13158,46 +13171,27 @@ div#notebook {
 </div>
 
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">test_size</span><span class="o">=</span><span class="mf">0.12</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
-<span class="nb">len</span><span class="p">(</span><span class="n">X_train</span><span class="p">),</span> <span class="nb">len</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt output_prompt">Out[3]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>(1284, 176)</pre>
-</div>
-
-</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Next step is to create the train and test sets as the data is already normalized.</p>
 
 </div>
 </div>
-
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Making-The-Train-and-Test-Sets">Making The Train and Test Sets<a class="anchor-link" href="#Making-The-Train-and-Test-Sets">&#182;</a></h2>
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13216,8 +13210,7 @@ div#notebook {
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>SalePrice    180921.19589
-dtype: float64</pre>
+<pre>1460</pre>
 </div>
 
 </div>
@@ -13229,37 +13222,18 @@ dtype: float64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Modeling">Modeling<a class="anchor-link" href="#Modeling">&#182;</a></h2>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="The-Base-Model">The Base Model<a class="anchor-link" href="#The-Base-Model">&#182;</a></h3>
+<p>We see that we have just 1460 training examles. So, we should not be using a lot of examples for the test set. ABout 150 examples have to suffice.</p>
+
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">n</span> <span class="o">=</span> <span class="n">Notification</span><span class="p">()</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[37]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">lr</span> <span class="o">=</span> <span class="n">LinearRegression</span><span class="p">()</span>
-<span class="n">lr</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">test_size</span><span class="o">=</span><span class="mf">0.10</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
+<span class="nb">len</span><span class="p">(</span><span class="n">X_train</span><span class="p">),</span> <span class="nb">len</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13272,7 +13246,115 @@ dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[37]:</div>
+    <div class="prompt output_prompt">Out[5]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>(1314, 146)</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Modeling">Modeling<a class="anchor-link" href="#Modeling">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Creating-Some-Functions">Creating Some Functions<a class="anchor-link" href="#Creating-Some-Functions">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">evaluate_model</span><span class="p">(</span><span class="n">y_true</span><span class="p">,</span> <span class="n">y_pred</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span> <span class="n">model</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">X_test</span><span class="o">=</span><span class="kc">None</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Evaluates a model by computing the mean squared error and the r2 score.</span>
+
+<span class="sd">    Parameters</span>
+<span class="sd">    ----------</span>
+<span class="sd">    y_true : pandas.Series</span>
+<span class="sd">        The true values of the target variable.</span>
+<span class="sd">    y_pred : pandas.Series</span>
+<span class="sd">        The predicted values of the target variable.</span>
+<span class="sd">        if None, the model is evaluated on the test set. `model` and `X_test` must be provided.</span>
+<span class="sd">    model : sklearn.linear_model.LinearRegression</span>
+<span class="sd">        The model to evaluate. Optional if `y_pred` is provided.</span>
+<span class="sd">    X_test : pandas.DataFrame</span>
+<span class="sd">        The test set. Optional if `y_pred` is provided.</span>
+
+<span class="sd">    Returns</span>
+<span class="sd">    -------</span>
+<span class="sd">    rmse : float</span>
+<span class="sd">        The root mean squared error.</span>
+<span class="sd">    r2 : float</span>
+<span class="sd">        The r2 score.</span>
+<span class="sd">    ratio : float</span>
+<span class="sd">        The ratio of the mean squared error to the mean value of the target variable.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    <span class="n">rmse</span> <span class="o">=</span> <span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_true</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span><span class="o">**</span><span class="mf">0.5</span>
+    <span class="n">r_score</span> <span class="o">=</span> <span class="n">r2_score</span><span class="p">(</span><span class="n">y_true</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
+    <span class="n">ratio</span> <span class="o">=</span> <span class="p">(</span><span class="n">rmse</span> <span class="o">/</span> <span class="n">y_true</span><span class="o">.</span><span class="n">mean</span><span class="p">())</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="p">{</span><span class="s1">&#39;rmse&#39;</span><span class="p">:</span> <span class="n">rmse</span><span class="p">,</span> <span class="s1">&#39;r2&#39;</span><span class="p">:</span> <span class="n">r_score</span><span class="p">,</span> <span class="s1">&#39;ratio&#39;</span><span class="p">:</span> <span class="n">ratio</span><span class="p">}</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;rmse:&#39;</span><span class="p">,</span> <span class="n">rmse</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;R2:&#39;</span><span class="p">,</span> <span class="n">r_score</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Ratio:&#39;</span><span class="p">,</span> <span class="n">ratio</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">result</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="The-Base-Model">The Base Model<a class="anchor-link" href="#The-Base-Model">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let's create a base model. We'll use a linear regression model with default parameters for this</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">lr_base</span> <span class="o">=</span> <span class="n">LinearRegression</span><span class="p">()</span>
+<span class="n">lr_base</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[8]:</div>
 
 
 
@@ -13289,11 +13371,11 @@ dtype: float64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[38]:</div>
+<div class="prompt input_prompt">In&nbsp;[35]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
-<span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span><span class="o">**</span><span class="mf">0.5</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr_base</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
+<span class="n">base_model_result</span> <span class="o">=</span> <span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13306,15 +13388,15 @@ dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[38]:</div>
+    <div class="prompt"></div>
 
 
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>36165.77423028959</pre>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>rmse: 47435.83771241819
+R2: 0.753721417512423
+Ratio: 0.25939742165697893
+</pre>
 </div>
-
 </div>
 
 </div>
@@ -13323,11 +13405,11 @@ dtype: float64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[39]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_train</span><span class="p">)</span>
-<span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_train</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span><span class="o">**</span><span class="mf">0.5</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr_base</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_train</span><span class="p">)</span>
+<span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_train</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13340,13 +13422,28 @@ dtype: float64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[39]:</div>
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>rmse: 38107.493570595456
+R2: 0.7576423209884251
+Ratio: 0.21088265173229595
+</pre>
+</div>
+</div>
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[21]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>28531.377331518488</pre>
+<pre>{&#39;rmse&#39;: 38107.493570595456,
+ &#39;r2&#39;: 0.7576423209884251,
+ &#39;ratio&#39;: 0.21088265173229595}</pre>
 </div>
 
 </div>
@@ -13358,14 +13455,29 @@ dtype: float64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Linear model is of no use! Let's try a polynomial model of order 2.</p>
+<p>Now, as our base model is here, we can start experimenting.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Polynomial-Model">Polynomial Model<a class="anchor-link" href="#Polynomial-Model">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let's fit a polynomial model of order 2 on the training data.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[38]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">pf</span> <span class="o">=</span> <span class="n">PolynomialFeatures</span><span class="p">(</span><span class="n">degree</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
@@ -13380,29 +13492,45 @@ dtype: float64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
+<div class="prompt input_prompt">In&nbsp;[42]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">test_pf</span> <span class="o">=</span> <span class="n">pf</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">test</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">lr_pf</span> <span class="o">=</span> <span class="n">LinearRegression</span><span class="p">()</span>
+<span class="n">lr_pf</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train_pf</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
 </pre></div>
 
     </div>
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[42]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>LinearRegression()</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[41]:</div>
+<div class="prompt input_prompt">In&nbsp;[43]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">lr_pf</span> <span class="o">=</span> <span class="n">LinearRegression</span><span class="p">()</span>
-<span class="n">lr_pf</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train_pf</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
-
-<span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr_pf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test_pf</span><span class="p">)</span>
-<span class="n">msre</span> <span class="o">=</span> <span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span><span class="o">**</span><span class="mf">0.5</span>
-<span class="n">text</span> <span class="o">=</span> <span class="s2">&quot;The mean squared error is </span><span class="si">{}</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">msre</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr_pf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test_pf</span><span class="p">)</span>
+<span class="n">poly_reg_result</span> <span class="o">=</span>  <span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13419,7 +13547,9 @@ dtype: float64</pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The mean squared error is 72013.23219765784
+<pre>rmse: 68232.86347065943
+R2: 0.4904337089356018
+Ratio: 0.37312356458982066
 </pre>
 </div>
 </div>
@@ -13430,13 +13560,12 @@ dtype: float64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[42]:</div>
+<div class="prompt input_prompt">In&nbsp;[44]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred_test</span> <span class="o">=</span> <span class="n">lr_pf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_train_pf</span><span class="p">)</span>
-<span class="n">msre_test</span> <span class="o">=</span> <span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_train</span><span class="p">,</span> <span class="n">y_pred_test</span><span class="p">)</span><span class="o">**</span><span class="mf">0.5</span>
-<span class="n">text</span> <span class="o">=</span> <span class="s2">&quot;The mean squared error is </span><span class="si">{}</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">msre_test</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">lr_pf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test_pf</span><span class="p">)</span>
+<span class="n">y_pred</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">y_pred</span><span class="p">)</span>
+<span class="n">poly_reg_result</span> <span class="o">=</span>  <span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13453,7 +13582,9 @@ dtype: float64</pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The mean squared error is 163.78743537750125
+<pre>rmse: 56795.40174109139
+R2: 0.646947047454522
+Ratio: 0.31057912085221945
 </pre>
 </div>
 </div>
@@ -13465,41 +13596,17 @@ dtype: float64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Okay, the model is overfitting, severly. Let's try Ridge, Lasso, and Elastic Net.</p>
+<p>It is performing worse than the base model. What's more, sometimes, the model in return negative values for the predictions.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
+<div class="prompt input_prompt">In&nbsp;[46]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">train_model</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">data</span><span class="p">,</span> <span class="n">test_data</span><span class="p">,</span> <span class="n">should_text</span> <span class="o">=</span> <span class="kc">False</span><span class="p">):</span>
-    <span class="n">model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
-    <span class="n">y_pred</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">test_data</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
-    <span class="n">msre_test</span> <span class="o">=</span> <span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_pred</span><span class="p">,</span> <span class="n">test_data</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span><span class="o">**</span><span class="mf">0.5</span>
-    <span class="n">y_pred_train</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
-    <span class="n">msre_train</span> <span class="o">=</span> <span class="n">mean_squared_error</span><span class="p">(</span><span class="n">y_pred_train</span><span class="p">,</span> <span class="n">data</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span><span class="o">**</span><span class="mf">0.5</span>
-    <span class="n">text</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;The mean squared error for test data is </span><span class="si">{</span><span class="n">msre_test</span><span class="si">}</span><span class="s2">&quot;</span>
-    <span class="n">text</span><span class="o">+=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">The mean squared error for train data is </span><span class="si">{</span><span class="n">msre_train</span><span class="si">}</span><span class="s2">&quot;</span>
-    <span class="nb">print</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
-    <span class="k">if</span> <span class="n">should_text</span><span class="p">:</span>
-        <span class="n">n</span><span class="o">.</span><span class="n">send_whatsapp_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
-    <span class="k">return</span> <span class="n">model</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">rr</span> <span class="o">=</span> <span class="n">train_model</span><span class="p">(</span><span class="n">Ridge</span><span class="p">(),</span> <span class="p">(</span><span class="n">X_train_pf</span><span class="p">,</span> <span class="n">y_train</span><span class="p">),</span> <span class="p">(</span><span class="n">X_test_pf</span><span class="p">,</span> <span class="n">y_test</span><span class="p">))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_train</span><span class="p">,</span> <span class="n">lr_pf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_train_pf</span><span class="p">))</span>
 </pre></div>
 
     </div>
@@ -13516,64 +13623,24 @@ dtype: float64</pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The mean squared error for test data is 48458.56238434578
-The mean squared error for train data is 2041.2016774418073
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[23]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">xgboost</span> <span class="kn">import</span> <span class="n">XGBRegressor</span>
-<span class="n">xgbr</span> <span class="o">=</span> <span class="n">XGBRegressor</span><span class="p">(</span><span class="n">learning_rate</span> <span class="o">=</span> <span class="mf">0.2</span><span class="p">,</span> <span class="n">max_depth</span><span class="o">=</span> <span class="mi">5</span><span class="p">,</span> <span class="n">n_estimators</span><span class="o">=</span> <span class="mi">200</span><span class="p">)</span>
-<span class="n">train_model</span><span class="p">(</span><span class="n">xgbr</span><span class="p">,</span> <span class="p">(</span><span class="n">X_train_pf</span><span class="p">,</span> <span class="n">y_train</span><span class="p">),</span> <span class="p">(</span><span class="n">X_test_pf</span><span class="p">,</span> <span class="n">y_test</span><span class="p">))</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>The mean squared error for test data is 28480.83781041469
-The mean squared error for train data is 1599.245972979817
-SMae684a845f4149c69146f08905bea49f
+<pre>rmse: 161.90692028798085
+R2: 0.9999956251130148
+Ratio: 0.0008959749772282216
 </pre>
 </div>
 </div>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[23]:</div>
+    <div class="prompt output_prompt">Out[46]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>XGBRegressor(base_score=0.5, booster=&#39;gbtree&#39;, colsample_bylevel=1,
-             colsample_bynode=1, colsample_bytree=1, enable_categorical=False,
-             gamma=0, gpu_id=-1, importance_type=None,
-             interaction_constraints=&#39;&#39;, learning_rate=0.2, max_delta_step=0,
-             max_depth=5, min_child_weight=1, missing=nan,
-             monotone_constraints=&#39;()&#39;, n_estimators=200, n_jobs=8,
-             num_parallel_tree=1, predictor=&#39;auto&#39;, random_state=0, reg_alpha=0,
-             reg_lambda=1, scale_pos_weight=1, subsample=1, tree_method=&#39;exact&#39;,
-             validate_parameters=1, verbosity=None)</pre>
+<pre>{&#39;rmse&#39;: 161.90692028798085,
+ &#39;r2&#39;: 0.9999956251130148,
+ &#39;ratio&#39;: 0.0008959749772282216}</pre>
 </div>
 
 </div>
@@ -13581,15 +13648,31 @@ SMae684a845f4149c69146f08905bea49f
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>So this is why the model is perfoming this terribly on test set. The model is overfitting quite severely. Let's try some regularization techniques and grid search to find the best parameters.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="First-Iteration">First Iteration<a class="anchor-link" href="#First-Iteration">&#182;</a></h4>
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[28]:</div>
+<div class="prompt input_prompt">In&nbsp;[65]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">xgboost</span> <span class="kn">import</span> <span class="n">XGBRegressor</span>
-<span class="n">xgbr</span> <span class="o">=</span> <span class="n">XGBRegressor</span><span class="p">(</span><span class="n">learning_rate</span> <span class="o">=</span> <span class="mf">0.2</span><span class="p">,</span> <span class="n">max_depth</span><span class="o">=</span> <span class="mi">5</span><span class="p">,</span> <span class="n">n_estimators</span><span class="o">=</span> <span class="mi">200</span><span class="p">)</span>
-<span class="n">train_model</span><span class="p">(</span><span class="n">xgbr</span><span class="p">,</span> <span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">),</span> <span class="p">(</span><span class="n">X_test</span><span class="p">,</span> <span class="n">y_test</span><span class="p">))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">param_grid</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;alpha&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.01</span><span class="p">,</span> <span class="mf">0.1</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">100</span><span class="p">],</span> <span class="s2">&quot;l1_ratio&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.1</span><span class="p">,</span><span class="mf">0.3</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">]}</span>
+<span class="n">base_model</span> <span class="o">=</span> <span class="n">ElasticNet</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">,</span> <span class="n">max_iter</span><span class="o">=</span><span class="mi">10000</span><span class="p">)</span>
+<span class="n">grid_model</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">base_model</span><span class="p">,</span> <span class="n">param_grid</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_squared_error&#39;</span><span class="p">,</span> <span class="n">verbose</span> <span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">grid_model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train_pf</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13606,53 +13689,10 @@ SMae684a845f4149c69146f08905bea49f
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The mean squared error for test data is 31681.9650536977
-The mean squared error for train data is 2310.540536515059
+<pre>Fitting 3 folds for each of 25 candidates, totalling 75 fits
 </pre>
 </div>
 </div>
-
-<div class="output_area">
-
-    <div class="prompt output_prompt">Out[28]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>XGBRegressor(base_score=0.5, booster=&#39;gbtree&#39;, colsample_bylevel=1,
-             colsample_bynode=1, colsample_bytree=1, enable_categorical=False,
-             gamma=0, gpu_id=-1, importance_type=None,
-             interaction_constraints=&#39;&#39;, learning_rate=0.2, max_delta_step=0,
-             max_depth=5, min_child_weight=1, missing=nan,
-             monotone_constraints=&#39;()&#39;, n_estimators=200, n_jobs=8,
-             num_parallel_tree=1, predictor=&#39;auto&#39;, random_state=0, reg_alpha=0,
-             reg_lambda=1, scale_pos_weight=1, subsample=1, tree_method=&#39;exact&#39;,
-             validate_parameters=1, verbosity=None)</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[31]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">svr</span> <span class="o">=</span> <span class="n">SVR</span><span class="p">()</span>
-<span class="n">train_model</span><span class="p">(</span><span class="n">svr</span><span class="p">,</span> <span class="p">(</span><span class="n">X_train_pf</span><span class="p">,</span> <span class="n">y_train</span><span class="p">),</span> <span class="p">(</span><span class="n">X_test_pf</span><span class="p">,</span> <span class="n">y_test</span><span class="p">))</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
 
 <div class="output_area">
 
@@ -13660,8 +13700,51 @@ The mean squared error for train data is 2310.540536515059
 
 
 <div class="output_subarea output_stream output_stderr output_text">
-<pre>C:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\utils\validation.py:72: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
-  return f(**kwargs)
+<pre>[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 15964233913.33287, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 11148153009.971884, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 14578441315.39559, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 13686306349.92343, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 9511674866.81752, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 12268890093.352386, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 11052220357.467463, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 7640164894.64723, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 9679520645.745272, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 7870637885.545815, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 5420635107.323833, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 6686576894.583503, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 3672377328.549008, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 2522193348.542012, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 2970730779.5348034, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 51908373497.819016, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 37095730712.38133, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 55429652815.21042, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 46609977694.84285, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 33294132622.291664, tolerance: 520047757.3023264
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 49054947348.28939, tolerance: 557182940.994468
+  model = cd_fast.enet_coordinate_descent(
+c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py:529: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations. Duality gap: 40041795594.83811, tolerance: 497311562.87730813
+  model = cd_fast.enet_coordinate_descent(
 </pre>
 </div>
 </div>
@@ -13671,22 +13754,475 @@ The mean squared error for train data is 2310.540536515059
     <div class="prompt"></div>
 
 
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
+<span class="ansi-red-intense-fg ansi-bold">KeyboardInterrupt</span>                         Traceback (most recent call last)
+<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-65-f09de8fea0c0&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
+<span class="ansi-green-fg">      2</span> base_model <span class="ansi-yellow-intense-fg ansi-bold">=</span> ElasticNet<span class="ansi-yellow-intense-fg ansi-bold">(</span>random_state<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-cyan-intense-fg ansi-bold">42</span><span class="ansi-yellow-intense-fg ansi-bold">,</span> max_iter<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-cyan-intense-fg ansi-bold">10000</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">      3</span> grid_model <span class="ansi-yellow-intense-fg ansi-bold">=</span> GridSearchCV<span class="ansi-yellow-intense-fg ansi-bold">(</span>base_model<span class="ansi-yellow-intense-fg ansi-bold">,</span> param_grid<span class="ansi-yellow-intense-fg ansi-bold">,</span> cv<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-cyan-intense-fg ansi-bold">3</span><span class="ansi-yellow-intense-fg ansi-bold">,</span> scoring<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-blue-intense-fg ansi-bold">&#39;neg_mean_squared_error&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">,</span> verbose <span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-cyan-intense-fg ansi-bold">1</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-intense-fg ansi-bold">----&gt; 4</span><span class="ansi-yellow-intense-fg ansi-bold"> </span>grid_model<span class="ansi-yellow-intense-fg ansi-bold">.</span>fit<span class="ansi-yellow-intense-fg ansi-bold">(</span>X_train_pf<span class="ansi-yellow-intense-fg ansi-bold">,</span> y_train<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\utils\validation.py</span> in <span class="ansi-cyan-fg">inner_f</span><span class="ansi-blue-intense-fg ansi-bold">(*args, **kwargs)</span>
+<span class="ansi-green-fg">     70</span>                           FutureWarning)
+<span class="ansi-green-fg">     71</span>         kwargs<span class="ansi-yellow-intense-fg ansi-bold">.</span>update<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">{</span>k<span class="ansi-yellow-intense-fg ansi-bold">:</span> arg <span class="ansi-green-intense-fg ansi-bold">for</span> k<span class="ansi-yellow-intense-fg ansi-bold">,</span> arg <span class="ansi-green-intense-fg ansi-bold">in</span> zip<span class="ansi-yellow-intense-fg ansi-bold">(</span>sig<span class="ansi-yellow-intense-fg ansi-bold">.</span>parameters<span class="ansi-yellow-intense-fg ansi-bold">,</span> args<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">}</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-intense-fg ansi-bold">---&gt; 72</span><span class="ansi-yellow-intense-fg ansi-bold">         </span><span class="ansi-green-intense-fg ansi-bold">return</span> f<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">**</span>kwargs<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">     73</span>     <span class="ansi-green-intense-fg ansi-bold">return</span> inner_f
+<span class="ansi-green-fg">     74</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\model_selection\_search.py</span> in <span class="ansi-cyan-fg">fit</span><span class="ansi-blue-intense-fg ansi-bold">(self, X, y, groups, **fit_params)</span>
+<span class="ansi-green-fg">    734</span>                 <span class="ansi-green-intense-fg ansi-bold">return</span> results
+<span class="ansi-green-fg">    735</span> 
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 736</span><span class="ansi-yellow-intense-fg ansi-bold">             </span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_run_search<span class="ansi-yellow-intense-fg ansi-bold">(</span>evaluate_candidates<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    737</span> 
+<span class="ansi-green-fg">    738</span>         <span class="ansi-red-intense-fg ansi-bold"># For multi-metric evaluation, store the best_index_, best_params_ and</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\model_selection\_search.py</span> in <span class="ansi-cyan-fg">_run_search</span><span class="ansi-blue-intense-fg ansi-bold">(self, evaluate_candidates)</span>
+<span class="ansi-green-fg">   1186</span>     <span class="ansi-green-intense-fg ansi-bold">def</span> _run_search<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">,</span> evaluate_candidates<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-fg">   1187</span>         <span class="ansi-blue-intense-fg ansi-bold">&#34;&#34;&#34;Search all candidates in param_grid&#34;&#34;&#34;</span>
+<span class="ansi-green-intense-fg ansi-bold">-&gt; 1188</span><span class="ansi-yellow-intense-fg ansi-bold">         </span>evaluate_candidates<span class="ansi-yellow-intense-fg ansi-bold">(</span>ParameterGrid<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>param_grid<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">   1189</span> 
+<span class="ansi-green-fg">   1190</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\model_selection\_search.py</span> in <span class="ansi-cyan-fg">evaluate_candidates</span><span class="ansi-blue-intense-fg ansi-bold">(candidate_params)</span>
+<span class="ansi-green-fg">    706</span>                               n_splits, n_candidates, n_candidates * n_splits))
+<span class="ansi-green-fg">    707</span> 
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 708</span><span class="ansi-yellow-intense-fg ansi-bold">                 out = parallel(delayed(_fit_and_score)(clone(base_estimator),
+</span><span class="ansi-green-fg">    709</span>                                                        X<span class="ansi-yellow-intense-fg ansi-bold">,</span> y<span class="ansi-yellow-intense-fg ansi-bold">,</span>
+<span class="ansi-green-fg">    710</span>                                                        train<span class="ansi-yellow-intense-fg ansi-bold">=</span>train<span class="ansi-yellow-intense-fg ansi-bold">,</span> test<span class="ansi-yellow-intense-fg ansi-bold">=</span>test<span class="ansi-yellow-intense-fg ansi-bold">,</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\parallel.py</span> in <span class="ansi-cyan-fg">__call__</span><span class="ansi-blue-intense-fg ansi-bold">(self, iterable)</span>
+<span class="ansi-green-fg">   1049</span>                 self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_iterating <span class="ansi-yellow-intense-fg ansi-bold">=</span> self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_original_iterator <span class="ansi-green-intense-fg ansi-bold">is</span> <span class="ansi-green-intense-fg ansi-bold">not</span> <span class="ansi-green-intense-fg ansi-bold">None</span>
+<span class="ansi-green-fg">   1050</span> 
+<span class="ansi-green-intense-fg ansi-bold">-&gt; 1051</span><span class="ansi-yellow-intense-fg ansi-bold">             </span><span class="ansi-green-intense-fg ansi-bold">while</span> self<span class="ansi-yellow-intense-fg ansi-bold">.</span>dispatch_one_batch<span class="ansi-yellow-intense-fg ansi-bold">(</span>iterator<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-fg">   1052</span>                 <span class="ansi-green-intense-fg ansi-bold">pass</span>
+<span class="ansi-green-fg">   1053</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\parallel.py</span> in <span class="ansi-cyan-fg">dispatch_one_batch</span><span class="ansi-blue-intense-fg ansi-bold">(self, iterator)</span>
+<span class="ansi-green-fg">    864</span>                 <span class="ansi-green-intense-fg ansi-bold">return</span> <span class="ansi-green-intense-fg ansi-bold">False</span>
+<span class="ansi-green-fg">    865</span>             <span class="ansi-green-intense-fg ansi-bold">else</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 866</span><span class="ansi-yellow-intense-fg ansi-bold">                 </span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_dispatch<span class="ansi-yellow-intense-fg ansi-bold">(</span>tasks<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    867</span>                 <span class="ansi-green-intense-fg ansi-bold">return</span> <span class="ansi-green-intense-fg ansi-bold">True</span>
+<span class="ansi-green-fg">    868</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\parallel.py</span> in <span class="ansi-cyan-fg">_dispatch</span><span class="ansi-blue-intense-fg ansi-bold">(self, batch)</span>
+<span class="ansi-green-fg">    782</span>         <span class="ansi-green-intense-fg ansi-bold">with</span> self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_lock<span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-fg">    783</span>             job_idx <span class="ansi-yellow-intense-fg ansi-bold">=</span> len<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_jobs<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 784</span><span class="ansi-yellow-intense-fg ansi-bold">             </span>job <span class="ansi-yellow-intense-fg ansi-bold">=</span> self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_backend<span class="ansi-yellow-intense-fg ansi-bold">.</span>apply_async<span class="ansi-yellow-intense-fg ansi-bold">(</span>batch<span class="ansi-yellow-intense-fg ansi-bold">,</span> callback<span class="ansi-yellow-intense-fg ansi-bold">=</span>cb<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    785</span>             <span class="ansi-red-intense-fg ansi-bold"># A job can complete so quickly than its callback is</span>
+<span class="ansi-green-fg">    786</span>             <span class="ansi-red-intense-fg ansi-bold"># called before we get here, causing self._jobs to</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\_parallel_backends.py</span> in <span class="ansi-cyan-fg">apply_async</span><span class="ansi-blue-intense-fg ansi-bold">(self, func, callback)</span>
+<span class="ansi-green-fg">    206</span>     <span class="ansi-green-intense-fg ansi-bold">def</span> apply_async<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">,</span> func<span class="ansi-yellow-intense-fg ansi-bold">,</span> callback<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-green-intense-fg ansi-bold">None</span><span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-fg">    207</span>         <span class="ansi-blue-intense-fg ansi-bold">&#34;&#34;&#34;Schedule a func to be run&#34;&#34;&#34;</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 208</span><span class="ansi-yellow-intense-fg ansi-bold">         </span>result <span class="ansi-yellow-intense-fg ansi-bold">=</span> ImmediateResult<span class="ansi-yellow-intense-fg ansi-bold">(</span>func<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    209</span>         <span class="ansi-green-intense-fg ansi-bold">if</span> callback<span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-fg">    210</span>             callback<span class="ansi-yellow-intense-fg ansi-bold">(</span>result<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\_parallel_backends.py</span> in <span class="ansi-cyan-fg">__init__</span><span class="ansi-blue-intense-fg ansi-bold">(self, batch)</span>
+<span class="ansi-green-fg">    570</span>         <span class="ansi-red-intense-fg ansi-bold"># Don&#39;t delay the application, to avoid keeping the input</span>
+<span class="ansi-green-fg">    571</span>         <span class="ansi-red-intense-fg ansi-bold"># arguments in memory</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 572</span><span class="ansi-yellow-intense-fg ansi-bold">         </span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>results <span class="ansi-yellow-intense-fg ansi-bold">=</span> batch<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    573</span> 
+<span class="ansi-green-fg">    574</span>     <span class="ansi-green-intense-fg ansi-bold">def</span> get<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\parallel.py</span> in <span class="ansi-cyan-fg">__call__</span><span class="ansi-blue-intense-fg ansi-bold">(self)</span>
+<span class="ansi-green-fg">    260</span>         <span class="ansi-red-intense-fg ansi-bold"># change the default number of processes to -1</span>
+<span class="ansi-green-fg">    261</span>         <span class="ansi-green-intense-fg ansi-bold">with</span> parallel_backend<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_backend<span class="ansi-yellow-intense-fg ansi-bold">,</span> n_jobs<span class="ansi-yellow-intense-fg ansi-bold">=</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_n_jobs<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 262</span><span class="ansi-yellow-intense-fg ansi-bold">             return [func(*args, **kwargs)
+</span><span class="ansi-green-fg">    263</span>                     for func, args, kwargs in self.items]
+<span class="ansi-green-fg">    264</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\joblib\parallel.py</span> in <span class="ansi-cyan-fg">&lt;listcomp&gt;</span><span class="ansi-blue-intense-fg ansi-bold">(.0)</span>
+<span class="ansi-green-fg">    260</span>         <span class="ansi-red-intense-fg ansi-bold"># change the default number of processes to -1</span>
+<span class="ansi-green-fg">    261</span>         <span class="ansi-green-intense-fg ansi-bold">with</span> parallel_backend<span class="ansi-yellow-intense-fg ansi-bold">(</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_backend<span class="ansi-yellow-intense-fg ansi-bold">,</span> n_jobs<span class="ansi-yellow-intense-fg ansi-bold">=</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_n_jobs<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 262</span><span class="ansi-yellow-intense-fg ansi-bold">             return [func(*args, **kwargs)
+</span><span class="ansi-green-fg">    263</span>                     for func, args, kwargs in self.items]
+<span class="ansi-green-fg">    264</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\model_selection\_validation.py</span> in <span class="ansi-cyan-fg">_fit_and_score</span><span class="ansi-blue-intense-fg ansi-bold">(estimator, X, y, scorer, train, test, verbose, parameters, fit_params, return_train_score, return_parameters, return_n_test_samples, return_times, return_estimator, error_score)</span>
+<span class="ansi-green-fg">    529</span>             estimator<span class="ansi-yellow-intense-fg ansi-bold">.</span>fit<span class="ansi-yellow-intense-fg ansi-bold">(</span>X_train<span class="ansi-yellow-intense-fg ansi-bold">,</span> <span class="ansi-yellow-intense-fg ansi-bold">**</span>fit_params<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    530</span>         <span class="ansi-green-intense-fg ansi-bold">else</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 531</span><span class="ansi-yellow-intense-fg ansi-bold">             </span>estimator<span class="ansi-yellow-intense-fg ansi-bold">.</span>fit<span class="ansi-yellow-intense-fg ansi-bold">(</span>X_train<span class="ansi-yellow-intense-fg ansi-bold">,</span> y_train<span class="ansi-yellow-intense-fg ansi-bold">,</span> <span class="ansi-yellow-intense-fg ansi-bold">**</span>fit_params<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    532</span> 
+<span class="ansi-green-fg">    533</span>     <span class="ansi-green-intense-fg ansi-bold">except</span> Exception <span class="ansi-green-intense-fg ansi-bold">as</span> e<span class="ansi-yellow-intense-fg ansi-bold">:</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py</span> in <span class="ansi-cyan-fg">fit</span><span class="ansi-blue-intense-fg ansi-bold">(self, X, y, sample_weight, check_input)</span>
+<span class="ansi-green-fg">    830</span>                 this_Xy <span class="ansi-yellow-intense-fg ansi-bold">=</span> <span class="ansi-green-intense-fg ansi-bold">None</span>
+<span class="ansi-green-fg">    831</span>             _<span class="ansi-yellow-intense-fg ansi-bold">,</span> this_coef<span class="ansi-yellow-intense-fg ansi-bold">,</span> this_dual_gap<span class="ansi-yellow-intense-fg ansi-bold">,</span> this_iter <span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-red-fg"> </span><span class="ansi-red-fg">\</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 832</span><span class="ansi-yellow-intense-fg ansi-bold">                 self.path(X, y[:, k],
+</span><span class="ansi-green-fg">    833</span>                           l1_ratio<span class="ansi-yellow-intense-fg ansi-bold">=</span>self<span class="ansi-yellow-intense-fg ansi-bold">.</span>l1_ratio<span class="ansi-yellow-intense-fg ansi-bold">,</span> eps<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-green-intense-fg ansi-bold">None</span><span class="ansi-yellow-intense-fg ansi-bold">,</span>
+<span class="ansi-green-fg">    834</span>                           n_alphas<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-green-intense-fg ansi-bold">None</span><span class="ansi-yellow-intense-fg ansi-bold">,</span> alphas<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-yellow-intense-fg ansi-bold">[</span>alpha<span class="ansi-yellow-intense-fg ansi-bold">]</span><span class="ansi-yellow-intense-fg ansi-bold">,</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\utils\validation.py</span> in <span class="ansi-cyan-fg">inner_f</span><span class="ansi-blue-intense-fg ansi-bold">(*args, **kwargs)</span>
+<span class="ansi-green-fg">     70</span>                           FutureWarning)
+<span class="ansi-green-fg">     71</span>         kwargs<span class="ansi-yellow-intense-fg ansi-bold">.</span>update<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">{</span>k<span class="ansi-yellow-intense-fg ansi-bold">:</span> arg <span class="ansi-green-intense-fg ansi-bold">for</span> k<span class="ansi-yellow-intense-fg ansi-bold">,</span> arg <span class="ansi-green-intense-fg ansi-bold">in</span> zip<span class="ansi-yellow-intense-fg ansi-bold">(</span>sig<span class="ansi-yellow-intense-fg ansi-bold">.</span>parameters<span class="ansi-yellow-intense-fg ansi-bold">,</span> args<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">}</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-intense-fg ansi-bold">---&gt; 72</span><span class="ansi-yellow-intense-fg ansi-bold">         </span><span class="ansi-green-intense-fg ansi-bold">return</span> f<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">**</span>kwargs<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">     73</span>     <span class="ansi-green-intense-fg ansi-bold">return</span> inner_f
+<span class="ansi-green-fg">     74</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py</span> in <span class="ansi-cyan-fg">enet_path</span><span class="ansi-blue-intense-fg ansi-bold">(X, y, l1_ratio, eps, n_alphas, alphas, precompute, Xy, copy_X, coef_init, verbose, return_n_iter, positive, check_input, **params)</span>
+<span class="ansi-green-fg">    527</span>                 tol, rng, random, positive)
+<span class="ansi-green-fg">    528</span>         <span class="ansi-green-intense-fg ansi-bold">elif</span> precompute <span class="ansi-green-intense-fg ansi-bold">is</span> <span class="ansi-green-intense-fg ansi-bold">False</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 529</span><span class="ansi-yellow-intense-fg ansi-bold">             model = cd_fast.enet_coordinate_descent(
+</span><span class="ansi-green-fg">    530</span>                 coef_<span class="ansi-yellow-intense-fg ansi-bold">,</span> l1_reg<span class="ansi-yellow-intense-fg ansi-bold">,</span> l2_reg<span class="ansi-yellow-intense-fg ansi-bold">,</span> X<span class="ansi-yellow-intense-fg ansi-bold">,</span> y<span class="ansi-yellow-intense-fg ansi-bold">,</span> max_iter<span class="ansi-yellow-intense-fg ansi-bold">,</span> tol<span class="ansi-yellow-intense-fg ansi-bold">,</span> rng<span class="ansi-yellow-intense-fg ansi-bold">,</span> random<span class="ansi-yellow-intense-fg ansi-bold">,</span>
+<span class="ansi-green-fg">    531</span>                 positive)
+
+<span class="ansi-green-intense-fg ansi-bold">sklearn\linear_model\_cd_fast.pyx</span> in <span class="ansi-cyan-fg">sklearn.linear_model._cd_fast.enet_coordinate_descent</span><span class="ansi-blue-intense-fg ansi-bold">()</span>
+
+<span class="ansi-red-intense-fg ansi-bold">KeyboardInterrupt</span>: </pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[54]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">grid_model</span><span class="o">.</span><span class="n">best_params_</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[54]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{&#39;alpha&#39;: 1, &#39;l1_ratio&#39;: 0.5}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Second-Iteration">Second Iteration<a class="anchor-link" href="#Second-Iteration">&#182;</a></h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[55]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">param_grid</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;alpha&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.8</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">5</span><span class="p">],</span> <span class="s2">&quot;l1_ratio&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.4</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.6</span><span class="p">,]}</span>
+<span class="n">base_model</span> <span class="o">=</span> <span class="n">ElasticNet</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">,</span> <span class="n">max_iter</span><span class="o">=</span><span class="mi">10000</span><span class="p">)</span>
+<span class="n">grid_model</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">base_model</span><span class="p">,</span> <span class="n">param_grid</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_squared_error&#39;</span><span class="p">)</span>
+<span class="n">grid_model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[55]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>GridSearchCV(cv=3, estimator=ElasticNet(max_iter=10000, random_state=42),
+             param_grid={&#39;alpha&#39;: [0.8, 1, 2, 5], &#39;l1_ratio&#39;: [0.4, 0.5, 0.6]},
+             scoring=&#39;neg_mean_squared_error&#39;)</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[56]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">grid_model</span><span class="o">.</span><span class="n">best_params_</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[56]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{&#39;alpha&#39;: 0.8, &#39;l1_ratio&#39;: 0.5}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Third-Iteration">Third Iteration<a class="anchor-link" href="#Third-Iteration">&#182;</a></h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[59]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">param_grid</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;alpha&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.6</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">,</span> <span class="mf">0.8</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">],</span> <span class="s2">&quot;l1_ratio&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.45</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.55</span><span class="p">,]}</span>
+<span class="n">base_model</span> <span class="o">=</span> <span class="n">ElasticNet</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">,</span> <span class="n">max_iter</span><span class="o">=</span><span class="mi">10000</span><span class="p">)</span>
+<span class="n">grid_model</span> <span class="o">=</span> <span class="n">GridSearchCV</span><span class="p">(</span><span class="n">base_model</span><span class="p">,</span> <span class="n">param_grid</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;neg_mean_squared_error&#39;</span><span class="p">)</span>
+<span class="n">grid_model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[59]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>GridSearchCV(cv=3, estimator=ElasticNet(max_iter=10000, random_state=42),
+             param_grid={&#39;alpha&#39;: [0.6, 0.7, 0.8, 0.9],
+                         &#39;l1_ratio&#39;: [0.45, 0.5, 0.55]},
+             scoring=&#39;neg_mean_squared_error&#39;)</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[60]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">grid_model</span><span class="o">.</span><span class="n">best_params_</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[60]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>{&#39;alpha&#39;: 0.8, &#39;l1_ratio&#39;: 0.45}</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>This is the final parameters that we have selected.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[61]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">el_net_best_model</span> <span class="o">=</span> <span class="n">grid_model</span><span class="o">.</span><span class="n">best_estimator_</span>
+<span class="n">el_net_best_model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[61]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>ElasticNet(alpha=0.8, l1_ratio=0.45, max_iter=10000, random_state=42)</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[62]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y_pred</span> <span class="o">=</span> <span class="n">el_net_best_model</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test_pf</span><span class="p">)</span>
+<span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_test</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
+<span class="ansi-red-intense-fg ansi-bold">ValueError</span>                                Traceback (most recent call last)
+<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-62-262699843806&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
+<span class="ansi-green-intense-fg ansi-bold">----&gt; 1</span><span class="ansi-yellow-intense-fg ansi-bold"> </span>y_pred <span class="ansi-yellow-intense-fg ansi-bold">=</span> el_net_best_model<span class="ansi-yellow-intense-fg ansi-bold">.</span>predict<span class="ansi-yellow-intense-fg ansi-bold">(</span>X_test_pf<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">      2</span> evaluate_model<span class="ansi-yellow-intense-fg ansi-bold">(</span>y_test<span class="ansi-yellow-intense-fg ansi-bold">,</span> y_pred<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_base.py</span> in <span class="ansi-cyan-fg">predict</span><span class="ansi-blue-intense-fg ansi-bold">(self, X)</span>
+<span class="ansi-green-fg">    234</span>             Returns predicted values<span class="ansi-yellow-intense-fg ansi-bold">.</span>
+<span class="ansi-green-fg">    235</span>         &#34;&#34;&#34;
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 236</span><span class="ansi-yellow-intense-fg ansi-bold">         </span><span class="ansi-green-intense-fg ansi-bold">return</span> self<span class="ansi-yellow-intense-fg ansi-bold">.</span>_decision_function<span class="ansi-yellow-intense-fg ansi-bold">(</span>X<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    237</span> 
+<span class="ansi-green-fg">    238</span>     _preprocess_data <span class="ansi-yellow-intense-fg ansi-bold">=</span> staticmethod<span class="ansi-yellow-intense-fg ansi-bold">(</span>_preprocess_data<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_coordinate_descent.py</span> in <span class="ansi-cyan-fg">_decision_function</span><span class="ansi-blue-intense-fg ansi-bold">(self, X)</span>
+<span class="ansi-green-fg">    884</span>                                    dense_output=True) + self.intercept_
+<span class="ansi-green-fg">    885</span>         <span class="ansi-green-intense-fg ansi-bold">else</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 886</span><span class="ansi-yellow-intense-fg ansi-bold">             </span><span class="ansi-green-intense-fg ansi-bold">return</span> super<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">.</span>_decision_function<span class="ansi-yellow-intense-fg ansi-bold">(</span>X<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    887</span> 
+<span class="ansi-green-fg">    888</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\linear_model\_base.py</span> in <span class="ansi-cyan-fg">_decision_function</span><span class="ansi-blue-intense-fg ansi-bold">(self, X)</span>
+<span class="ansi-green-fg">    217</span> 
+<span class="ansi-green-fg">    218</span>         X <span class="ansi-yellow-intense-fg ansi-bold">=</span> check_array<span class="ansi-yellow-intense-fg ansi-bold">(</span>X<span class="ansi-yellow-intense-fg ansi-bold">,</span> accept_sparse<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-yellow-intense-fg ansi-bold">[</span><span class="ansi-blue-intense-fg ansi-bold">&#39;csr&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">,</span> <span class="ansi-blue-intense-fg ansi-bold">&#39;csc&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">,</span> <span class="ansi-blue-intense-fg ansi-bold">&#39;coo&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">]</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 219</span><span class="ansi-yellow-intense-fg ansi-bold">         return safe_sparse_dot(X, self.coef_.T,
+</span><span class="ansi-green-fg">    220</span>                                dense_output=True) + self.intercept_
+<span class="ansi-green-fg">    221</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\utils\validation.py</span> in <span class="ansi-cyan-fg">inner_f</span><span class="ansi-blue-intense-fg ansi-bold">(*args, **kwargs)</span>
+<span class="ansi-green-fg">     70</span>                           FutureWarning)
+<span class="ansi-green-fg">     71</span>         kwargs<span class="ansi-yellow-intense-fg ansi-bold">.</span>update<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">{</span>k<span class="ansi-yellow-intense-fg ansi-bold">:</span> arg <span class="ansi-green-intense-fg ansi-bold">for</span> k<span class="ansi-yellow-intense-fg ansi-bold">,</span> arg <span class="ansi-green-intense-fg ansi-bold">in</span> zip<span class="ansi-yellow-intense-fg ansi-bold">(</span>sig<span class="ansi-yellow-intense-fg ansi-bold">.</span>parameters<span class="ansi-yellow-intense-fg ansi-bold">,</span> args<span class="ansi-yellow-intense-fg ansi-bold">)</span><span class="ansi-yellow-intense-fg ansi-bold">}</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-intense-fg ansi-bold">---&gt; 72</span><span class="ansi-yellow-intense-fg ansi-bold">         </span><span class="ansi-green-intense-fg ansi-bold">return</span> f<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-yellow-intense-fg ansi-bold">**</span>kwargs<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">     73</span>     <span class="ansi-green-intense-fg ansi-bold">return</span> inner_f
+<span class="ansi-green-fg">     74</span> 
+
+<span class="ansi-green-intense-fg ansi-bold">c:\Users\harik\anaconda3\envs\data_sciences\lib\site-packages\sklearn\utils\extmath.py</span> in <span class="ansi-cyan-fg">safe_sparse_dot</span><span class="ansi-blue-intense-fg ansi-bold">(a, b, dense_output)</span>
+<span class="ansi-green-fg">    151</span>             ret <span class="ansi-yellow-intense-fg ansi-bold">=</span> np<span class="ansi-yellow-intense-fg ansi-bold">.</span>dot<span class="ansi-yellow-intense-fg ansi-bold">(</span>a<span class="ansi-yellow-intense-fg ansi-bold">,</span> b<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+<span class="ansi-green-fg">    152</span>     <span class="ansi-green-intense-fg ansi-bold">else</span><span class="ansi-yellow-intense-fg ansi-bold">:</span>
+<span class="ansi-green-intense-fg ansi-bold">--&gt; 153</span><span class="ansi-yellow-intense-fg ansi-bold">         </span>ret <span class="ansi-yellow-intense-fg ansi-bold">=</span> a <span class="ansi-yellow-intense-fg ansi-bold">@</span> b
+<span class="ansi-green-fg">    154</span> 
+<span class="ansi-green-fg">    155</span>     if (sparse.issparse(a) and sparse.issparse(b)
+
+<span class="ansi-red-intense-fg ansi-bold">ValueError</span>: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)-&gt;(n?,m?) (size 95 is different from 4656)</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[50]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">evaluate_model</span><span class="p">(</span><span class="n">y_train</span><span class="p">,</span> <span class="n">el_net</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_train_pf</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The mean squared error for test data is 97630.5380446875
-The mean squared error for train data is 78442.02991539075
+<pre>rmse: 9501.954771838984
+R2: 0.9849317806911022
+Ratio: 0.05258276604347236
 </pre>
 </div>
 </div>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[31]:</div>
+    <div class="prompt output_prompt">Out[50]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>SVR()</pre>
+<pre>{&#39;rmse&#39;: 9501.954771838984,
+ &#39;r2&#39;: 0.9849317806911022,
+ &#39;ratio&#39;: 0.05258276604347236}</pre>
 </div>
 
 </div>
