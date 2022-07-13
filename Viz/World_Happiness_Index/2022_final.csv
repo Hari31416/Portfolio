@@ -1,0 +1,147 @@
+Happiness Rank,Country,Happiness Score,Dystopia Residual
+1,Finland,7.821,2.518
+2,Denmark,7.636,2.226
+3,Iceland,7.557,2.32
+4,Switzerland,7.512,2.153
+5,Netherlands,7.415,2.137
+6,Luxembourg*,7.404,2.042
+7,Sweden,7.384,2.003
+8,Norway,7.365,1.925
+9,Israel,7.364,2.634
+10,New Zealand,7.2,1.954
+11,Austria,7.163,2.148
+12,Australia,7.162,2.011
+13,Ireland,7.041,1.743
+14,Germany,7.034,2.142
+15,Canada,7.025,1.924
+16,United States,6.977,2.214
+17,United Kingdom,6.943,1.967
+18,Czechia,6.92,2.263
+19,Belgium,6.805,2.283
+20,France,6.687,1.895
+21,Bahrain,6.647,2.092
+22,Slovenia,6.63,1.885
+23,Costa Rica,6.582,2.346
+24,United Arab Emirates,6.576,1.809
+25,Saudi Arabia,6.523,2.075
+26,Taiwan Province of China,6.512,2.002
+27,Singapore,6.48,0.932
+28,Romania,6.477,2.446
+29,Spain,6.476,1.893
+30,Uruguay,6.474,1.974
+31,Italy,6.467,2.222
+32,Kosovo,6.455,2.631
+33,Malta,6.447,1.631
+34,Lithuania,6.446,2.153
+35,Slovakia,6.391,2.094
+36,Estonia,6.341,1.442
+37,Panama,6.309,2.086
+38,Brazil,6.293,2.361
+39,Guatemala*,6.262,2.746
+40,Kazakhstan,6.234,1.86
+41,Cyprus,6.221,2.044
+42,Latvia,6.18,1.923
+43,Serbia,6.178,2.031
+44,Chile,6.172,2.04
+45,Nicaragua,6.165,2.418
+46,Mexico,6.128,2.239
+47,Croatia,6.125,1.884
+48,Poland,6.123,1.693
+49,El Salvador,6.12,2.514
+50,Kuwait*,6.106,1.621
+51,Hungary,6.086,1.812
+52,Mauritius,6.071,1.969
+53,Uzbekistan,6.063,1.913
+54,Japan,6.039,1.487
+55,Honduras,6.022,2.611
+56,Portugal,6.016,1.691
+57,Argentina,5.967,1.891
+58,Greece,5.948,2.119
+59,South Korea,5.935,1.656
+60,Philippines,5.904,2.283
+61,Thailand,5.891,1.6
+62,Moldova,5.857,2.142
+63,Jamaica,5.85,2.164
+64,Kyrgyzstan,5.828,2.087
+65,Belarus*,5.821,1.811
+66,Colombia,5.781,1.971
+67,Bosnia and Herzegovina,5.768,1.869
+68,Mongolia,5.761,1.999
+69,Dominican Republic,5.737,1.751
+70,Malaysia,5.711,1.471
+71,Bolivia,5.6,2.107
+72,China,5.585,1.516
+73,Paraguay,5.578,1.555
+74,Peru,5.559,1.89
+75,Montenegro,5.547,1.619
+76,Ecuador,5.533,1.866
+77,Vietnam,5.485,1.735
+78,Turkmenistan*,5.474,1.16
+79,North Cyprus*,5.467,1.078
+80,Russia,5.459,1.494
+81,Hong Kong S.A.R. of China,5.425,0.642
+82,Armenia,5.399,1.654
+83,Tajikistan,5.377,1.895
+84,Nepal,5.377,2.224
+85,Bulgaria,5.371,1.235
+86,Libya*,5.33,1.544
+87,Indonesia,5.24,1.3
+88,Ivory Coast,5.235,2.652
+89,North Macedonia,5.199,1.461
+90,Albania,5.199,1.718
+91,South Africa,5.194,1.742
+92,Azerbaijan*,5.173,1.098
+93,Gambia*,5.164,2.531
+94,Bangladesh,5.155,1.967
+95,Laos,5.14,1.709
+96,Algeria,5.122,1.744
+97,Liberia*,5.122,2.844
+98,Ukraine,5.084,1.331
+99,Congo,5.075,2.658
+100,Morocco,5.06,2.405
+101,Mozambique,5.048,2.641
+102,Cameroon,5.048,2.469
+103,Senegal,5.046,2.419
+104,Niger*,5.003,2.667
+105,Georgia,4.973,1.583
+106,Gabon,4.958,1.892
+107,Iraq,4.941,1.894
+108,Venezuela,4.925,2.79
+109,Guinea,4.891,2.538
+110,Iran,4.888,1.427
+111,Ghana,4.872,1.972
+112,Turkey,4.744,1.059
+113,Burkina Faso,4.67,2.313
+114,Cambodia,4.64,1.41
+115,Benin,4.623,2.458
+116,Comoros*,4.609,2.304
+117,Uganda,4.603,1.842
+118,Nigeria,4.552,1.784
+119,Kenya,4.543,1.661
+120,Tunisia,4.516,1.54
+121,Pakistan,4.516,1.94
+122,Palestinian Territories*,4.483,1.368
+123,Mali,4.479,2.373
+124,Namibia,4.459,1.414
+125,"Eswatini, Kingdom of*",4.396,1.688
+126,Myanmar,4.394,0.877
+127,Sri Lanka,4.362,0.595
+128,Madagascar*,4.339,2.148
+129,Egypt,4.288,0.856
+130,Chad*,4.251,2.419
+131,Ethiopia,4.241,1.375
+132,Yemen*,4.197,1.561
+133,Mauritania*,4.153,1.207
+134,Jordan,4.152,0.695
+135,Togo,4.112,2.061
+136,India,3.777,0.795
+137,Zambia,3.76,1.135
+138,Malawi,3.75,1.661
+139,Tanzania,3.702,0.735
+140,Sierra Leone,3.574,1.556
+141,Lesotho*,3.512,1.312
+142,Botswana*,3.471,0.187
+143,Rwanda*,3.268,0.536
+144,Zimbabwe,2.995,0.548
+145,Lebanon,2.955,0.216
+146,Afghanistan,2.404,1.263
