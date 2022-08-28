@@ -1,6 +1,7 @@
 *.pdf
 *ipynb_checkpoints
-*pycache*
+*__pycache__*
 CV
 *checkpoints
+*vscode
 ML/Store_Sales/data/train.csv
