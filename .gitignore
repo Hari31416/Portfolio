@@ -1,7 +1,6 @@
+*vscode
 *.pdf
 *ipynb_checkpoints
 *__pycache__*
 CV
-*checkpoints
-*vscode
 ML/Store_Sales/data/train.csv
