@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 :root {
-  --red: rgb(206, 79, 79);
+  --green: rgb(26, 116, 16);
   --blue: rgb(5, 5, 199);
 }
 
@@ -11,15 +11,73 @@ body {
   background-repeat: repeat-y;
 }
 
+hr{
+  border-color: rgba(189, 220, 245, 0.555);
+  border-style: solid;
+  border-width: 0.5px;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+
+  to {
+    width: 14em;
+  }
+}
+
+@keyframes blink-caret {
+
+  from,
+  to {
+    border-color: transparent;
+  }
+
+  50% {
+    border-color: var(--green);
+  }
+}
+
 #heading {
+  width: fit-content;
   font-family: "Shizuru", cursive;
-  color: var(--red);
+  color: var(--green);
   font-size: 3.5rem;
+}
+
+.motto h1{
+  width:fit-content;
+  font-family: "Shizuru", cursive;
+  color: var(--green);
+  font-size: 3.5rem;
+  overflow: hidden;
+  border-right: .1em solid var(--green);
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .05em;
+  animation:
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.fade-in{
+  animation: fadeIn ease 4s;
 }
 
 #banner {
   height: 100vh;
 }
+
 #navbar{
   font-family: 'Aboreto', cursive;
 }
@@ -40,39 +98,92 @@ li h2:hover {
 
 #navbar a {
   text-decoration: none;
-  color: var(--red);
+  color: var(--green);
 }
 
 a {
   text-decoration: none;
   color: var(--blue);
 }
+
 a:hover {
-  color: var(--red);
+  color: var(--green);
+}
+
+#social-images>a:hover{
+  color: var(--green);
+}
+
+#social-images>a {
+  text-decoration: none;
+  /* font-size: 22px; */
+  color: var(--blue);
 }
 
 li:last-child {
   margin-bottom: 30px;
 }
 
-.card-body .card-hidden {
-  display: none;
-  font-size: 0.9rem;
-  transition: display;
+@keyframes animation-left {
+  0% {
+    right: 40vw;
+  }
+  100% {
+    right: 0px;
+  }
 }
-.card-body:hover .card-hidden {
-  display: block;
+
+@keyframes animation-right {
+  0% {
+    left: 40vw;
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+.cards-animation-left{
+  position: relative;
+  animation: animation-left 2.0s ease;
+}
+
+.cards-animation-right {
+  position: relative;
+  animation: animation-right 2.0s ease;
 }
 
 .card-img-top {
   height: 200px;
   object-fit: cover;
-  transition: height 1s;
-}
-.card:hover .card-img-top {
-  height: 300px;
+  transition: all 1s;
 }
 
+.card:hover .card-img-top {
+  height: 250px;
+}
+
+.service-1,
+.service-2,
+.service-3,
+.service-4{
+  transition: all 1s;
+}
+
+.service-1:hover, .service-3:hover{
+box-shadow: 10px 10px #696b6b4e;
+  transform: scale(1.05) rotate(1.0deg);
+}
+
+.service-2:hover,
+.service-4:hover {
+  box-shadow: 10px 10px #696b6b4e;
+  transform: scale(1.05) rotate(-1.0deg);
+}
+
+#profile-pic{
+  height: 20%;
+  width:20%;
+}
 #construction {
   box-shadow: 10px 10px #797977;
 }
