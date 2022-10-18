@@ -1,7 +1,7 @@
 "use strict";
 
-const lefty = ["#ml", "#viz", ".service-1", ".service-3"];
-const righty = ["#dl", "#web", ".service-2", ".service-4"];
+const lefty = ["#ml", "#web", ".service-1", ".service-3"];
+const righty = ["#dl", "#viz", ".service-2", ".service-4"];
 
 const observerFadeIN = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
