@@ -1,203 +1,211 @@
-Book Id,Title,Author,ISBN,ISBN13,My Rating,Average Rating,Publisher,Number of Pages,Year Published,Original Publication Year,Date Read,Date Added,Bookshelves,Read Count,Series
-12432220,"The False Prince (Ascendance, #1)",Jennifer A. Nielsen,0545284139,9780545284134.0,5,4.22,"Scholastic, Inc.",342,2012.0,2012.0,2022-12-22,2022-12-21,read,1,Ascendance
-28588345,"The Midnight Star (The Young Elites, #3)",Marie Lu,0399167854,9780399167850.0,4,4.12,G.P. Putnam's Sons Books for Young Readers,316,2016.0,2016.0,2022-12-21,2021-04-18,read,1,The Young Elites
-53023305,"Amari and the Great Game (Supernatural Investigations, #2)",B.B. Alston,,,5,4.41,Balzer + Bray,400,2022.0,2022.0,2022-12-19,2022-12-16,read,1,Supernatural Investigations
-23846013,"The Rose Society (The Young Elites, #2)",Marie Lu,0399167846,9780399167843.0,5,4.04,G.P. Putnam's Sons Books for Young Readers,398,2015.0,2015.0,2022-12-18,2021-04-18,read,1,The Young Elites
-20821111,"The Young Elites (The Young Elites, #1)",Marie Lu,0399167838,9780399167836.0,4,3.88,G.P. Putnam’s Sons Books for Young Readers,355,2014.0,2014.0,2022-12-17,2021-04-18,"try_it_later, read",1,The Young Elites
-53240817,"Amari and the Night Brothers (Supernatural Investigations, #1)",B.B. Alston,,,4,4.43,Balzer + Bray,416,2021.0,2021.0,2022-12-16,2022-12-16,read,1,Supernatural Investigations
-23106013,"Battle Ground (The Dresden Files, #17)",Jim Butcher,0593199308,9780593199305.0,5,4.41,Ace,418,2020.0,2020.0,2022-12-16,2022-08-02,read,1,The Dresden Files
-33986067,Deep Learning with Python,François Chollet,1617294438,9781617294433.0,5,4.58,Manning,350,2017.0,2017.0,2022-12-15,2021-12-17,"data_science, read",1,Stand Alone
-19486421,"Skin Game (The Dresden Files, #15)",Jim Butcher,0451464397,9780451464392.0,5,4.56,Roc,454,2014.0,2014.0,2022-10-21,2021-04-21,read,1,The Dresden Files
-49381341,"Peace Talks (The Dresden Files, #16)",Jim Butcher,0451464419,9780451464415.0,5,4.21,Ace,340,2020.0,2020.0,2022-11-09,2021-04-21,read,1,The Dresden Files
-23947089,"The Lost Metal (Mistborn, #7)",Brandon Sanderson,0765391198,9780765391193.0,5,4.53,Tor Books,507,2022.0,2022.0,2022-11-20,2020-07-03,read,1,Mistborn
-59808314,"Bastille vs. the Evil Librarians (Alcatraz vs. the Evil Librarians, #6)",Brandon Sanderson,1250811066,9781250811066.0,5,4.13,Starscape,256,2022.0,2022.0,2022-10-02,2022-10-01,read,1,Alcatraz vs. the Evil Librarians
-12216302,"Cold Days (The Dresden Files, #14)",Jim Butcher,0451464400,9780451464408.0,5,4.48,Penguin Group (USA),515,2012.0,2012.0,2022-09-03,2021-04-21,read,1,The Dresden Files
-8058301,"Ghost Story (The Dresden Files, #13)",Jim Butcher,045146379X,9780451463791.0,4,4.25,Roc Hardcover,481,2011.0,2011.0,2022-08-10,2022-08-02,read,1,The Dresden Files
-6585201,"Changes (The Dresden Files, #12)",Jim Butcher,045146317X,9780451463173.0,5,4.5,Roc,438,2010.0,2010.0,2022-08-01,2021-04-21,read,1,The Dresden Files
-3475161,"Turn Coat (The Dresden Files, #11)",Jim Butcher,0451462564,9780451462565.0,5,4.44,Roc,418,2009.0,2009.0,2022-07-20,2021-04-21,read,1,The Dresden Files
-927979,"Small Favor (The Dresden Files, #10)",Jim Butcher,0451461894,9780451461896.0,5,4.44,Roc,545,2008.0,2008.0,2022-06-21,2021-04-21,read,1,The Dresden Files
-17397466,An Introduction to Statistical Learning: With Applications in R,Gareth James,1461471370,9781461471370.0,5,4.6,Springer,426,2017.0,2013.0,2022-06-08,2021-11-21,"data_science, read",1,Stand Alone
-91475,"White Night (The Dresden Files, #9)",Jim Butcher,0451461401,9780451461407.0,5,4.39,Roc,407,2007.0,2007.0,2022-06-04,2021-04-21,read,1,The Dresden Files
-25877663,"Babylon's Ashes (The Expanse, #6)",James S.A. Corey,0356504263,9780356504261.0,5,4.24,Orbit,538,2016.0,2016.0,2022-05-30,2022-01-23,read,1,The Expanse
-17683,"Dead Beat (The Dresden Files, #7)",Jim Butcher,045146091X,9780451460912.0,5,4.41,Roc,517,2006.0,2005.0,2022-05-19,2021-04-21,read,1,The Dresden Files
-22886612,"Nemesis Games (The Expanse, #5)",James S.A. Corey,,,5,4.43,Orbit,536,2015.0,2015.0,2022-05-08,2022-01-23,read,1,The Expanse
-99383,"Blood Rites (The Dresden Files, #6)",Jim Butcher,0451459873,9780451459879.0,4,4.3,Roc,372,2004.0,2004.0,2022-04-30,2021-04-21,read,1,The Dresden Files
-91479,"Death Masks (The Dresden Files, #5)",Jim Butcher,0451459407,9780451459404.0,5,4.29,Roc,432,2003.0,2003.0,2022-04-21,2021-04-21,read,1,The Dresden Files
-18656030,"Cibola Burn (The Expanse, #4)",James S.A. Corey,,,5,4.21,Orbit,581,2014.0,2014.0,2022-04-17,2022-01-23,read,1,The Expanse
-55262194,The Lightning Tree,Patrick Rothfuss,,,4,4.0,,93,2014.0,2014.0,2022-04-16,2022-04-16,read,1,Stand Alone
-16131032,"Abaddon's Gate (The Expanse, #3)",James S.A. Corey,,,5,4.26,Orbit,539,2013.0,2013.0,2022-02-24,2022-01-23,read,1,The Expanse
-12591698,"Caliban's War (The Expanse, #2)",James S.A. Corey,1841499900,9781841499901.0,5,4.37,"Orbit/Little, Brown Book Group",624,2012.0,2012.0,2022-01-28,2022-01-23,read,1,The Expanse
-8855321,"Leviathan Wakes (The Expanse, #1)",James S.A. Corey,1841499889,9781841499888.0,5,4.29,Orbit,592,2011.0,2011.0,2022-01-23,2021-10-30,read,1,The Expanse
-58465495,"Evershore (Skyward, #3.1)",Brandon Sanderson,,9780593566633.0,5,4.42,Delacorte Press,234,2021.0,2021.0,2022-01-06,2021-11-22,read,1,Skyward
-22514127,Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Al Sweigart,1593275994,9781593275990.0,5,4.29,No Starch Press,479,2015.0,2014.0,2021-11-29,2021-11-21,"programming, read",1,Stand Alone
-34601024,"Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",Aurélien Géron,,,5,4.56,O'Reilly Media,566,2017.0,2017.0,2021-12-17,2021-11-27,"data_science, read",1,Stand Alone
-57094644,Daughter of the Deep,Rick Riordan,1368077927,9781368077927.0,5,4.24,Disney-Hyperion,352,2021.0,2021.0,2021-12-22,2021-09-21,read,1,Stand Alone
-44492285,"Dune Messiah (Dune, #2)",Frank Herbert,0593098234,9780593098233.0,4,3.89,Ace Books,337,2019.0,1969.0,2021-12-16,2021-09-17,read,1,Dune
-43606157,"Cytonic (Skyward, #3)",Brandon Sanderson,1473217938,9781473217935.0,5,4.1,Gollancz,432,2021.0,2021.0,2021-12-02,2021-05-26,read,1,Skyward
-44767458,"Dune (Dune, #1)",Frank Herbert,059309932X,9780593099322.0,5,4.25,Ace Books,658,2019.0,1965.0,2021-11-08,2020-04-11,read,1,Dune
-57903879,"ReDawn (Skyward, #2.2)",Brandon Sanderson,,9780593566626.0,5,4.22,Delacorte Press,229,2021.0,2021.0,2021-11-05,2021-05-26,read,1,Skyward
-57903876,"Sunreach (Skyward, #2.1)",Brandon Sanderson,,9780593566619.0,5,4.18,Delacorte Press,208,2021.0,2021.0,2021-09-29,2021-05-26,read,1,Skyward
-35167718,"""What Do You Care What Other People Think?"": Further Adventures of a Curious Character",Richard P. Feynman,0393355640,9780393355642.0,5,4.18,W. W. Norton  Company,288,2018.0,1988.0,2021-09-09,2021-08-16,read,1,Stand Alone
-35959740,Circe,Madeline Miller,0316556343,9780316556347.0,5,4.25,"Little, Brown and Company",393,2018.0,2018.0,2021-08-31,2020-06-19,read,1,Stand Alone
-69571,"Rich Dad, Poor Dad",Robert T. Kiyosaki,0751532711,9780751532715.0,5,4.12,Time Warner Books UK,195,2007.0,1997.0,2021-08-19,2021-07-06,read,1,Stand Alone
-19063,The Book Thief,Markus Zusak,,,5,4.39,Alfred A. Knopf,552,2006.0,2006.0,2021-08-13,2021-07-24,"favorites, read",1,Stand Alone
-31817749,"The Stone Sky (The Broken Earth, #3)",N.K. Jemisin,,,5,4.35,Orbit,416,2017.0,2017.0,2021-07-29,2021-06-04,read,1,The Broken Earth
-26228034,"The Obelisk Gate (The Broken Earth, #2)",N.K. Jemisin,,,5,4.31,Orbit,410,2016.0,2016.0,2021-07-12,2021-06-04,read,1,The Broken Earth
-817589,Learn to Earn: A Beginner's Guide to the Basics of Investing and Business,Peter Lynch,0684811634,9780684811635.0,5,4.04,Simon  Schuster,272,1996.0,1995.0,2021-07-11,2021-07-06,read,1,Stand Alone
-17999205,Computing with Quantum Cats: From Colossus to Qubits,John Gribbin,0593071158,9780593071151.0,5,3.76,Bantam Press,304,2013.0,2013.0,2021-07-03,2021-05-08,read,1,Stand Alone
-19161852,"The Fifth Season (The Broken Earth, #1)",N.K. Jemisin,,,5,4.32,Orbit,468,2015.0,2015.0,2021-06-26,2021-06-04,read,1,The Broken Earth
-8695,"The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,,,5,4.21,Del Rey,250,2005.0,1980.0,2021-06-21,2021-05-29,read,1,Hitchhiker's Guide to the Galaxy
-54513688,"Realm Breaker (Realm Breaker, #1)",Victoria Aveyard,,,3,3.65,Orion Publishing,576,2021.0,2021.0,2021-06-15,2021-06-09,read,1,Realm Breaker
-386162,"The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,,,5,4.23,Del Rey,193,2007.0,1979.0,2021-06-08,2021-05-29,"books_worth_rereading, favorites, read",1,The Hitchhiker's Guide to the Galaxy
-31520883,"A ​Sky Beyond the Storm (An Ember in the Ashes, #4)",Sabaa Tahir,000828881X,9780008288815.0,4,4.34,Razorbill,516,2021.0,2020.0,2021-06-04,2021-05-28,read,1,An Ember in the Ashes
-4671,The Great Gatsby,F. Scott Fitzgerald,,,4,3.93,Scribner,180,2004.0,1925.0,2021-05-29,2020-04-11,"books_i_own, read",1,Stand Alone
-30809786,"A Reaper at the Gates (An Ember in the Ashes, #3)",Sabaa Tahir,0448494507,9780448494500.0,5,4.19,Razorbill,458,2018.0,2018.0,2021-05-28,2021-05-14,read,1,An Ember in the Ashes
-27774758,"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir,,,4,4.26,Razorbill,446,2016.0,2015.0,2021-05-17,2021-05-14,read,1,An Ember in the Ashes
-25591568,"A Torch Against the Night (An Ember in the Ashes, #2)",Sabaa Tahir,,,3,4.25,Razorbill,467,2016.0,2016.0,2021-05-20,2021-05-14,read,1,An Ember in the Ashes
-30169100,"The Burning White (Lightbringer, #5)",Brent Weeks,0316251305,9780316251303.0,5,4.27,Orbit,992,2019.0,2019.0,2021-05-13,2021-05-01,read,1,Lightbringer
-23437156,"Six of Crows (Six of Crows, #1)",Leigh Bardugo,,,5,4.49,Henry Holt & Company,465,2015.0,2015.0,2021-03-12,2021-03-11,"favorites, books_worth_rereading, books_i_own, read",1,Six of Crows
-13497,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,055358202X,9780553582024.0,5,4.15,Bantam Books,1061,2011.0,2005.0,2021-03-27,2020-04-02,"books_i_own, read",1,A Song of Ice and Fire
-22299763,"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,,,5,4.61,Orion Children's Books,561,2016.0,2016.0,2021-03-13,2021-03-12,"favorites, books_worth_rereading, books_i_own, read",1,Six of Crows
-10664113,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,,,5,4.33,Bantam,1125,2011.0,2011.0,2021-04-07,2020-04-11,"books_i_own, read",1,A Song of Ice and Fire
-11133581,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,,,5,4.54,Voyager,1218,2011.0,2000.0,2021-01-29,2020-02-26,"books_i_own, read",1,A Song of Ice and Fire
-26047438,"Fire Falling (Air Awakens, #2)",Elise Kova,1619849526,9781619849525.0,3,4.17,Silver Wing Press,378,2015.0,2015.0,2021-04-24,2021-04-21,read,1,Air Awakens
-29467232,"The Blood Mirror (Lightbringer, #4)",Brent Weeks,031625133X,9780316251334.0,4,4.33,Orbit,704,2016.0,2015.0,2021-05-09,2021-05-01,read,1,Lightbringer
-30075662,"Aurora Rising (The Aurora Cycle, #1)",Amie Kaufman,1524720968,9781524720964.0,5,4.12,Knopf Books for Young Readers,473,2019.0,2019.0,2021-04-30,2021-04-29,read,1,The Aurora Cycle
-12652457,"The Broken Eye (Lightbringer, #3)",Brent Weeks,,,4,4.46,Orbit,846,2014.0,2014.0,2021-05-07,2021-05-01,read,1,Lightbringer
-12499290,"The Blinding Knife (Lightbringer, #2)",Brent Weeks,031607991X,9780316079914.0,5,4.42,Orbit,671,2012.0,2012.0,2021-05-04,2021-05-01,read,1,Lightbringer
-7165300,"The Black Prism (Lightbringer, #1)",Brent Weeks,0316075558,9780316075558.0,5,4.23,Orbit,629,2010.0,2010.0,2021-05-02,2021-05-01,read,1,Lightbringer
-32726691,Storm in a Teacup: The Physics of Everyday Life,Helen Czerski,,,4,4.02,Transworld Digital,282,2016.0,2017.0,2021-04-29,2021-03-20,"science, read",1,Stand Alone
-23127048,"Air Awakens (Air Awakens, #1)",Elise Kova,1932549935,9781932549935.0,4,4.01,Silver Wing Press,342,2015.0,2015.0,2021-04-23,2021-04-21,read,1,Air Awakens
-36307634,"King of Scars (King of Scars, #1)",Leigh Bardugo,,,5,4.17,Imprint,527,2019.0,2019.0,2021-03-15,2021-03-11,"favorites, books_worth_rereading, read",1,King of Scars
-25734172,Seven Brief Lessons on Physics,Carlo Rovelli,0399184414,9780399184413.0,4,3.98,Riverhead Books,81,2016.0,2014.0,2021-01-05,2021-01-01,"science, read",1,Stand Alone
-32191710,Astrophysics for People in a Hurry,Neil deGrasse Tyson,0393609391,9780393609394.0,5,4.09,W. W. Norton  Company,223,2017.0,2017.0,2021-03-09,2021-02-19,"favorites, science, read",1,Stand Alone
-14290364,"Champion (Legend, #3)",Marie Lu,0399256776,9780399256776.0,4,4.33,Putnam Juvenile,369,2013.0,2013.0,2021-04-21,2021-04-18,read,1,Legend
-13206760,"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,0312642962,9780312642969.0,5,4.26,Feiwel & Friends,454,2013.0,2013.0,2021-04-09,2021-04-07,"favorites, read",1,The Lunar Chronicles
-35425827,"Archenemies (Renegades, #2)",Marissa Meyer,1250311446,9781250311443.0,5,4.28,Feiwel & Friends,560,2018.0,2018.0,2021-04-16,2021-04-10,"favorites, read",1,Renegades
-13414446,"Prodigy (Legend, #2)",Marie Lu,0399256768,9780399256769.0,5,4.24,Putnam Juvenile,371,2013.0,2013.0,2021-04-20,2021-04-18,"favorites, read",1,Legend
-14061957,"Ruin and Rising (The Shadow and Bone Trilogy, #3)",Leigh Bardugo,,,5,4.02,Henry Holt and Company,422,2014.0,2014.0,2021-03-10,2021-03-10,"favorites, read",1,The Shadow and Bone Trilogy
-9275658,"Legend (Legend, #1)",Marie Lu,,,4,4.16,Putnam Juvenile,305,2011.0,2011.0,2021-04-18,2021-04-18,read,1,Legend
-42771754,"Supernova (Renegades, #3)",Marissa Meyer,1250078385,9781250078384.0,4,4.41,Feiwel & Friends,549,2019.0,2019.0,2021-04-17,2021-04-10,read,1,Renegades
-28421168,"Renegades (Renegades, #1)",Marissa Meyer,1250044669,9781250044662.0,4,4.15,Feiwel & Friends,552,2017.0,2017.0,2021-04-16,2021-04-10,read,1,Renegades
-9361589,The Night Circus,Erin Morgenstern,,9780385534635.0,4,4.03,Doubleday,387,2011.0,2011.0,2021-04-13,2021-04-13,read,1,Stand Alone
-13206900,"Winter (The Lunar Chronicles, #4)",Marissa Meyer,0312642989,9780312642983.0,5,4.43,Feiwel & Friends,832,2015.0,2015.0,2021-04-11,2021-04-07,read,1,The Lunar Chronicles
-13206828,"Cress (The Lunar Chronicles, #3)",Marissa Meyer,0312642970,9780312642976.0,5,4.42,Feiwel & Friends,552,2014.0,2014.0,2021-04-10,2021-04-07,read,1,The Lunar Chronicles
-36381037,"Cinder (The Lunar Chronicles, #1)",Marissa Meyer,,,5,4.13,Feiwel & Friends,400,2012.0,2012.0,2021-04-08,2021-04-07,read,1,The Lunar Chronicles
-36307674,"Rule of Wolves (King of Scars, #2)",Leigh Bardugo,1510109188,9781510109186.0,4,4.38,Orion Children's Books,592,2021.0,2021.0,2021-03-31,2021-03-15,read,1,King of Scars
-91478,"Summer Knight (The Dresden Files, #4)",Jim Butcher,0451458923,9780451458926.0,5,4.27,Roc,446,2002.0,2002.0,2021-03-20,2021-03-10,read,1,The Dresden Files
-833424,"Reaper Man (Discworld, #11; Death, #2)",Terry Pratchett,0552134643,9780552134644.0,4,4.28,Corgi Books,288,1992.0,1991.0,2021-03-08,2021-02-27,read,1,"Discworld, #11; Death"
-14061955,"Siege and Storm (The Shadow and Bone Trilogy, #2)",Leigh Bardugo,,,5,3.84,Henry Holt and Company,435,2013.0,2013.0,2021-03-10,2021-03-09,read,1,The Shadow and Bone Trilogy
-10194157,"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo,,,4,3.95,Henry Holt & Company,358,2012.0,2012.0,2021-03-09,2021-03-08,read,1,The Shadow and Bone Trilogy
-35068705,"The Poppy War (The Poppy War, #1)",R.F. Kuang,0062662597,9780062662590.0,4,4.15,Harper Voyager,545,2018.0,2018.0,2021-02-18,2021-01-29,read,1,The Poppy War
-6969361,2 States: The Story of My Marriage,Chetan Bhagat,8129115301,9788129115300.0,2,3.43,Rupa & Co,269,2009.0,2009.0,2021-01-01,2021-01-01,read,1,Stand Alone
-228665,"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,0812511816,9780812511819.0,5,4.19,Tor Books,800,1990.0,1990.0,2020-07-20,2020-02-26,"favorites, read",1,The Wheel of Time
-16031812,"A Memory of Light (Wheel of Time, #14)",Robert Jordan,,,5,4.55,Tor Books,1025,2013.0,2013.0,2020-08-11,2020-08-09,"books_worth_rereading, favorites, read",1,Wheel of Time
-26032825,"The Cruel Prince (The Folk of the Air, #1)",Holly Black,,,5,4.08,"Little, Brown Books for Young Readers",370,2018.0,2018.0,2020-08-26,2020-04-25,"books_i_own, favorites, read",1,The Folk of the Air
-1215032,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,0756404738,9780756404734.0,5,4.55,DAW Books,994,2011.0,2011.0,2020-03-26,2020-03-25,"books_worth_rereading, favorites, books_i_own, read",2,The Kingkiller Chronicle
-26032887,"The Wicked King (The Folk of the Air, #2)",Holly Black,0316310336,9780316310338.0,5,4.33,"Little, Brown Books for Young Readers",336,2019.0,2019.0,2020-08-27,2020-04-25,"books_i_own, read",1,The Folk of the Air
-68429,"The Well of Ascension (Mistborn, #2)",Brandon Sanderson,0765316889,9780765316882.0,5,4.38,Tor Books,590,2007.0,2007.0,2020-04-05,2020-03-30,"books_worth_rereading, favorites, books_i_own, read",1,Mistborn
-561456,"The Titan's Curse (Percy Jackson and the Olympians, #3)",Rick Riordan,0141382899,9780141382890.0,5,4.36,Puffin Books,320,2007.0,2007.0,2020-10-13,2020-02-26,"books_i_own, read",3,Percy Jackson and the Olympians
-42769202,"Starsight (Skyward, #2)",Brandon Sanderson,1473217903,9781473217904.0,5,4.4,Orion Publishing Co,461,2019.0,2019.0,2020-07-13,2020-07-03,"books_i_own, read",1,Skyward
-36642458,"Skyward (Skyward, #1)",Brandon Sanderson,1473217857,9781473217850.0,5,4.49,Gollancz,513,2018.0,2018.0,2020-07-05,2020-07-03,"books_worth_rereading, favorites, books_i_own, read",1,Skyward
-28186,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan,0786856866,9780786856862.0,5,4.24,Hyperion Books,279,2006.0,2006.0,2020-10-13,2020-04-02,"books_i_own, read",2,Percy Jackson and the Olympians
-68428,"The Final Empire (Mistborn, #1)",Brandon Sanderson,,9780765311788.0,5,4.47,Tor Books,541,2006.0,2006.0,2020-03-30,2020-03-26,"books_worth_rereading, favorites, books_i_own, read",2,Mistborn
-186074,"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,075640407X,9780756404079.0,5,4.52,Penguin Group DAW,662,2007.0,2007.0,2020-03-24,2020-02-27,"books_worth_rereading, favorites, books_i_own, read",2,The Kingkiller Chronicle
-2767793,"The Hero of Ages (Mistborn, #3)",Brandon Sanderson,0765316897,9780765316899.0,5,4.51,Tor Books,572,2008.0,2008.0,2020-04-08,2020-03-30,"books_worth_rereading, favorites, books_i_own, read",1,Mistborn
-1582996,"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,1416914293,9781416914297.0,4,4.13,Margaret K. McElderry Books,453,2008.0,2008.0,2020-10-05,2020-04-11,"books_i_own, read",1,The Mortal Instruments
-10572,"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,0553381695,9780553381696.0,5,4.41,Bantam,969,2002.0,1998.0,2020-12-13,2020-02-26,"books_i_own, read",1,A Song of Ice and Fire
-28006109,"The Tyrant’s Tomb (The Trials of Apollo, #4)",Rick Riordan,1368001440,9781368001441.0,5,4.36,Disney-Hyperion,439,2019.0,2019.0,2020-05-09,2020-02-26,"books_i_own, read",1,The Trials of Apollo
-7541858,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,,,4,4.08,Margaret K. McElderry Books,485,2009.0,2007.0,2020-10-04,2020-02-26,"books_i_own, read",1,The Mortal Instruments
-2120932,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,,,5,4.41,Hyperion Books for Children,361,2008.0,2008.0,2020-10-14,2020-02-26,"books_i_own, read",2,Percy Jackson and the Olympians
-65605,"The Magician's Nephew (Chronicles of Narnia, #6)",C.S. Lewis,0060764902,9780060764906.0,4,4.05,HarperCollins Publishers,221,2005.0,1955.0,2020-11-04,2020-07-13,"unfinished_series, read",1,Chronicles of Narnia
-23174274,"Glass Sword (Red Queen, #2)",Victoria Aveyard,0062310666,9780062310668.0,4,3.82,HarperTeen,444,2016.0,2016.0,2020-09-02,2020-09-01,"gave_up, unfinished_series, read",1,Red Queen
-22328546,"Red Queen (Red Queen, #1)",Victoria Aveyard,,,5,4.03,HarperTeen,388,2015.0,2015.0,2020-09-01,2020-08-31,"unfinished_series, read",1,Red Queen
-13612965,"The Bronze Key (Magisterium,  #3)",Holly Black,0545522315,9780545522311.0,5,4.09,Scholastic,249,2016.0,2016.0,2020-11-08,2020-11-08,"favorites, read",1,Magisterium
-1166599,"The Gathering Storm (The Wheel of Time, #12)",Robert Jordan,0765302306,9780765302304.0,5,4.4,Tor Books,783,2009.0,2009.0,2020-08-08,2020-07-08,"books_worth_rereading, favorites, read",1,The Wheel of Time
-18635016,"The One (The Selection, #3)",Kiera Cass,0062059998,9780062059994.0,4,4.17,HarperTeen,323,2014.0,2014.0,2020-08-31,2020-08-30,"favorites, read",1,The Selection
-15839976,"Red Rising (Red Rising Saga, #1)",Pierce Brown,0345539788,9780345539786.0,5,4.26,Del Rey,382,2014.0,2014.0,2020-09-29,2020-09-24,"books_worth_rereading, favorites, read",1,Red Rising Saga
-1268479,"Warbreaker (Warbreaker, #1)",Brandon Sanderson,,,5,4.3,Self-published,688,2009.0,2009.0,2020-06-27,2020-06-14,"books_worth_rereading, favorites, read",1,Warbreaker
-17332218,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,0765326361,9780765326362.0,5,4.75,Tor Books,1087,2014.0,2014.0,2020-06-14,2020-05-25,"books_worth_rereading, favorites, read",1,The Stormlight Archive
-7235533,"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,0765326353,9780765326355.0,5,4.65,Tor Books,1007,2010.0,2010.0,2020-06-09,2020-02-26,"books_worth_rereading, favorites, read",1,The Stormlight Archive
-386372,"Mort (Discworld, #4; Death, #1)",Terry Pratchett,0061020680,9780061020681.0,5,4.24,Harpertorch,243,2001.0,1987.0,2020-12-01,2020-11-27,read,1,"Discworld, #4; Death"
-26114421,"The Dark Talent (Alcatraz, #5)",Brandon Sanderson,0765381400,9780765381408.0,5,4.11,Starscape,281,2016.0,2016.0,2020-11-25,2020-11-25,read,1,Alcatraz
-7740659,"Alcatraz Versus the Shattered Lens (Alcatraz, #4)",Brandon Sanderson,0439925576,9780439925570.0,4,4.13,Scholastic Press,294,2010.0,2010.0,2020-11-25,2020-11-24,read,1,Alcatraz
-53439886,"How the King of Elfhame Learned to Hate Stories (The Folk of the Air, #3.5)",Holly Black,,9780316540827.0,4,4.23,"Little, Brown Books for Young Readers",200,2020.0,2020.0,2020-11-25,2020-11-05,read,1,The Folk of the Air
-6366110,"Alcatraz Versus the Knights of Crystallia (Alcatraz, #3)",Brandon Sanderson,043992555X,9780439925556.0,4,4.13,Scholastic Press,299,2009.0,2009.0,2020-11-24,2020-11-23,read,1,Alcatraz
-3485562,"Alcatraz Versus the Scrivener's Bones (Alcatraz, #2)",Brandon Sanderson,0439925533,9780439925532.0,5,4.13,Scholastic Press,322,2008.0,2008.0,2020-11-23,2020-11-16,read,1,Alcatraz
-17250966,"Rhythm of War (The Stormlight Archive, #4)",Brandon Sanderson,,,5,4.61,Tor Books,1213,2020.0,2020.0,2020-11-21,2020-05-25,read,1,The Stormlight Archive
-623976,"Alcatraz Versus the Evil Librarians (Alcatraz, #1)",Brandon Sanderson,0439925509,9780439925501.0,4,3.91,Scholastic Press,308,2007.0,2007.0,2020-11-16,2020-11-16,read,1,Alcatraz
-54511226,"Dawnshard (The Stormlight Archive, #3.5)",Brandon Sanderson,,,5,4.51,Dragonsteel Entertainment,171,2020.0,2020.0,2020-11-10,2020-11-07,read,1,The Stormlight Archive
-13612970,"The Golden Tower (Magisterium, #5)",Holly Black,,9780545522427.0,4,4.03,Scholastic Inc.,256,2018.0,2018.0,2020-11-09,2020-11-09,read,1,Magisterium
-13612968,"The Silver Mask (Magisterium, #4)",Holly Black,,9780545522397.0,4,4.07,Scholastic Press,200,2017.0,2017.0,2020-11-09,2020-11-08,read,1,Magisterium
-13612962,"The Copper Gauntlet (Magisterium, #2)",Holly Black,0545522285,9780545522281.0,5,4.12,Scholastic Press,264,2015.0,2015.0,2020-11-08,2020-11-07,read,1,Magisterium
-20578940,"The Iron Trial (Magisterium, #1)",Holly Black,0545522250,9780545522250.0,5,3.95,Scholastic Press,295,2014.0,2014.0,2020-11-07,2020-11-05,read,1,Magisterium
-36111098,"The Light of All That Falls (The Licanius Trilogy, #3)",James Islington,,9780356507835.0,5,4.41,Orbit,864,2019.0,2019.0,2020-10-30,2020-10-28,read,1,The Licanius Trilogy
-22443261,"The Rithmatist (The Rithmatist, #1)",Brandon Sanderson,,,5,4.24,Tor UK,353,2014.0,2013.0,2020-10-30,2020-07-05,read,1,The Rithmatist
-32498052,"An Echo of Things to Come (The Licanius Trilogy, #2)",James Islington,0316274119,9780316274111.0,5,4.25,Orbit,752,2017.0,2017.0,2020-10-28,2020-10-25,read,1,The Licanius Trilogy
-22878967,"The Shadow of What Was Lost (The Licanius Trilogy, #1)",James Islington,099258020X,9780992580209.0,5,4.14,Aslaradis Publishing,602,2014.0,2014.0,2020-10-25,2020-10-21,read,1,The Licanius Trilogy
-25300956,"Royal Assassin (Farseer Trilogy, #2)",Robin Hobb,,,4,4.25,Spectra,675,2002.0,1996.0,2020-10-21,2020-09-21,read,1,Farseer Trilogy
-48717744,"The Tower of Nero (The Trials of Apollo, #5)",Rick Riordan,1484746457,9781484746455.0,5,4.52,Disney-Hyperion,410,2020.0,2020.0,2020-10-08,2020-04-24,read,1,The Trials of Apollo
-18966819,"Golden Son (Red Rising Saga, #2)",Pierce Brown,0345539826,9780345539823.0,5,4.44,Del Rey,430,2015.0,2015.0,2020-09-30,2020-09-29,read,1,Red Rising Saga
-77197,"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb,055357339X,9780553573398.0,5,4.17,Spectra Books,435,1996.0,1995.0,2020-09-21,2020-04-11,read,1,Farseer Trilogy
-16248068,"The Elite (The Selection, #2)",Kiera Cass,0062059963,9780062059963.0,3,3.97,HarperTeen,336,2013.0,2013.0,2020-08-30,2020-08-30,read,1,The Selection
-15820748,"The Prince (The Selection, #0.5)",Kiera Cass,0062248162,9780062248169.0,5,3.91,HarperTeen,64,2013.0,2013.0,2020-08-31,2020-08-31,read,1,The Selection
-10507293,"The Selection (The Selection, #1)",Kiera Cass,0062059939,9780062059932.0,4,4.1,HarperTeen,336,2012.0,2012.0,2020-08-30,2020-08-29,read,1,The Selection
-91477,"Fool Moon (The Dresden Files, #2)",Jim Butcher,0451458125,9780451458124.0,4,3.99,Roc,401,2001.0,2001.0,2020-08-29,2020-08-25,read,1,The Dresden Files
-23397921,Sixth of the Dusk (The Cosmere),Brandon Sanderson,,,4,4.24,"Dragonsteel Entertainment, LLC",59,2014.0,2014.0,2020-08-27,2020-08-21,read,1,Stand Alone
-40772063,"The Lost Sisters (The Folk of the Air, #1.5)",Holly Black,,9780316310444.0,4,3.46,NOVL,50,2018.0,2018.0,2020-08-27,2020-08-26,read,1,The Folk of the Air
-187065,"New Spring (The Wheel of Time, #0)",Robert Jordan,1841492612,9781841492612.0,4,4.05,Orbit,423,2004.0,2004.0,2020-08-26,2020-07-08,read,1,The Wheel of Time
-47212,"Storm Front (The Dresden Files, #1)",Jim Butcher,0451457811,9780451457813.0,5,3.98,Penguin ROC,355,2000.0,2000.0,2020-08-25,2020-08-25,read,1,The Dresden Files
-21411388,Shadows for Silence in the Forests of Hell,Brandon Sanderson,,,5,4.19,Tor Books,50,2013.0,2013.0,2020-08-25,2020-08-21,read,1,Stand Alone
-37640636,"Lies of the Beholder (Legion, #3)",Brandon Sanderson,159606885X,9781596068858.0,5,4.13,Subterranean Press,148,2018.0,2018.0,2020-08-22,2020-07-05,read,1,Legion
-20886354,"Skin Deep (Legion, #2)",Brandon Sanderson,,,5,4.13,Subterranean Press ,208,2014.0,2014.0,2020-08-22,2020-07-05,read,1,Legion
-13452375,"Legion (Legion, #1)",Brandon Sanderson,1596064854,9781596064850.0,5,4.14,Subterranean Press,88,2012.0,2012.0,2020-08-22,2020-07-05,read,1,Legion
-18361393,"Redemption (Infinity Blade, #2)",Brandon Sanderson,0983943028,9780983943020.0,5,3.84,ChAIR Entertainment Group,200,2013.0,2013.0,2020-08-21,2020-07-10,read,1,Infinity Blade
-12796771,"Awakening (Infinity Blade, #1)",Brandon Sanderson,,,4,3.87,ChAIR Entertainment Group,128,2011.0,2011.0,2020-08-21,2020-07-10,read,1,Infinity Blade
-8868764,White Sand,Brandon Sanderson,,,4,4.13,Brandon Sanderson,995,,,2020-08-20,2020-08-11,read,1,Stand Alone
-8253920,"Towers of Midnight (The Wheel of Time, #13)",Robert Jordan,0765325942,9780765325945.0,5,4.46,Tom Doherty Associates TOR Fantasy,863,2010.0,2010.0,2020-08-09,2020-07-08,read,1,The Wheel of Time
-13888,"Knife of Dreams (The Wheel of Time, #11)",Robert Jordan,0812577566,9780812577563.0,4,4.18,Tom Doherty Associates,860,2006.0,2005.0,2020-08-06,2020-07-08,read,1,The Wheel of Time
-113435,"Crossroads of Twilight (The Wheel of Time, #10)",Robert Jordan,0312864590,9780312864590.0,4,3.8,Tor Books,704,2003.0,2003.0,2020-08-04,2020-07-08,read,1,The Wheel of Time
-13891,"Winter's Heart (The Wheel of Time, #9)",Robert Jordan,081257558X,9780812575583.0,5,3.96,Tor Fantasy,780,2002.0,2000.0,2020-08-04,2020-07-08,read,1,The Wheel of Time
-140974,"The Path of Daggers (The Wheel of Time, #8)",Robert Jordan,0812550293,9780812550290.0,4,3.92,Tor Books,685,1999.0,1998.0,2020-08-03,2020-07-08,read,1,The Wheel of Time
-13890,"A Crown of Swords (The Wheel of Time, #7)",Robert Jordan,0812550285,9780812550283.0,5,4.06,Tor Books,880,1997.0,1996.0,2020-08-02,2020-07-08,read,2,The Wheel of Time
-35231,"Lord of Chaos (The Wheel of Time, #6)",Robert Jordan,0812513754,9780812513752.0,5,4.17,Tom Doherty Associates,1011,1995.0,1994.0,2020-07-31,2020-07-08,read,1,The Wheel of Time
-13895,"The Fires of Heaven (The Wheel of Time, #5)",Robert Jordan,1857232097,9781857232097.0,4,4.18,Orbit,912,1994.0,1993.0,2020-07-29,2020-07-08,read,1,The Wheel of Time
-9539,"The Shadow Rising (The Wheel of Time, #4)",Robert Jordan,0812513738,9780812513738.0,5,4.26,Tom Doherty Tor Fantasy,1007,1993.0,1992.0,2020-07-28,2020-07-08,read,1,The Wheel of Time
-34897,"The Dragon Reborn (The Wheel of Time, #3)",Robert Jordan,0765305119,9780765305114.0,5,4.27,Tor Books,624,2002.0,1991.0,2020-07-25,2020-07-08,read,1,The Wheel of Time
-233649,"The Great Hunt (The Wheel of Time, #2)",Robert Jordan,0812517725,9780812517729.0,5,4.25,Tor Books,705,1991.0,1990.0,2020-07-23,2020-04-11,read,1,The Wheel of Time
-15704486,"Calamity (Reckoners, #3)",Brandon Sanderson,0385743602,9780385743600.0,5,4.18,Delacorte Press,424,2016.0,2016.0,2020-07-15,2020-07-05,read,1,Reckoners
-18966322,"Mitosis (The Reckoners, #1.5)",Brandon Sanderson,0449818438,9780449818435.0,5,3.86,Delacorte Press,55,2013.0,2013.0,2020-07-15,2020-07-05,read,1,The Reckoners
-15704459,"Firefight (The Reckoners, #2)",Brandon Sanderson,0385743580,9780385743587.0,5,4.26,Delacorte Press,416,2015.0,2015.0,2020-07-15,2020-07-05,read,1,The Reckoners
-17182126,"Steelheart (The Reckoners, #1)",Brandon Sanderson,0385743564,9780385743563.0,5,4.14,Delacorte Press,386,2013.0,2013.0,2020-07-14,2020-07-05,read,1,The Reckoners
-18739426,"The Bands of Mourning (Mistborn, #6)",Brandon Sanderson,,,5,4.42,Tor,448,2016.0,2016.0,2020-07-03,2020-07-01,read,1,Mistborn
-16065004,"Shadows of Self (Mistborn, #5)",Brandon Sanderson,0765378558,9780765378552.0,5,4.29,Tor Books,383,2015.0,2015.0,2020-07-01,2020-06-30,read,1,Mistborn
-10803121,"The Alloy of Law (Mistborn, #4)",Brandon Sanderson,0765330423,9780765330420.0,5,4.21,Tor Books,332,2011.0,2011.0,2020-06-30,2020-06-30,read,1,Mistborn
-34703445,"Edgedancer (The Stormlight Archive, #2.5)",Brandon Sanderson,1250166543,9781250166548.0,5,4.25,Tor Books,272,2017.0,2017.0,2020-06-26,2020-05-25,read,1,The Stormlight Archive
-13578175,The Emperor's Soul (The Cosmere),Brandon Sanderson,1616960922,9781616960926.0,5,4.37,Tachyon Publications,175,2012.0,2012.0,2020-06-20,2020-06-19,read,1,Stand Alone
-34002132,"Oathbringer (The Stormlight Archive, #3)",Brandon Sanderson,076532637X,9780765326379.0,5,4.61,Tor Books,1248,2017.0,2017.0,2020-06-19,2020-05-25,read,1,The Stormlight Archive
-7260188,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,0439023513,9780439023511.0,4,4.06,Scholastic Press,398,2010.0,2010.0,2020-06-14,2020-02-26,read,1,The Hunger Games
-6148028,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,0439023491,9780439023498.0,5,4.3,Scholastic Press,391,2009.0,2009.0,2020-05-23,2020-02-26,read,1,The Hunger Games
-68427,"Elantris (Elantris, #1)",Brandon Sanderson,0765350378,9780765350374.0,5,4.19,Tor Fantasy,622,2006.0,2005.0,2020-05-23,2020-04-13,read,1,Elantris
-2767052,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,0439023483,9780439023481.0,5,4.32,Scholastic Press,374,2008.0,2008.0,2020-05-11,2020-02-26,read,1,The Hunger Games
-33590260,"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,1619636107,9781619636101.0,4,4.62,Bloomsbury YA,980,2018.0,2018.0,2020-05-05,2020-04-11,read,1,Throne of Glass
-22733616,"Neverseen (Keeper of the Lost Cities, #4)",Shannon Messenger,,,4,4.62,Aladdin,672,2015.0,2015.0,2020-05-05,2020-04-26,read,1,Keeper of the Lost Cities
-13260668,"Everblaze (Keeper of the Lost Cities, #3)",Shannon Messenger,1442445998,9781442445994.0,5,4.54,Aladdin,624,2014.0,2014.0,2020-05-03,2020-04-26,read,1,Keeper of the Lost Cities
-13260670,"Exile (Keeper of the Lost Cities, #2)",Shannon Messenger,,9781442445987.0,5,4.51,Aladdin,576,2013.0,2013.0,2020-05-02,2020-04-26,read,1,Keeper of the Lost Cities
-28006096,"The Burning Maze (The Trials of Apollo, #3)",Rick Riordan,1484746430,9781368024129.0,5,4.31,Disney-Hyperion,448,2018.0,2018.0,2020-05-01,2020-04-24,read,1,The Trials of Apollo
-12842828,"Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",Shannon Messenger,1442445939,9781442445932.0,5,4.43,Aladdin,496,2012.0,2012.0,2020-04-30,2020-04-26,read,1,Keeper of the Lost Cities
-30145666,"The Dark Prophecy (The Trials of Apollo, #2)",Rick Riordan,1484746422,9781484746424.0,5,4.18,Disney-Hyperion,414,2017.0,2017.0,2020-04-28,2020-04-24,read,1,The Trials of Apollo
-26252859,"The Hidden Oracle (The Trials of Apollo, #1)",Rick Riordan,148473274X,9781484732748.0,5,4.19,Disney-Hyperion,384,2016.0,2016.0,2020-04-24,2020-04-22,read,1,The Trials of Apollo
-31450852,"Tower of Dawn (Throne of Glass, #6)",Sarah J. Maas,1681195771,9781681195773.0,4,4.27,Bloomsbury USA Childrens,660,2017.0,2017.0,2020-04-24,2020-04-11,read,1,Throne of Glass
-28260587,"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas,,,4,4.57,Bloomsbury Children's Books,689,2016.0,2016.0,2020-04-22,2020-04-11,read,1,Throne of Glass
-18006496,"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas,1619636042,9781619636040.0,4,4.56,Bloomsbury USA Childrens,648,2015.0,2015.0,2020-04-18,2020-04-11,read,1,Throne of Glass
-20613470,"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas,1619630656,9781619630659.0,5,4.46,Bloomsbury USA Childrens,565,2014.0,2014.0,2020-04-13,2020-04-10,read,1,Throne of Glass
-17167166,"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,1619630621,9781619630628.0,5,4.36,Bloomsbury USA Childrens,420,2013.0,2013.0,2020-04-10,2020-04-09,read,1,Throne of Glass
-13419891,"The Assassin and the Desert (Throne of Glass, #0.3)",Sarah J. Maas,,,4,4.39,Bloomsbury USA Childrens,103,2012.0,2012.0,2020-04-09,2020-04-09,read,1,Throne of Glass
-18333581,"The Assassin and the Healer (Throne of Glass, #0.2)",Sarah J. Maas,,,4,4.21,Bloomsbury Publishing,40,2013.0,2012.0,2020-04-10,2020-04-09,read,1,Throne of Glass
-13546173,"The Assassin and the Underworld (Throne of Glass, #0.4)",Sarah J. Maas,,,5,4.35,Bloomsbury USA Childrens,102,2012.0,2012.0,2020-04-10,2020-04-09,read,1,Throne of Glass
-13415554,"The Assassin and the Pirate Lord (Throne of Glass, #0.1)",Sarah J. Maas,,,4,4.22,Bloomsbury Children’s,70,2012.0,2012.0,2020-04-10,2020-04-09,read,2,Throne of Glass
-13565676,"The Assassin and the Empire (Throne of Glass, #0.5)",Sarah J. Maas,,,5,4.41,Bloomsbury USA Children's,94,2012.0,2012.0,2020-04-09,2020-04-09,read,1,Throne of Glass
-7896527,"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,,,5,4.19,Bloomsbury USA Children's,406,2012.0,2012.0,2020-04-09,2020-04-08,read,1,Throne of Glass
-28006120,"The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)",Rick Riordan,1423160932,9781423160939.0,5,4.39,Disney-Hyperion Books,410,2017.0,2017.0,2020-04-02,2020-03-26,read,1,Magnus Chase and the Gods of Asgard
-15724396,"The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",Rick Riordan,1423160916,9781423160915.0,5,4.24,Disney-Hyperion Books,499,2015.0,2015.0,2020-03-14,2020-03-10,read,1,Magnus Chase and the Gods of Asgard
-27904311,"The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)",Rick Riordan,1423160924,9781423160922.0,4,4.33,Disney-Hyperion Books,459,2016.0,2016.0,2020-03-20,2020-03-14,read,1,Magnus Chase and the Gods of Asgard
+Date Read
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+True
+False
+False
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+True
+False
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
