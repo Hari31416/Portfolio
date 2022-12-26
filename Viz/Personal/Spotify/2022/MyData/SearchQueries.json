@@ -1,0 +1,18 @@
+[
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2022-09-29T15:25:46.693Z[UTC]",
+    "searchQuery" : "stair",
+    "searchInteractionURIs" : [
+      "spotify:track:0DANcJuMamcL9NyYkEWWTq",
+      "spotify:track:0DANcJuMamcL9NyYkEWWTq"
+    ]
+  },
+  {
+    "platform" : "WEBPLAYER",
+    "searchTime" : "2022-12-24T13:48:45.549Z[UTC]",
+    "searchQuery" : "ayush",
+    "searchInteractionURIs" : [
+    ]
+  }
+]
