@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 :root {
-  --green: rgb(26, 116, 16);
-  --blue: rgb(5, 5, 199);
+  --primary: rgb(26, 116, 16);
+  --seconadry: rgb(5, 5, 199);
 }
 
 body {
-  background-image: url(images/banner4.jpg);
+  background-image: url(images/banner5.jpg);
   background-repeat: repeat-y;
+  background-position: top;
 }
 
 hr{
@@ -35,24 +36,24 @@ hr{
   }
 
   50% {
-    border-color: var(--green);
+    border-color: var(--primary);
   }
 }
 
 #heading {
   width: fit-content;
   font-family: "Shizuru", cursive;
-  color: var(--green);
+  color: var(--primary);
   font-size: 3.5rem;
 }
 
 .motto h1{
   width:fit-content;
   font-family: "Shizuru", cursive;
-  color: var(--green);
+  color: var(--primary);
   font-size: 3.5rem;
   overflow: hidden;
-  border-right: .1em solid var(--green);
+  border-right: .1em solid var(--primary);
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .05em;
@@ -98,26 +99,26 @@ li h2:hover {
 
 #navbar a {
   text-decoration: none;
-  color: var(--green);
+  color: var(--primary);
 }
 
 a {
   text-decoration: none;
-  color: var(--blue);
+  color: var(--seconadry);
 }
 
 a:hover {
-  color: var(--green);
+  color: var(--primary);
 }
 
 #social-images>a:hover{
-  color: var(--green);
+  color: var(--primary);
 }
 
 #social-images>a {
   text-decoration: none;
   /* font-size: 22px; */
-  color: var(--blue);
+  color: var(--seconadry);
 }
 
 li:last-child {

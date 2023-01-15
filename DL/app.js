@@ -1,7 +1,7 @@
 "use strict";
 
-const lefty = ["#ml", "#web", ".service-1", ".service-3", "#finance"];
-const righty = ["#dl", "#viz", ".service-2", ".service-4"];
+const lefty = ["#mnist", "#speech-recognition", "#dls-2", "#dls-4"];
+const righty = ["#disaster-tweets", "#dls-1", "#dls-3", "#dls-5"];
 
 const observerFadeIN = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
@@ -34,4 +34,5 @@ righty.forEach((el) => {
   observerRight.observe(document.querySelector(el));
 });
 
-observerFadeIN.observe(document.querySelector(".nav-items"));
+observerFadeIN.observe(document.querySelector("#navbar"));
+observerFadeIN.observe(document.querySelector("#construction-wrapper"));
