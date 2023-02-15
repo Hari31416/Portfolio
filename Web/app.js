@@ -1,8 +1,7 @@
 "use strict";
 
-const lefty = ["#book-gallery", "#music"];
-const righty = ["#python-web-app", "#first-web"];
-
+const allLefty = document.querySelectorAll(".lefty");
+const allRighty = document.querySelectorAll(".righty");
 const observerFadeIN = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
@@ -27,11 +26,11 @@ const observerleft = new IntersectionObserver((entries) => {
   });
 });
 
-lefty.forEach((el) => {
-  observerleft.observe(document.querySelector(el));
+allLefty.forEach((el) => {
+  observerleft.observe(el);
 });
-righty.forEach((el) => {
-  observerRight.observe(document.querySelector(el));
+allRighty.forEach((el) => {
+  observerRight.observe(el);
 });
 
 observerFadeIN.observe(document.querySelector("#navbar"));

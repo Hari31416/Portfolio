@@ -1,7 +1,7 @@
 "use strict";
 
-const lefty = ["#titanic", "#disaster-tweets"];
-const righty = ["#house-price", "#datacamp"];
+const allLefty = document.querySelectorAll(".lefty");
+const allRighty = document.querySelectorAll(".righty");
 
 const observerFadeIN = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
@@ -27,11 +27,11 @@ const observerleft = new IntersectionObserver((entries) => {
   });
 });
 
-lefty.forEach((el) => {
-  observerleft.observe(document.querySelector(el));
+allLefty.forEach((el) => {
+  observerleft.observe(el);
 });
-righty.forEach((el) => {
-  observerRight.observe(document.querySelector(el));
+allRighty.forEach((el) => {
+  observerRight.observe(el);
 });
 
 observerFadeIN.observe(document.querySelector("#navbar"));
