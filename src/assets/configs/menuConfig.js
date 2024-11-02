@@ -14,14 +14,14 @@ const menuConfig = {
     {
       id: "menu-1",
       title: "Projects",
-      path: "/projects",
+      path: "/Portfolio/projects",
       icon: <AiOutlineGithub size={35} />,
       className: "nav-text",
     },
     {
       id: "menu-2",
       title: "Skills",
-      path: "/skills",
+      path: "/Portfolio/skills",
       icon: <AiFillCode size={35} />,
       className: "nav-text",
     },
