@@ -1,29 +1,42 @@
 import React from "react";
 
-import { AiFillCode, AiFillHome, AiOutlineGithub } from "react-icons/ai";
+import {
+  AiFillCode,
+  AiFillHome,
+  AiOutlineGithub,
+  AiFillBook,
+} from "react-icons/ai";
 
 const menuConfig = {
   sidebarData: [
     {
       id: "menu-0",
       title: "Home",
-      path: "/Portfolio",
+      path: "/",
       icon: <AiFillHome size={35} />,
       className: "nav-text",
     },
     {
       id: "menu-1",
       title: "Projects",
-      path: "/Portfolio/projects",
+      path: "/projects",
       icon: <AiOutlineGithub size={35} />,
       className: "nav-text",
     },
     {
       id: "menu-2",
       title: "Skills",
-      path: "/Portfolio/skills",
+      path: "/skills",
       icon: <AiFillCode size={35} />,
       className: "nav-text",
+    },
+    {
+      id: "menu-3",
+      title: "Blogs",
+      path: "https://blogs.hari31416.in/",
+      icon: <AiFillBook size={35} />,
+      className: "nav-text",
+      external: true,
     },
   ],
 };
