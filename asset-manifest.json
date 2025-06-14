@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.bd45f142.css",
-    "main.js": "/Portfolio/static/js/main.f5b77a15.js",
-    "static/media/torchlight.png": "/Portfolio/static/media/torchlight.485851dcfa62d181bf0d.png",
-    "static/media/celestialclassify.png": "/Portfolio/static/media/celestialclassify.603afce0af7b8a60eefc.png",
-    "static/media/speech.png": "/Portfolio/static/media/speech.de06a92fad166f068df1.png",
-    "static/media/nnet.png": "/Portfolio/static/media/nnet.0a7436a6daf220c4e711.png",
-    "static/media/lightingproduct.jpg": "/Portfolio/static/media/lightingproduct.e8377be5b0b28e133123.jpg",
-    "static/media/deepdream.jpg": "/Portfolio/static/media/deepdream.36a76de2d05294a782b9.jpg",
-    "static/media/disaster_tweets.png": "/Portfolio/static/media/disaster_tweets.5ec75dbe135c3eef0551.png",
-    "static/media/food_vision.png": "/Portfolio/static/media/food_vision.e870dd490640c4adcd98.png",
-    "static/media/book_recommender.webp": "/Portfolio/static/media/book_recommender.551a36702d3f0e3a064e.webp",
-    "static/media/transformer.png": "/Portfolio/static/media/transformer.19d010cf758182406450.png",
-    "static/media/pystock.png": "/Portfolio/static/media/pystock.1d65b0481cc8abeb5aff.png",
-    "static/media/house_price.jpeg": "/Portfolio/static/media/house_price.4ec442b736bfa2019642.jpeg",
-    "static/media/ragoptimize.png": "/Portfolio/static/media/ragoptimize.a3d1f1b2ac285d03bb1d.png",
-    "static/media/hangman.png": "/Portfolio/static/media/hangman.ff2182daeea84cbb28c3.png",
-    "static/media/MNIST.png": "/Portfolio/static/media/MNIST.4b444f3e304778bf6b52.png",
-    "static/media/optionalyzer.png": "/Portfolio/static/media/optionalyzer.bc5a4f15c0a04e754a6b.png",
-    "static/media/revision.webp": "/Portfolio/static/media/revision.fb390747d2b7f7fa35aa.webp",
-    "index.html": "/Portfolio/index.html",
-    "main.bd45f142.css.map": "/Portfolio/static/css/main.bd45f142.css.map",
-    "main.f5b77a15.js.map": "/Portfolio/static/js/main.f5b77a15.js.map"
+    "main.css": "/static/css/main.bd45f142.css",
+    "main.js": "/static/js/main.b8ec0e22.js",
+    "static/media/torchlight.png": "/static/media/torchlight.485851dcfa62d181bf0d.png",
+    "static/media/celestialclassify.png": "/static/media/celestialclassify.603afce0af7b8a60eefc.png",
+    "static/media/speech.png": "/static/media/speech.de06a92fad166f068df1.png",
+    "static/media/nnet.png": "/static/media/nnet.0a7436a6daf220c4e711.png",
+    "static/media/lightingproduct.jpg": "/static/media/lightingproduct.e8377be5b0b28e133123.jpg",
+    "static/media/deepdream.jpg": "/static/media/deepdream.36a76de2d05294a782b9.jpg",
+    "static/media/disaster_tweets.png": "/static/media/disaster_tweets.5ec75dbe135c3eef0551.png",
+    "static/media/food_vision.png": "/static/media/food_vision.e870dd490640c4adcd98.png",
+    "static/media/book_recommender.webp": "/static/media/book_recommender.551a36702d3f0e3a064e.webp",
+    "static/media/transformer.png": "/static/media/transformer.19d010cf758182406450.png",
+    "static/media/pystock.png": "/static/media/pystock.1d65b0481cc8abeb5aff.png",
+    "static/media/house_price.jpeg": "/static/media/house_price.4ec442b736bfa2019642.jpeg",
+    "static/media/ragoptimize.png": "/static/media/ragoptimize.a3d1f1b2ac285d03bb1d.png",
+    "static/media/hangman.png": "/static/media/hangman.ff2182daeea84cbb28c3.png",
+    "static/media/MNIST.png": "/static/media/MNIST.4b444f3e304778bf6b52.png",
+    "static/media/optionalyzer.png": "/static/media/optionalyzer.bc5a4f15c0a04e754a6b.png",
+    "static/media/revision.webp": "/static/media/revision.fb390747d2b7f7fa35aa.webp",
+    "index.html": "/index.html",
+    "main.bd45f142.css.map": "/static/css/main.bd45f142.css.map",
+    "main.b8ec0e22.js.map": "/static/js/main.b8ec0e22.js.map"
   },
   "entrypoints": [
     "static/css/main.bd45f142.css",
-    "static/js/main.f5b77a15.js"
+    "static/js/main.b8ec0e22.js"
   ]
 }
