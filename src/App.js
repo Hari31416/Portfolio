@@ -1,4 +1,9 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from "react-router-dom";
 import ReactGA from "react-ga";
 import NavBar from "./components/NavBar/NavBar";
 import Home from "./pages/Home/Home";
@@ -23,9 +28,18 @@ function App() {
         <br />
         <ScrollToTop />
         <Routes>
-          <Route path={"/Portfolio"} exact element={<Home />} />
-          <Route path={"/Portfolio/projects"} exact element={<Projects />} />
-          <Route path={"/Portfolio/skills"} exact element={<Skills />} />
+          <Route path={"/"} exact element={<Home />} />
+          <Route path={"/projects"} exact element={<Projects />} />
+          <Route path={"/skills"} exact element={<Skills />} />
+          <Route path={"/Portfolio"} element={<Navigate to="/" replace />} />
+          <Route
+            path={"/Portfolio/projects"}
+            element={<Navigate to="/projects" replace />}
+          />
+          <Route
+            path={"/Portfolio/skills"}
+            element={<Navigate to="/skills" replace />}
+          />
         </Routes>
         <Footer />
       </div>
