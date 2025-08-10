@@ -10,7 +10,6 @@ import "./DarkMode.css";
 
 function GlobalDarkMode() {
   const [isDarkModeActive, setIsDarkModeActive] = useState(true);
-  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [brightness, setBrightness] = useState(112);
   const [contrast, setContrast] = useState(137);
   const [sepia, setSepia] = useState(0);
@@ -45,10 +44,6 @@ function GlobalDarkMode() {
     setSepia(parseInt(e.target.value, 10));
   };
 
-  const toggleDropdown = () => {
-    setIsDropdownOpen(!isDropdownOpen);
-  };
-
   const uiProps = {
     toggleHandler: toggleDarkMode,
     handleBrightnessChange,
@@ -66,7 +61,7 @@ function GlobalDarkMode() {
         contrast: contrast,
         sepia: sepia,
       });
-  }, [brightness, contrast, sepia]);
+  }, [brightness, contrast, sepia, isDarkModeActive]);
 
   useEffect(() => {
     const checkDarkMode = async () => {

@@ -8,8 +8,6 @@ const About = (props) => {
     backgroundColor: "#263238",
   };
 
-  const cardHeaderStyle = {};
-
   const cardBodyStyle = {
     height: "auto",
     fontSize: "132%",
