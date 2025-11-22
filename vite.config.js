@@ -1,17 +1,18 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
-import { writeFileSync } from "fs";
+import { writeFileSync, copyFileSync } from "fs";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Portfolio/",
+  base: "/",
   plugins: [
     react(),
     {
-      name: "create-nojekyll",
+      name: "create-nojekyll-and-cname",
       closeBundle() {
         writeFileSync("dist/.nojekyll", "");
+        copyFileSync("CNAME", "dist/CNAME");
       },
     },
   ],
