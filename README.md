@@ -1,16 +1,85 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my projects, skills, and professional experience in Data Science, Machine Learning, and AI Engineering.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [https://portfolio.hari31416.in/](https://portfolio.hari31416.in/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## React Compiler
+- **Framework:** React 19 + Vite
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** React Icons, Lucide React
+- **Deployment:** GitHub Pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- 🎨 Modern, responsive design with smooth animations
+- 💼 Work experience timeline
+- 🛠️ Skills showcase
+- 📂 Project gallery with links to repositories and live demos
+- 🔗 Social media links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Projects Showcased
+
+The portfolio features various projects including:
+
+- **VidScribe** - AI-powered video to notes converter
+- **Multimodal Chatbot** - Full-stack AI chatbot with vision and data analysis
+- **TorchLight** - CNN feature visualization library
+- **ReVision** - Computer vision architectures from scratch
+- **Transformer From Scratch** - PyTorch transformer implementation
+- **RagOptimize** - Fine-tuned Mistral-7B with RAG for financial QA
+- And many more...
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18+)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Hari31416/Portfolio.git
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+### Available Scripts
+
+| Command           | Description              |
+| ----------------- | ------------------------ |
+| `npm run dev`     | Start development server |
+| `npm run build`   | Build for production     |
+| `npm run preview` | Preview production build |
+| `npm run lint`    | Run ESLint               |
+| `npm run deploy`  | Deploy to GitHub Pages   |
+
+## Project Structure
+
+```text
+src/
+├── components/     # React components (Hero, Navbar, Skills, etc.)
+├── data/           # Portfolio data configuration
+├── assets/         # Images and static assets
+└── lib/            # Utility functions
+projects/           # Jupyter notebooks for ML/DS projects, not needed otherwise
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- **GitHub:** [@Hari31416](https://github.com/Hari31416)
+- **LinkedIn:** [hari31416](https://linkedin.com/in/hari31416)
+- **Kaggle:** [hari31416](https://www.kaggle.com/hari31416)
