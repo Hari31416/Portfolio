@@ -1,8 +1,7 @@
 import {
-    SiPython, SiDocker, SiJavascript,
-    SiHtml5, SiApacheairflow, SiMongodb,
+    SiPython, SiDocker, SiJavascript, SiApacheairflow, SiMongodb,
     SiPytorch, SiTensorflow, SiSelenium, SiGithub,
-    SiHuggingface, SiFastapi, SiLangchain
+    SiHuggingface, SiFastapi, SiLangchain, SiRedis
 } from "react-icons/si";
 import { FaGitAlt, FaAws, FaLinkedinIn, FaKaggle, FaGoodreadsG } from "react-icons/fa";
 import { AiFillGithub, AiFillEye } from "react-icons/ai";
@@ -106,6 +105,7 @@ export const skillsConfig = {
   complementarySkills: [
     { id: "skills-5", icon: FaGitAlt, text: "Git" },
     { id: "skills-7", icon: SiTensorflow, text: "TensorFlow" },
+      { id: "skills-20", icon: SiRedis, text: "Redis" },
     { id: "skills-8", icon: SiGithub, text: "GitHub" },
     { id: "skills-10", icon: Terminal, text: "Bash" },
     { id: "skills-11", icon: SiMongodb, text: "MongoDB" },
