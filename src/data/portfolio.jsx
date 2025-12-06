@@ -98,28 +98,27 @@ export const homeConfig = {
 };
 
 export const skillsConfig = {
-    mainSkills: [
-        { id: "skills-0", icon: SiPython, text: "Python" },
-        { id: "skills-1", icon: SiFastapi, text: "FastAPI" },
-        { id: "skills-2", icon: SiLangchain, text: "LangChain" },
-        { id: "skills-4", icon: SiPytorch, text: "PyTorch" },
-        { id: "skills-6", icon: SiHuggingface, text: "HuggingFace" },
-        { id: "skills-13", icon: SiDocker, text: "Docker" },
-    ],
-    complementarySkills: [
-        { id: "skills-5", icon: FaGitAlt, text: "Git" },
-        { id: "skills-7", icon: SiTensorflow, text: "TensorFlow" },
-        { id: "skills-8", icon: SiGithub, text: "GitHub" },
-        { id: "skills-10", icon: Terminal, text: "Bash" },
-        { id: "skills-11", icon: SiMongodb, text: "MongoDB" },
-        { id: "skills-12", icon: SiApacheairflow, text: "Airflow" },
-        { id: "skills-14", icon: SiJavascript, text: "JavaScript" },
-        { id: "skills-15", icon: SiSelenium, text: "Selenium" },
-        { id: "skills-16", icon: Database, text: "MSSQL" },
-        { id: "skills-17", icon: SiHtml5, text: "HTML 5" },
-        { id: "skills-18", icon: Cloud, text: "Azure" },
-        { id: "skills-19", icon: FaAws, text: "AWS" },
-    ],
+  mainSkills: [
+    { id: "skills-0", icon: SiPython, text: "Python" },
+    { id: "skills-1", icon: SiFastapi, text: "FastAPI" },
+    { id: "skills-2", icon: SiLangchain, text: "LangChain" },
+    { id: "skills-4", icon: SiPytorch, text: "PyTorch" },
+    { id: "skills-6", icon: SiHuggingface, text: "HuggingFace" },
+    { id: "skills-13", icon: SiDocker, text: "Docker" },
+  ],
+  complementarySkills: [
+    { id: "skills-5", icon: FaGitAlt, text: "Git" },
+    { id: "skills-7", icon: SiTensorflow, text: "TensorFlow" },
+    { id: "skills-8", icon: SiGithub, text: "GitHub" },
+    { id: "skills-10", icon: Terminal, text: "Bash" },
+    { id: "skills-11", icon: SiMongodb, text: "MongoDB" },
+    { id: "skills-12", icon: SiApacheairflow, text: "Airflow" },
+    { id: "skills-14", icon: SiJavascript, text: "JavaScript" },
+    { id: "skills-15", icon: SiSelenium, text: "Selenium" },
+    { id: "skills-16", icon: Database, text: "MSSQL" },
+    { id: "skills-18", icon: Cloud, text: "Azure" },
+    { id: "skills-19", icon: FaAws, text: "AWS" },
+  ],
 };
 
 export const projectConfig = [
