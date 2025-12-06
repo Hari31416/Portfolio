@@ -12,7 +12,7 @@ import { Bot, CreditCard, LineChart, Terminal, Database, Cloud } from "lucide-re
 
 import TorchLight from "../assets/images/torchlight.png";
 import transformer from "../assets/images/transformer.png";
-import FoodVision from "../assets/images/food_vision.png";
+
 import ReVision from "../assets/images/revision.webp";
 import NNet from "../assets/images/nnet.png";
 import RagOptimize from "../assets/images/ragoptimize.png";
@@ -22,12 +22,9 @@ import pystock from "../assets/images/pystock.png";
 import optionalyzer from "../assets/images/optionalyzer.png";
 import DeepDream from "../assets/images/deepdream.jpg";
 import LightingProduct from "../assets/images/lightingproduct.jpg";
-import Contrails_Identification from "../assets/images/contrails_identification.jpg";
+
 import Hangman from "../assets/images/hangman.png";
-import NLPDisasterTweets from "../assets/images/disaster_tweets.png";
-import DigitRecognizer from "../assets/images/MNIST.png";
-import HousePrices from "../assets/images/house_price.jpeg";
-import SpeechRecognition from "../assets/images/speech.png";
+
 import VidScribe from "../assets/images/vidscribe.png";
 import MultimodalChatbot from "../assets/images/chatbot.png";
 import Vault from "../assets/images/vault.png";
@@ -256,17 +253,7 @@ export const projectConfig = [
         description: "Parsing PDFs, extracting product information and creating an NLP model to predict whether a product is a lighting product or not.",
         target: "_blank",
     },
-    {
-        id: "project-8",
-        title: "FoodVision",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Portfolio/tree/main/projects/Food%20Vision", icon: AiFillGithub },
-            { name: "website", url: "https://huggingface.co/spaces/hari31416/FoodVision", icon: AiFillEye },
-        ],
-        image: FoodVision,
-        description: "Using Transfer Learning with EfficientNet to classify 101 types food images.",
-        target: "_blank",
-    },
+
 
     {
         id: "project-6",
@@ -280,16 +267,7 @@ export const projectConfig = [
         description: "Creating a library for option pricing and greeks calculation using Black-Scholes model. Can be used for building option trading strategies.",
         target: "_blank",
     },
-    {
-        id: "project-6-disaster",
-        title: "NLP With Disaster Tweets",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Portfolio/tree/main/projects/Disaster_Tweets", icon: AiFillGithub },
-        ],
-        image: NLPDisasterTweets,
-        description: "Implementing Google's DeepDream algorithm using PyTorch.",
-        target: "_blank",
-    },
+
     {
         id: "project-5",
         title: "DeepDream",
@@ -301,17 +279,7 @@ export const projectConfig = [
         description: "Implementing Google's DeepDream algorithm using PyTorch.",
         target: "_blank",
     },
-    {
-        id: "project-4",
-        title: "Contrails Identification",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Identify_Contrails", icon: AiFillGithub },
-            { name: "fork", url: "https://github.com/Hari31416/Identify_Contrails/fork", icon: BiGitRepoForked },
-        ],
-        image: Contrails_Identification,
-        description: "Training ML models to identify contrails in satellite images using image segmentation.",
-        target: "_blank",
-    },
+
     {
         id: "project-3",
         title: "Hangman",
@@ -324,36 +292,7 @@ export const projectConfig = [
         description: "Developing an advanced Hangman solver algorithm using ngram models with NLTK.",
         target: "_blank",
     },
-    {
-        id: "project-2",
-        title: "Digit Recognizer",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Portfolio/tree/main/projects/MNIST_Digits", icon: AiFillGithub },
-        ],
-        image: DigitRecognizer,
-        description: "Training a CNN model to recognize handwritten digits.",
-        target: "_blank",
-    },
-    {
-        id: "project-1",
-        title: "House Prices Prediction",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Portfolio/tree/main/projects/Housing_Price", icon: AiFillGithub },
-        ],
-        image: HousePrices,
-        description: "Predicting house prices using regression models.",
-        target: "_blank",
-    },
-    {
-        id: "project-0",
-        title: "TensorFlow Speech Recognition Challenge",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Portfolio/tree/main/projects/TensorFlow_Speech_Recognition", icon: AiFillGithub },
-        ],
-        image: SpeechRecognition,
-        description: "Training a nueral networks to recognize spoken words.",
-        target: "_blank",
-    },
+
 ];
 
 export const footerConfig = {
