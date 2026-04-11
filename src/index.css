@@ -67,3 +67,30 @@
       @apply bg-background text-foreground;
     }
 }
+
+/* ── Theme resets: allow each theme to control its own palette ── */
+.t1,
+.t1 *,
+.t2,
+.t2 *,
+.t3,
+.t3 *,
+.t4,
+.t4 *,
+.t5,
+.t5 *,
+.selector-root,
+.selector-root * {
+  box-sizing: border-box;
+}
+
+/* Strip Tailwind's dark body colour from themed pages */
+body:has(.t1),
+body:has(.t2),
+body:has(.t3),
+body:has(.t4),
+body:has(.t5),
+body:has(.selector-root) {
+  background: unset !important;
+  color: unset !important;
+}
