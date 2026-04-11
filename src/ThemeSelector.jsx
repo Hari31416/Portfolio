@@ -38,6 +38,13 @@ const themes = [
     colors: ['#1C1C1E', '#D4A853', '#8A9B8F', '#F0EDE6'],
     mood: 'Dramatic · Moody · Cinematic',
   },
+  {
+    id: 6,
+    name: "The Bibliophile's Archive",
+    description: 'Scholarly Dark Academia aesthetic — mahogany leathers, aged parchment, and projects styled as vintage library catalog cards.',
+    colors: ['#2A1B12', '#F4EBD0', '#121212', '#7B1818'],
+    mood: 'Scholarly · Tactile · Vintage',
+  },
 ];
 
 export default function ThemeSelector() {

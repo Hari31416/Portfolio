@@ -6,6 +6,7 @@ import Theme2 from './themes/Theme2';
 import Theme3 from './themes/Theme3';
 import Theme4 from './themes/Theme4';
 import Theme5 from './themes/Theme5';
+import Theme6 from './themes/Theme6';
 
 function App() {
   return (
@@ -17,8 +18,10 @@ function App() {
         <Route path="/3/*" element={<Theme3 />} />
         <Route path="/4/*" element={<Theme4 />} />
         <Route path="/5/*" element={<Theme5 />} />
+        <Route path="/6/*" element={<Theme6 />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
+
     </BrowserRouter>
   );
 }
