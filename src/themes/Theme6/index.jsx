@@ -196,7 +196,7 @@ export default function Theme6() {
             );
           })}
         </div>
-        <div className="t6-footer-copy">© AD MMXXV • Harikesh Kushwaha • The Bibliophile's Archive</div>
+        <div className="t6-footer-copy">© AD MMXXV • Harikesh Kushwaha</div>
       </footer>
     </div>
   );
