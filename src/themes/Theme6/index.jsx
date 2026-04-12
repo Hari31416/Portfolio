@@ -2,6 +2,8 @@ import React, { useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { homeConfig, skillsConfig, projectConfig, footerConfig } from '../../data/portfolio.jsx';
 import './theme6.css';
+import parchmentImg from '../../assets/theme6/parchment.png';
+import catalogCardImg from '../../assets/theme6/catalog-card.png';
 
 const deweyMap = {
   'Python': '005.13',
@@ -50,7 +52,7 @@ export default function Theme6() {
           H
           <div className="t6-wax-seal-inner" />
         </div>
-        <div className="t6-manuscript">
+        <div className="t6-manuscript" style={{ backgroundImage: `url(${parchmentImg})` }}>
           <span className="t6-prologue-label">The Prologue</span>
           <h1 className="t6-hero-name">Harikesh Kushwaha</h1>
           <div className="t6-hero-subtitle">
@@ -73,8 +75,12 @@ export default function Theme6() {
           <h2 className="t6-volume-title">The Curriculum</h2>
         </div>
         <div className="t6-ledger">
-          {homeConfig.workTimeline.map((job) => (
-            <div key={job.id} className="t6-ledger-entry">
+          {homeConfig.workTimeline.map((job, index) => (
+            <div
+              key={index}
+              className="t6-ledger-entry"
+              style={{ backgroundImage: `url(${parchmentImg})`, backgroundSize: 'cover' }}
+            >
               <div className="t6-ledger-meta">
                 <span className="t6-ledger-date">[{job.date}]</span>
                 <div className="t6-ledger-company">{job.company}</div>
@@ -101,7 +107,11 @@ export default function Theme6() {
         </div>
         <div className="t6-catalog">
           {projectConfig.map((proj, i) => (
-            <div key={proj.id} className="t6-catalog-card">
+            <div
+              key={i}
+              className="t6-catalog-card"
+              style={{ backgroundImage: `url(${catalogCardImg})`, backgroundSize: 'cover' }}
+            >
               <span className="t6-catalog-callnum">REF: {300 + i}.{proj.id.slice(-2)}</span>
               <h3 className="t6-catalog-title">{proj.title}</h3>
               <p className="t6-catalog-desc">{proj.description}</p>
@@ -141,7 +151,11 @@ export default function Theme6() {
               {skillsConfig.mainSkills.map((skill) => {
                 const Icon = skill.icon;
                 return (
-                  <div key={skill.id} className="t6-lexicon-item">
+                  <div
+                    key={skill.id}
+                    className="t6-lexicon-item"
+                    style={{ backgroundImage: `url(${parchmentImg})`, backgroundSize: 'cover' }}
+                  >
                     <span className="t6-lexicon-icon"><Icon /></span>
                     <span className="t6-lexicon-name">{skill.text}</span>
                     <span className="t6-lexicon-id">{deweyMap[skill.text] || '000.00'}</span>
@@ -156,7 +170,11 @@ export default function Theme6() {
               {skillsConfig.complementarySkills.map((skill) => {
                 const Icon = skill.icon;
                 return (
-                  <div key={skill.id} className="t6-lexicon-item">
+                  <div
+                    key={skill.id}
+                    className="t6-lexicon-item"
+                    style={{ backgroundImage: `url(${parchmentImg})`, backgroundSize: 'cover' }}
+                  >
                     <span className="t6-lexicon-icon"><Icon /></span>
                     <span className="t6-lexicon-name">{skill.text}</span>
                     <span className="t6-lexicon-id">{deweyMap[skill.text] || '000.00'}</span>
@@ -170,7 +188,6 @@ export default function Theme6() {
 
       {/* FOOTER */}
       <footer className="t6-footer">
-        <div className="t6-footer-logo">H.K.</div>
         <div className="t6-footer-icons">
           {footerConfig.icons.map((item) => {
             const Icon = item.icon;
