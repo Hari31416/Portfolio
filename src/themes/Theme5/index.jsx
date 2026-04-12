@@ -33,7 +33,7 @@ export default function Theme5() {
         <p className="t5-hero-desc">{homeConfig.about.start}</p>
         <div className="t5-hero-btns">
           <a href="#" onClick={() => scroll(projRef)} className="t5-btn-primary">View the Work</a>
-          <a href="mailto:harikesh.kushwaha31416@gmail.com" className="t5-btn-secondary">Make Contact</a>
+          <a href="mailto:harikeshkumar0926@gmail.com" className="t5-btn-secondary">Make Contact</a>
         </div>
       </section>
 
