@@ -1,5 +1,4 @@
 import React, { useRef } from 'react';
-import { Link } from 'react-router-dom';
 import { homeConfig, skillsConfig, projectConfig, footerConfig } from '../../data/portfolio.jsx';
 import './theme6.css';
 import parchmentImg from '../../assets/theme6/parchment.png';
@@ -43,7 +42,6 @@ export default function Theme6() {
           <li><a href="#" onClick={() => scroll(projRef)}>Vol II</a></li>
           <li><a href="#" onClick={() => scroll(skillsRef)}>Vol III</a></li>
         </ul>
-        <Link to="/" className="t6-back">← [EXIT ARCHIVE]</Link>
       </nav>
 
       {/* HERO: The Prologue */}
