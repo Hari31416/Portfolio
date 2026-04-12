@@ -1,5 +1,4 @@
 import React, { useRef } from 'react';
-import { Link } from 'react-router-dom';
 import { homeConfig, skillsConfig, projectConfig, footerConfig } from '../../data/portfolio.jsx';
 import './theme5.css';
 
@@ -20,7 +19,6 @@ export default function Theme5() {
           <li><a href="#" onClick={() => scroll(projRef)}>Chapter II</a></li>
           <li><a href="#" onClick={() => scroll(skillsRef)}>Chapter III</a></li>
         </ul>
-        <Link to="/" className="t5-back">← All Themes</Link>
       </nav>
 
       {/* HERO */}
