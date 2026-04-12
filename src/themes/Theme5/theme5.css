@@ -278,7 +278,7 @@
 
 .t5-exp-card {
   display: grid;
-  grid-template-columns: 200px 1fr;
+  grid-template-columns: 260px 1fr;
   gap: 0;
   background: rgba(255,255,255,0.02);
   border: 1px solid rgba(212,168,83,0.12);
@@ -310,11 +310,13 @@
 
 .t5-exp-company {
   font-family: 'Cinzel', serif;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: var(--text);
-  letter-spacing: 0.08em;
+  letter-spacing: 0.05em;
   line-height: 1.2;
+  overflow-wrap: break-word;
+  width: 100%;
 }
 
 .t5-exp-right {
