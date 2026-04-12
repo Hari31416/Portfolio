@@ -595,18 +595,51 @@
 
   .t6-ledger-entry {
     grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-
-  .t6-ledger-entry::before {
-    display: none;
+    gap: 1.5rem;
+    padding: 2rem;
   }
 
   .t6-lexicon {
     grid-template-columns: 1fr;
+    gap: 2rem;
   }
 
   .t6-catalog {
     grid-template-columns: 1fr;
+    justify-items: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .t6-nav-links {
+    display: none;
+  }
+  
+  .t6-hero {
+    padding: 4rem 1rem;
+  }
+  
+  .t6-manuscript {
+    padding: 3rem 1rem;
+    margin-top: 2rem;
+  }
+
+  .t6-hero-name {
+    font-size: 2.2rem;
+  }
+  
+  .t6-lexicon-item {
+    padding: 1rem;
+    gap: 1rem;
+  }
+  
+  .t6-lexicon-name {
+    font-size: 0.9rem;
+  }
+  
+  .t6-catalog-card {
+    padding: 1.5rem;
+    aspect-ratio: auto;
+    min-height: 300px;
   }
 }
