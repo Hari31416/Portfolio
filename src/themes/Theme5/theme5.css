@@ -556,4 +556,13 @@
 @media (max-width: 600px) {
   .t5-proj-grid { grid-template-columns: 1fr; }
   .t5-nav-links { display: none; }
+  
+  /* Improve contrast for mobile */
+  .t5 {
+    --muted: rgba(240,237,230,0.65); /* Boosted from 0.45 */
+  }
+  
+  .t5::before {
+    background: radial-gradient(ellipse at center, transparent 60%, rgba(0,0,0,0.4) 100%); /* Softer vignette */
+  }
 }
