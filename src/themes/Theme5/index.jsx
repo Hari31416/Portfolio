@@ -27,7 +27,7 @@ export default function Theme5() {
         <div className="t5-hero-rule" />
         <h1 className="t5-hero-name">Harikesh<br />Kushwaha</h1>
         <div className="t5-hero-subtitle">
-          {homeConfig.titles[0]} · {homeConfig.titles[1]}
+          AI Engineer
         </div>
         <div className="t5-hero-rule-bottom" />
         <p className="t5-hero-desc">{homeConfig.about.start}</p>

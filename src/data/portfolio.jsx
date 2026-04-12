@@ -31,9 +31,7 @@ import Vault from "../assets/images/vault.png";
 export const homeConfig = {
   greeting: "Hello There! I'm Harikesh Kushwaha",
   titles: [
-    "A Data Scientist",
     "An AI Engineer",
-    "A Machine Learning Specialist",
   ],
   about: {
     start:
