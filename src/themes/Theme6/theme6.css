@@ -545,7 +545,7 @@
 /* ── Footer ── */
 .t6-footer {
   background: var(--mahogany);
-  padding: 6rem 4rem;
+  padding: 3rem 4rem;
   text-align: center;
   border-top: 2px solid var(--gold);
   position: relative;
@@ -563,7 +563,7 @@
   display: flex;
   gap: 2rem;
   justify-content: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .t6-footer-icon {
