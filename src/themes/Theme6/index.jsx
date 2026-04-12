@@ -61,7 +61,7 @@ export default function Theme6() {
           </p>
           <div className="t6-hero-btns">
             <a href="#" onClick={() => scroll(projRef)} className="t6-btn-ink">Read Archive</a>
-            <a href="mailto:harikesh.kushwaha31416@gmail.com" className="t6-btn-quill">Request Letter</a>
+            <a href="mailto:harikeshkumar0926@gmail.com" className="t6-btn-quill">Request Letter</a>
           </div>
         </div>
       </section>
