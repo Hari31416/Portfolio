@@ -12,7 +12,7 @@ export default function Theme5() {
     <div className="t5">
       {/* NAV */}
       <nav className="t5-nav">
-        <span className="t5-nav-logo">H · K</span>
+        <span className="t5-nav-logo"></span>
         <ul className="t5-nav-links">
           <li><a href="#" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>Prologue</a></li>
           <li><a href="#" onClick={() => scroll(expRef)}>Chapter I</a></li>
@@ -23,7 +23,7 @@ export default function Theme5() {
 
       {/* HERO */}
       <section className="t5-hero">
-        <div className="t5-hero-chapter">Prologue · A Portfolio in Five Acts</div>
+        <div className="t5-hero-chapter">Prologue</div>
         <div className="t5-hero-rule" />
         <h1 className="t5-hero-name">Harikesh<br />Kushwaha</h1>
         <div className="t5-hero-subtitle">
