@@ -498,19 +498,19 @@
 
 .t5-footer-name {
   font-family: 'Cinzel', serif;
-  font-size: clamp(1.2rem, 3vw, 2.5rem);
-  font-weight: 900;
-  letter-spacing: 0.15em;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   color: var(--paper);
   margin-bottom: 0.5rem;
 }
 
 .t5-footer-tagline {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 1.1rem;
+  font-size: 0.85rem;
   font-style: italic;
   color: var(--gold);
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .t5-footer-icons {
