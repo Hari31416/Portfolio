@@ -1,7 +1,8 @@
 import {
     SiPython, SiDocker, SiJavascript, SiApacheairflow, SiMongodb,
     SiPytorch, SiTensorflow, SiSelenium, SiGithub,
-    SiHuggingface, SiFastapi, SiLangchain, SiRedis
+    SiHuggingface, SiFastapi, SiLangchain, SiRedis,
+    SiTypescript, SiReact, SiPostgresql, SiTailwindcss
 } from "react-icons/si";
 import { FaGitAlt, FaAws, FaLinkedinIn, FaKaggle, FaGoodreadsG } from "react-icons/fa";
 import { AiFillGithub, AiFillEye } from "react-icons/ai";
@@ -11,9 +12,7 @@ import { Bot, CreditCard, LineChart, Terminal, Database, Cloud } from "lucide-re
 
 import TorchLight from "../assets/images/torchlight.png";
 import transformer from "../assets/images/transformer.png";
-
 import ReVision from "../assets/images/revision.webp";
-import NNet from "../assets/images/nnet.png";
 import RagOptimize from "../assets/images/ragoptimize.png";
 import CelestialClassify from "../assets/images/celestialclassify.png";
 import BookRecommender from "../assets/images/book_recommender.webp";
@@ -21,12 +20,16 @@ import pystock from "../assets/images/pystock.png";
 import optionalyzer from "../assets/images/optionalyzer.png";
 import DeepDream from "../assets/images/deepdream.jpg";
 import LightingProduct from "../assets/images/lightingproduct.jpg";
-
 import Hangman from "../assets/images/hangman.png";
-
 import VidScribe from "../assets/images/vidscribe.png";
-import MultimodalChatbot from "../assets/images/chatbot.png";
-import Vault from "../assets/images/vault.png";
+import FormFoundry from "../assets/images/formfoundry.png";
+import md2pdf from "../assets/images/md2pdf.png";
+import sandbox from "../assets/images/sandbox.png";
+import deepagents from "../assets/images/deepagents.png";
+import advanced_rag from "../assets/images/advanced_rag.png";
+import chatbot_aws from "../assets/images/chatbot_aws.png";
+import chatbot_azure from "../assets/images/chatbot_azure.png";
+import local_voice_chat from "../assets/images/local_voice_chat.png";
 
 export const homeConfig = {
   greeting: "Hello There! I'm Harikesh Kushwaha",
@@ -94,6 +97,8 @@ export const homeConfig = {
 export const skillsConfig = {
   mainSkills: [
     { id: "skills-0", icon: SiPython, text: "Python" },
+    { id: "skills-ts", icon: SiTypescript, text: "TypeScript" },
+    { id: "skills-react", icon: SiReact, text: "React" },
     { id: "skills-1", icon: SiFastapi, text: "FastAPI" },
     { id: "skills-2", icon: SiLangchain, text: "LangChain" },
     { id: "skills-4", icon: SiPytorch, text: "PyTorch" },
@@ -101,14 +106,15 @@ export const skillsConfig = {
     { id: "skills-13", icon: SiDocker, text: "Docker" },
   ],
   complementarySkills: [
-    { id: "skills-5", icon: FaGitAlt, text: "Git" },
+    { id: "skills-postgres", icon: SiPostgresql, text: "PostgreSQL" },
+    { id: "skills-tailwind", icon: SiTailwindcss, text: "Tailwind CSS" },
+    { id: "skills-20", icon: SiRedis, text: "Redis" },
     { id: "skills-7", icon: SiTensorflow, text: "TensorFlow" },
-      { id: "skills-20", icon: SiRedis, text: "Redis" },
+    { id: "skills-5", icon: FaGitAlt, text: "Git" },
     { id: "skills-8", icon: SiGithub, text: "GitHub" },
     { id: "skills-10", icon: Terminal, text: "Bash" },
     { id: "skills-11", icon: SiMongodb, text: "MongoDB" },
     { id: "skills-12", icon: SiApacheairflow, text: "Airflow" },
-    { id: "skills-14", icon: SiJavascript, text: "JavaScript" },
     { id: "skills-15", icon: SiSelenium, text: "Selenium" },
     { id: "skills-16", icon: Database, text: "MSSQL" },
     { id: "skills-18", icon: Cloud, text: "Azure" },
@@ -118,6 +124,94 @@ export const skillsConfig = {
 
 export const projectConfig = [
     {
+        id: "project-sandbox",
+        title: "sandbox",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/sandbox", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/sandbox/fork", icon: BiGitRepoForked },
+        ],
+        image: sandbox,
+        description: "A standalone compute-plane service for isolated code execution. Features session lifecycle management, command runs, workspace files, artifact exports, and microVM snapshots.",
+        target: "_blank",
+    },
+    {
+        id: "project-deepagents-microsandbox",
+        title: "deepagents-microsandbox",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/deepagents-microsandbox", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/deepagents-microsandbox/fork", icon: BiGitRepoForked },
+        ],
+        image: deepagents,
+        description: "An advanced agentic data analysis platform combining LLM reasoning with isolated code execution in microVMs to transform data, generate charts, and produce reports.",
+        target: "_blank",
+    },
+    {
+        id: "project-formfoundry",
+        title: "FormFoundry",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/FormFoundry", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/FormFoundry/fork", icon: BiGitRepoForked },
+        ],
+        image: FormFoundry,
+        description: "An enterprise-grade multilingual form-filling and AI data-extraction platform. Supports Bhashini & Sarvam voice APIs, dynamic PDF compilations, PostgreSQL, Redis, and Qdrant.",
+        target: "_blank",
+    },
+    {
+        id: "project-advanced-rag",
+        title: "Advanced RAG",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/advanced-rag", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/advanced-rag/fork", icon: BiGitRepoForked },
+        ],
+        image: advanced_rag,
+        description: "An enterprise-grade RAG platform featuring multi-hop reasoning, hybrid search with reciprocal rank fusion (RRF), and a real-time visual pipeline debugger.",
+        target: "_blank",
+    },
+    {
+        id: "project-chatbot-aws",
+        title: "Chatbot AWS",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/chatbot-aws", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/chatbot-aws/fork", icon: BiGitRepoForked },
+        ],
+        image: chatbot_aws,
+        description: "A production-grade serverless RAG chatbot on AWS. Features real-time streaming, async document ingestion, Cognito authentication, and AWS SAM single-step deployment.",
+        target: "_blank",
+    },
+    {
+        id: "project-chatbot-azure",
+        title: "Chatbot Azure",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/chatbot-azure", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/chatbot-azure/fork", icon: BiGitRepoForked },
+        ],
+        image: chatbot_azure,
+        description: "A secure, fully serverless AI Chatbot and RAG platform deployed natively on Azure with real-time response streaming and async document ingestion.",
+        target: "_blank",
+    },
+    {
+        id: "project-local-voice-chat",
+        title: "Local Voice Chat",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/local-voice-chat", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/local-voice-chat/fork", icon: BiGitRepoForked },
+        ],
+        image: local_voice_chat,
+        description: "A browser-native voice AI workbench in TypeScript. Supports conversational chat, local TTS, and local STT using multiple providers and edge-run models.",
+        target: "_blank",
+    },
+    {
+        id: "project-md2pdf",
+        title: "md2pdf",
+        links: [
+            { name: "repo", url: "https://github.com/Hari31416/md2pdf", icon: AiFillGithub },
+            { name: "fork", url: "https://github.com/Hari31416/md2pdf/fork", icon: BiGitRepoForked },
+        ],
+        image: md2pdf,
+        description: "A lightweight, pure-Python Markdown-to-PDF compiler with zero external binary dependencies, published on PyPI.",
+        target: "_blank",
+    },
+    {
         id: "project-vidscribe",
         title: "VidScribe",
         links: [
@@ -126,17 +220,6 @@ export const projectConfig = [
         ],
         image: VidScribe,
         description: "VidScribe is an AI-powered tool that turns videos into structured, markdown-style notes with optional images extracted from the video.",
-        target: "_blank",
-    },
-    {
-        id: "project-multimodal",
-        title: "Multimodal Chatbot",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/multimodal-chatbot", icon: AiFillGithub },
-            { name: "fork", url: "https://github.com/Hari31416/multimodal-chatbot/fork", icon: BiGitRepoForked },
-        ],
-        image: MultimodalChatbot,
-        description: "A full-stack multimodal AI chatbot supporting text-based chat with LLMs, vision chat with user-provided images, and Python data analysis on uploaded CSVs.",
         target: "_blank",
     },
     {
@@ -184,17 +267,6 @@ export const projectConfig = [
         target: "_blank",
     },
     {
-        id: "project-vault",
-        title: "Vault",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/Vault", icon: AiFillGithub },
-            { name: "fork", url: "https://github.com/Hari31416/Vault/fork", icon: BiGitRepoForked },
-        ],
-        image: Vault,
-        description: "A MERN Stack Multi-Tool Application featuring secure authentication, role-based access control, and modular mini-apps like ConnectVault and TasteVault.",
-        target: "_blank",
-    },
-    {
         id: "project-13",
         title: "CelestialClassify",
         links: [
@@ -225,17 +297,6 @@ export const projectConfig = [
         ],
         image: pystock,
         description: "Creating a library for portfolio optimization using models like CAPM, SIM, FF3, and FF5",
-        target: "_blank",
-    },
-    {
-        id: "project-19",
-        title: "NNet",
-        links: [
-            { name: "repo", url: "https://github.com/Hari31416/NNet", icon: AiFillGithub },
-            { name: "fork", url: "https://github.com/Hari31416/NNet/fork", icon: BiGitRepoForked },
-        ],
-        image: NNet,
-        description: "A module for constructing and optimizing an arbitrary neural network architecture using Python and NumPy, with backpropagation and gradient descent.",
         target: "_blank",
     },
     {
